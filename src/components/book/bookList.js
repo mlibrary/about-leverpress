@@ -17,7 +17,13 @@ export const bookQuery = graphql`
             description
             readLink
             buyLink
-            cover
+            cover {
+          	  childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

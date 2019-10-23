@@ -1,4 +1,5 @@
 import React from "react"
+import Img from "gatsby-image"
 
 const Book = ({book}) => {
   const {
@@ -12,7 +13,7 @@ const Book = ({book}) => {
 
   return (
     <article>
-      <img src={cover} alt={`cover of ${title}`} />
+      <Img fluid={cover.childImageSharp.fluid} alt={`cover of ${title}`} />
       <h3>{title}</h3>
       <h4>{author}</h4>
       <p>{description}</p>
