@@ -35,7 +35,7 @@ collections:
       - { name: templateKey, label: "Template Key", widget: hidden, default: book }
       - { name: title, label: Title }
       - { name: authorLastname, label: "Primary Author Last Name" }
-      - { name: author, label: "Author(s)", widget: datetime }
+      - { name: author, label: "Author(s)" }
       - { name: cover, label: Cover, widget: image }
       - { name: description, label: Description }
       - { name: orderOnPage, label: "Order on Front Page" }
