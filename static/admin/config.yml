@@ -30,7 +30,7 @@ collections:
     label: Books
     folder: src/content/books
     create: true
-    slug: "books/{{authorLastname}-{{title}}"
+    slug: "books/{{authorLastname}}-{{title}}"
     fields:
       - { name: templateKey, label: "Template Key", widget: hidden, default: book }
       - { name: title, label: Title }
@@ -38,7 +38,7 @@ collections:
       - { name: author, label: "Author(s)" }
       - { name: cover, label: Cover, widget: image }
       - { name: description, label: Description }
-      - { name: orderOnPage, label: "Order on Front Page" }
+      - { name: orderOnPage, label: "Order on Front Page", widget: number }
       - { name: readLink, label: "Read Link" }
       - { name: buyLink, label: "Buy Link" }
   - name: pages

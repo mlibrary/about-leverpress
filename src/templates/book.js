@@ -1,7 +1,6 @@
 import React from 'react'
-import Layout from '../components/layout'
 
-export Book = () => {
+const Book = () => {
   return (
     <div>
     a book
