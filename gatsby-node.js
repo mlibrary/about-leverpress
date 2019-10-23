@@ -28,7 +28,14 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
 
-  results.data.allMarkdownRemark.edges.forEach(edge => {
+  // filter out books, we don't make pages for those
+  pages = results.data.allMarkdownRemark.edges.filter(edge => {
+    if (edge.node.frontmatter.templateKey === "book") {
+      return false
+    }
+  })
+
+  pages.forEach(edge => {
     const pathName = edge.node.frontmatter.path || edge.node.fields.slug;
     const component = path.resolve(`src/templates/${String(edge.node.frontmatter.templateKey)}.js`);
     const id = edge.node.id
