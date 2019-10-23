@@ -1,8 +1,7 @@
 ---
 templateKey: about-page
-path: "/about"
-title: "The About Page"
-
+title: The About Page
 ---
-
 # about things
+
+stuff
