@@ -5,7 +5,7 @@ import Img from "gatsby-image"
 
 const News = ({data}) => {
   console.log(data)
-  const { html } = data.markdownRemark.html
+  const { html } = data.markdownRemark
   const { title, date, image } = data.markdownRemark.frontmatter
 
 
