@@ -33,6 +33,7 @@ export const bookQuery = graphql`
 
 const BookList = () => {
   const data = useStaticQuery(bookQuery)
+  console.log(data)
 
   return (
     <section>
