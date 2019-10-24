@@ -37,11 +37,11 @@ const BookList = () => {
   return (
     <section>
       <h2>Books</h2>
-      <div class="row">
+      <div className="row">
         {
           data.allMarkdownRemark.edges.map(({node}) => {
             return (
-              <div class="col-3">
+              <div className="col-3">
                 <BookCard key={node.id} book={node.frontmatter} />
               </div>
             )
