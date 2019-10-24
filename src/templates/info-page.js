@@ -15,14 +15,14 @@ const Info = ({data}) => {
 }
 
 export const query = graphql`
-query infoPage($id: String!) {
-	markdownRemark(id: {eq: $id}) {
-    html
-    frontmatter{
-      title
+  query infoPage($id: String!) {
+  	markdownRemark(id: {eq: $id}) {
+      html
+      frontmatter{
+        title
+      }
     }
   }
-}
 `
 
 export default Info

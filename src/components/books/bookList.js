@@ -1,6 +1,6 @@
 import React from "react"
 import {useStaticQuery, graphql} from "gatsby"
-import Book from "./book"
+import BookCard from "./bookCard"
 
 export const bookQuery = graphql`
   query {
@@ -42,7 +42,7 @@ const BookList = () => {
           data.allMarkdownRemark.edges.map(({node}) => {
             return (
               <div class="col-3">
-                <Book book={node.frontmatter} />
+                <BookCard key={node.id} book={node.frontmatter} />
               </div>
             )
           })

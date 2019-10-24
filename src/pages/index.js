@@ -3,7 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Title from "../components/title"
-import BookList from "../components/book/bookList"
+import BookList from "../components/books/bookList"
 
 const IndexPage = () => (
   <Layout>

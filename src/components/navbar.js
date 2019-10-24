@@ -21,7 +21,6 @@ const Navbar = () => {
     setNav(isOpen => !isOpen)
   }
   const data = useStaticQuery(getLogo)
-console.log(data)
 
   return (
     <nav className="navbar navbar-expand-sm bg-light navbar-light">

@@ -36,7 +36,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       return edge
     }
   })
-console.log(pages)
+
   pages.forEach(edge => {
     const pathName = edge.node.frontmatter.path || edge.node.fields.slug;
     const component = path.resolve(`src/templates/${String(edge.node.frontmatter.templateKey)}.js`);

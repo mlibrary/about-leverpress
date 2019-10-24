@@ -1,11 +1,11 @@
 import React from 'react'
 import Layout from '../components/layout'
 
-export Event = () => {
+const Event = () => {
   return (
-    <div>
+    <Layout>
 
-    </div>
+    </Layout>
   )
 }
 
