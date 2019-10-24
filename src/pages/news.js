@@ -22,6 +22,9 @@ export const query = graphql`
   ) {
     edges {
       node {
+        fields{
+          slug
+        }
         html
         frontmatter {
           title

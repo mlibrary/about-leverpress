@@ -1,16 +1,18 @@
 import React from "react"
 import Img from "gatsby-image"
+import {Link} from "gatsby"
 
 const News = (props) => {
-  console.log(props.singleNews)
   const {title, date, image} = props.singleNews.frontmatter
-  const html = props.singleNews.html
+  const slug = props.singleNews.fields.slug
+
   return (
-    <article>
+    <article className="terrible-card-container">
       <h4>{title}</h4>
-      <Img fluid={image.childImageSharp.fluid} />
       <h6>{date}</h6>
-      <p dangerouslySetInnerHTML={{ __html: html }} />
+      <Link to={slug}>
+        <Img fluid={image.childImageSharp.fluid} />
+      </Link>
     </article>
   )
 }

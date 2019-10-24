@@ -2,7 +2,6 @@ import React from "react"
 import NewsCard from "./newsCard"
 
 const NewsList = (props) => {
-  console.log(props)
   return (
     <section>
     {
