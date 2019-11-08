@@ -11,6 +11,7 @@ export const bookQuery = graphql`
     ) {
       edges {
         node {
+          id
           frontmatter {
             title
             author
@@ -36,19 +37,17 @@ const BookList = () => {
   console.log(data)
 
   return (
-    <section>
-      <h2>Books</h2>
-      <div className="row">
-        {
-          data.allMarkdownRemark.edges.map(({node}) => {
-            return (
-              <div className="col-3">
-                <BookCard key={node.id} book={node.frontmatter} />
-              </div>
-            )
-          })
-        }
-      </div>
+    <section className="card-deck lever-card-list">
+      {
+        data.allMarkdownRemark.edges.map(({node}) => {
+          console.log(node.id);
+          return (
+            <div>
+              <BookCard key={node.id} book={node.frontmatter} />
+            </div>
+          )
+        })
+      }
     </section>
   )
 }

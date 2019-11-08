@@ -8,7 +8,6 @@ import BookList from "../components/books/bookList"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <Title title="Home" />
     <BookList />
   </Layout>
 )

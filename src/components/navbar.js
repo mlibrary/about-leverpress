@@ -23,11 +23,9 @@ const Navbar = () => {
   const data = useStaticQuery(getLogo)
 
   return (
-    <nav className="navbar navbar-expand-sm bg-light navbar-light">
+    <nav className="navbar fixed-top navbar-expand-sm bg-light navbar-light">
       <Link to="/" className="navbar-brand">
-        <span className="terrible-img-container">
-          <Img fluid={data.logo.childImageSharp.fluid} />
-        </span>
+        <Img fluid={data.logo.childImageSharp.fluid} className="navbar-brand-logo"/>
       </Link>
       <button className="navbar-toggler" type="button" onClick={toggleNav}>
         <span className="navbar-toggler-icon" />

@@ -7,13 +7,17 @@ const News = (props) => {
   const slug = props.singleNews.fields.slug
 
   return (
-    <article className="terrible-card-container">
-      <h4>{title}</h4>
-      <h6>{date}</h6>
-      <Link to={slug}>
-        <Img fluid={image.childImageSharp.fluid} />
-      </Link>
-    </article>
+    <div className="card lever-card">
+      <div className="card-img-top lever-card-img">
+        <Link to={slug}>
+          <Img fluid={image.childImageSharp.fluid} />
+        </Link>
+      </div>
+      <div className="card-body">
+        <h5 className="card-title">{title}</h5>
+        <h5 className="card-title">{date}</h5>
+      </div>
+    </div>
   )
 }
 

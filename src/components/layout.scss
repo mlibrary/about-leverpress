@@ -1,13 +1,39 @@
-.terrible-img-container {
-  /* I don't know what I'm doing help */
-  min-width: 100px;
-  min-height: 100px;
-  position: absolute;
+.navbar-brand-logo {
+  width: 10rem;
+  height: 2.5rem;
+  vertical-align: middle;
 }
 
- /* .terrible-card-container {
-  width: 200px;
-  height: 500px;
-  padding: 10px;
-  border: black;
-} */
+.lever-card-list {
+  display: flex;
+  align-items: top;
+  margin: 1rem;
+}
+
+.lever-card {
+  min-width: 10rem;
+  max-width: 20rem;
+  // border: none;
+}
+
+.lever-card-img {
+  width: 225px;
+  margin: auto;
+}
+
+.lever-footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 575px) {
+  .lever-card-list {
+    flex-direction: column;
+  }
+  .lever-card {
+    max-width: 20rem;
+  }
+}
