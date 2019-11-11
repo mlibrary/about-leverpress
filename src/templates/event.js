@@ -7,7 +7,6 @@ const Event = ({data}) => {
   const { html } = data.markdownRemark
   const { title, date, image } = data.markdownRemark.frontmatter
 
-
   return (
     <Layout>
       <h1>{title}</h1>

@@ -1,7 +1,7 @@
 ---
 templateKey: event
 title: An Duck Event
-data: 2019-11-11T20:11:21.024Z
+date: 2019-11-11T20:11:21.024Z
 image: /assets/collection-of-cute-baby-duck.jpg
 ---
 Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Sed felis eget velit aliquet sagittis. Lacus laoreet non curabitur gravida. Eu turpis egestas pretium aenean. Orci ac auctor augue mauris augue neque. Sit amet facilisis magna etiam tempor. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Morbi tristique senectus et netus et. Mattis enim ut tellus elementum sagittis vitae. Odio tempor orci dapibus ultrices in. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Eu augue ut lectus arcu bibendum at varius vel pharetra.
