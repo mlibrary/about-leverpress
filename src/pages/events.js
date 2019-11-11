@@ -1,7 +1,7 @@
 import React from "react"
 import {graphql} from "gatsby"
 import Layout from "../components/layout"
-import EventList from "../components/news/newsList"
+import EventList from "../components/events/eventList"
 
 const Events = ({data}) => {
   const events = data.allMarkdownRemark.edges
