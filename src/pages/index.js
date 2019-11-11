@@ -8,7 +8,11 @@ import BookList from "../components/books/bookList"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <BookList />
+    <div className="index-grid">
+      <div className="books">
+        <BookList />
+      </div>
+    </div>
   </Layout>
 )
 

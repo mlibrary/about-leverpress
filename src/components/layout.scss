@@ -1,9 +1,69 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 4rem;
+}
+
 .navbar-brand-logo {
   width: 10rem;
   height: 2.5rem;
   vertical-align: middle;
 }
 
+// index
+.index-grid {
+  grid-area: main;
+  display: grid;
+  grid-template-rows: 3.5rem auto fit-content(8rem);
+  grid-template-areas: "books    books",
+                       "tagline  newsletter",
+                       "news     events",
+                       "author   library",
+                       "video    map";
+}
+
+.books-container {
+  grid-area: books;
+}
+
+.tagline-container {
+  grid-area: tagline;
+}
+
+.newsletter-container {
+  grid-area: newletter;
+}
+
+.news-container {
+  grid-area: news;
+}
+
+.events-container {
+  grid-area: events;
+}
+
+.author-area {
+  grid-area: author;
+}
+
+.library-area {
+  grid-area: library;
+}
+
+.video-area {
+  grid-area: video;
+}
+
+.map-area {
+  grid-area: map;
+}
+
+
+
+
+// card stuff
 .lever-card-list {
   display: flex;
   align-items: top;
@@ -21,6 +81,7 @@
   margin: auto;
 }
 
+// footer
 .lever-footer-links {
   list-style: none;
   margin: 0;

@@ -34,13 +34,11 @@ export const bookQuery = graphql`
 
 const BookList = () => {
   const data = useStaticQuery(bookQuery)
-  console.log(data)
 
   return (
     <section className="card-deck lever-card-list">
       {
         data.allMarkdownRemark.edges.map(({node}) => {
-          console.log(node.id);
           return (
             <div>
               <BookCard key={node.id} book={node.frontmatter} />

@@ -2,9 +2,9 @@ import React from "react"
 import Img from "gatsby-image"
 import {Link} from "gatsby"
 
-const NewsCard = (props) => {
+const EventCard = (props) => {
   const {title, date, image} = props.singleNews.frontmatter
-  const slug = props.singleNews.fields.slug
+  const slug = props.event.fields.slug
 
   return (
     <div className="card lever-card">
@@ -21,4 +21,4 @@ const NewsCard = (props) => {
   )
 }
 
-export default NewsCard
+export default EventCard

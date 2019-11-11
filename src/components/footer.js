@@ -17,7 +17,7 @@ const Footer = () => {
     const {title} = data.site.siteMetadata
 
     return (
-    <footer className="navbar fixed-bottom bg-dark">
+    <footer className="footer navbar fixed-bottom bg-dark">
       <ul className="lever-footer-links">
         <li>
           <Link to="/">
