@@ -3,7 +3,7 @@ import Img from "gatsby-image"
 import {Link} from "gatsby"
 
 const EventCard = (props) => {
-  const {title, date, image} = props.singleNews.frontmatter
+  const {title, date, image} = props.event.frontmatter
   const slug = props.event.fields.slug
 
   return (
