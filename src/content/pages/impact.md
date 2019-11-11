@@ -1,11 +1,13 @@
 ---
 templateKey: impact-page
-path: "/impact"
 title: Impact
-readershipMapDescription: >-
-  *Readership Map*
+readershipMapDescription: |-
+  _**Readership Map**_
+
   A description of the readership map.
-googleDataStudioDescription: >-
-  *Data Studio*
+googleDataStudioDescription: |-
+  _**Data Studio**_
+
   A bit about google's data studio maybe.
 ---
+
