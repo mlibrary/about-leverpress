@@ -59,6 +59,14 @@ collections:
             widget: object
             fields:
               - { name: text, label: Text, widget: markdown }
+          - name: newsletterSection
+            label: "Newsletter Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: url, label: "Newsletter URL" }
+              - { name: buttonLabel, label: "Button Label" }
       - file: "src/content/about.md"
         name: about
         label: About

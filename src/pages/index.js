@@ -5,12 +5,21 @@ import SEO from "../components/seo"
 import BookList from "../components/books/bookList"
 import {graphql} from "gatsby"
 
+import Tagline from "../components/tagline"
+import Newsletter from "../components/newsletter"
+
 export const IndexQuery = graphql`
 query {
   markdownRemark(frontmatter: { templateKey: { eq: "home-page" } }) {
-    frontmatter{
-      taglineSection{
+    frontmatter {
+      taglineSection {
         text
+      }
+      newsletterSection {
+        heading
+        description
+        url
+        buttonLabel
       }
     }
   }
@@ -18,21 +27,21 @@ query {
 `
 
 const IndexPage = ({data}) => {
+  const tagline = data.markdownRemark.frontmatter.taglineSection
+  const newsletter = data.markdownRemark.frontmatter.newsletterSection
 
   return (
     <Layout>
       <SEO title="Home" />
       <div className="index-grid">
-        <div className="books">
+        <div className="books-container">
           <BookList />
-          <div class="tagline-container">
-            <div class="tagline">
-              { data.markdownRemark.frontmatter.taglineSection.text}
-            </div>
-          </div>
-          <div class="newsletter-container">
-            newsletter
-          </div>
+        </div>
+        <div className="tagline-container">
+          <Tagline text={tagline.text} />
+        </div>
+        <div className="newsletter-container">
+          <Newsletter newsletter={newsletter} />
         </div>
       </div>
     </Layout>

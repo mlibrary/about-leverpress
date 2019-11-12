@@ -15,23 +15,17 @@ body {
 
 // index
 .index-grid {
-  grid-area: main;
-  display: grid;
-  grid-template-rows: 3.5rem auto fit-content(8rem);
-  grid-template-areas: "books    books",
-                       "tagline  newsletter",
-                       "news     events",
-                       "author   library",
-                       "video    map";
+  display: block;
 }
 
 .books-container {
-  grid-area: books;
+  display: flex;
+  background: lightskyblue;
 }
 
 .tagline-container {
-  grid-area: tagline;
-  background: pink;
+  background: indianred;
+  height: 10vh;
 
   .tagline {
     font-weight: bold;
@@ -40,32 +34,33 @@ body {
 }
 
 .newsletter-container {
-  grid-area: newletter;
+  background: lightgreen;
 }
 
 .news-container {
-  grid-area: news;
+
 }
 
 .events-container {
-  grid-area: events;
+
 }
 
 .author-area {
-  grid-area: author;
+
 }
 
 .library-area {
-  grid-area: library;
+
 }
 
 .video-area {
-  grid-area: video;
+
 }
 
 .map-area {
-  grid-area: map;
+
 }
+
 
 
 
