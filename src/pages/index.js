@@ -2,18 +2,31 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Title from "../components/title"
 import BookList from "../components/books/bookList"
+import {graphql} from "gatsby"
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <div className="index-grid">
-      <div className="books">
-        <BookList />
+export const IndexQuery = graphql`
+{
+  content: markdownRemark(frontmatter: { templateKey: { eq: "home-page" } }) {
+    frontmatter{
+      templateKey
+    }
+  }
+}
+`
+
+const IndexPage = ({data}) => {
+
+  return (
+    <Layout>
+      <SEO title="Home" />
+      <div className="index-grid">
+        <div className="books">
+          <BookList />
+        </div>
       </div>
-    </div>
-  </Layout>
-)
+    </Layout>
+  )
+}
 
 export default IndexPage

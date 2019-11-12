@@ -5,7 +5,6 @@ const Book = ({book}) => {
   const {
     title,
     author,
-    description,
     readLink,
     buyLink,
     cover
@@ -20,7 +19,6 @@ const Book = ({book}) => {
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
         <h5 className="card-title">{author}</h5>
-        {/* <p className="card-text">{description}</p> */}
         <a className="card-link" href={readLink}>Read</a>
         <a className="card-link" href={buyLink}>Buy</a>
       </div>

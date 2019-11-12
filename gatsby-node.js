@@ -27,9 +27,12 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
 
-  // filter out books, we don't make pages for those
+  // Filter out books, we don't make pages for those
+  // Also the home-page, or index.js. It just has pieces of content,
+  // not a generated page.
   pages = results.data.allMarkdownRemark.edges.filter(edge => {
-    if (edge.node.frontmatter.templateKey === "book") {
+    if (edge.node.frontmatter.templateKey === "book" ||
+        edge.node.frontmatter.templateKey === "home-page") {
       return false
     } else {
       return edge
@@ -38,7 +41,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   pages.forEach(edge => {
     const pathName = edge.node.frontmatter.path || edge.node.fields.slug;
-console.log(pathName);
     const component = path.resolve(`src/templates/${String(edge.node.frontmatter.templateKey)}.js`);
     const id = edge.node.id
     createPage({
