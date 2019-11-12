@@ -1,8 +1,8 @@
 ---
 templateKey: info-page
-path: "/info"
-title: "The Info Page"
-
+path: /info
+title: The Info Page
 ---
-
 # info of stuff
+
+update
