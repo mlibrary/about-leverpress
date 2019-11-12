@@ -13,7 +13,7 @@ collections:
     label: News
     folder: src/content/news
     create: true
-    slug: "news/{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: templateKey, label: "Template Key", widget: hidden, default: news }
       - { name: title, label: Title }
@@ -24,7 +24,7 @@ collections:
     label: Events
     folder: src/content/events
     create: true
-    slug: "events/{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: templateKey, label: "Template Key", widget: hidden, default: event }
       - { name: title, label: Title }
@@ -35,7 +35,7 @@ collections:
     label: Books
     folder: src/content/books
     create: true
-    slug: "books/{{authorLastname}}-{{title}}"
+    slug: "{{authorLastname}}-{{title}}"
     fields:
       - { name: templateKey, label: "Template Key", widget: hidden, default: book }
       - { name: title, label: Title }
@@ -49,28 +49,25 @@ collections:
   - name: pages
     label: Pages
     files:
-      - file: "src/content/pages/about.md"
+      - file: "src/content/about.md"
         name: about
         label: About
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
-          - { name: path, label: Path, widget: hidden, default: "/about" }
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/pages/info.md"
+      - file: "src/content/info.md"
         name: info
         label: Info
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: info-page }
-          - { name: path, label: Path, widget: hidden, default: "/info" }
           - { name: title, label: Info }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/pages/impact.md"
+      - file: "src/content/impact.md"
         name: impact
         label: Impact
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: impact-page }
-          - { name: path, label: Path, widget: hidden, default: "/impact" }
           - { name: title, label: Impact }
           - { name: readershipMapDescription, label: "Readership Map Description", widget: markdown }
           - { name: googleDataStudioDescription, label: "Google Data Studio Description", widget: markdown }
