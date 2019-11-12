@@ -2,6 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import Title from '../components/title'
 import {graphql} from 'gatsby'
+import ReactMarkdown from "react-markdown";
 
 const Impact = ({data}) => {
   const {
@@ -9,21 +10,26 @@ const Impact = ({data}) => {
     readershipMapDescription,
     googleDataStudioDescription
   } = data.markdownRemark.frontmatter
+
+  // When we have markdown in the frontmatter, we need to process it
+  // with ReactMarkdown (or something)
+  // When it's in the "html"/not frontmatter, we would "dangerouslySetInnerHTML"
+
   return (
     <Layout>
-    <Title title={title} />
-    <div className="readership-map">
-      <div dangerouslySetInnerHTML={{ __html: readershipMapDescription }} />
-      <div>
-        map here
+      <Title title={title} />
+      <div className="readership-map">
+        <ReactMarkdown source={readershipMapDescription} />
+        <div>
+          (map embed)
+        </div>
       </div>
-    </div>
-    <div className="google-data-studio">
-      <div dangerouslySetInnerHTML={{ __html: googleDataStudioDescription }} />
-      <div>
-        data studio here
+      <div className="google-data-studio">
+        <ReactMarkdown source={googleDataStudioDescription} />
+        <div>
+          (data studio embed)
+        </div>
       </div>
-    </div>
     </Layout>
   )
 }
