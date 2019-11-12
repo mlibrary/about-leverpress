@@ -3,12 +3,11 @@ import {graphql, useStaticQuery, Link} from 'gatsby'
 
 export const titleQuery = graphql`
 {
-    site {
-        siteMetadata {
-            title
-        }
+  site {
+    siteMetadata {
+      title
     }
-
+  }
 }
 `
 
@@ -21,7 +20,7 @@ const Footer = () => {
       <ul className="lever-footer-links">
         <li>
           <Link to="/">
-            Lever Press
+            {title}
           </Link>
         </li>
       </ul>

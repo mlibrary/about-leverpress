@@ -49,6 +49,16 @@ collections:
   - name: pages
     label: Pages
     files:
+      - file: src/content/home.md
+        name: home
+        label: Home
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
+          - name: tagline_section
+            label: "Tag Line Section"
+            widget: object
+            fields:
+              - { name: text, label: Text, widget: markdown }
       - file: "src/content/about.md"
         name: about
         label: About
