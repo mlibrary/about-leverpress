@@ -54,7 +54,7 @@ collections:
         label: Home
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
-          - name: tagline_section
+          - name: taglineSection
             label: "Tag Line Section"
             widget: object
             fields:

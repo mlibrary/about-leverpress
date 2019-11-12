@@ -1,6 +1,5 @@
 ---
 templateKey: home-page
-tagline_section:
+taglineSection:
   text: A tagline for Lever Press
 ---
-
