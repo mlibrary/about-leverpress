@@ -38,22 +38,22 @@ body {
 }
 
 .news-container {
-
+  background: mediumpurple;
 }
 
 .events-container {
-
+  background: palegoldenrod;
 }
 
-.author-area {
-
+.author-container {
+  background: hotpink;
 }
 
-.library-area {
-
+.library-container {
+  background: lightseagreen;
 }
 
-.video-area {
+.video-container {
 
 }
 
@@ -61,26 +61,33 @@ body {
 
 }
 
-
-
-
 // card stuff
-.lever-card-list {
-  display: flex;
-  align-items: top;
-  margin: 1rem;
-}
-
 .lever-card {
   min-width: 10rem;
   max-width: 20rem;
-  // border: none;
+
+  .lever-card-img {
+    width: 225px;
+    margin: auto;
+  }
 }
 
-.lever-card-img {
-  width: 225px;
-  margin: auto;
+.tiny-card {
+  min-width: 10rem;
+  max-width: 10rem;
+
+  .lever-card-img {
+    width: 100px;
+    margin: auto;
+  }
+  .card-title {
+    font-size: 1rem;
+  }
+  .card-text {
+    font-size: 0.7rem;
+  }
 }
+
 
 // footer
 .lever-footer-links {
