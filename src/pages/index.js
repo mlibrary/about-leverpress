@@ -55,7 +55,8 @@ query {
       frontmatter: { templateKey: { eq: "news" } }
     },
     sort: {
-      fields: frontmatter___date
+      fields: frontmatter___date,
+      order: DESC
     },
     limit: 4
   ) {
@@ -85,7 +86,8 @@ query {
       frontmatter: { templateKey: { eq: "event" } }
     },
     sort: {
-      fields: frontmatter___date
+      fields: frontmatter___date,
+      order: DESC
     },
     limit: 4
   ) {
