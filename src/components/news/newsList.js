@@ -1,12 +1,12 @@
 import React from "react"
 import NewsCard from "./newsCard"
 
-const NewsList = (props) => {
+const NewsList = ({news, cardStyle}) => {
   return (
     <section className="card-deck lever-card-list">
     {
-      props.news.map(({node}) => {
-        return <NewsCard key={node.id} singleNews={node} />
+      news.map(({node}) => {
+        return <NewsCard key={node.id} singleNews={node} cardStyle={cardStyle}/>
       })
     }
     </section>
