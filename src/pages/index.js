@@ -9,6 +9,7 @@ import Tagline from "../components/tagline"
 import Newsletter from "../components/newsletter"
 import NewsList from "../components/news/newsList"
 import EventList from "../components/events/eventList"
+import Video from "../components/video"
 
 export const IndexQuery = graphql`
 query {
@@ -22,6 +23,11 @@ query {
         description
         url
         buttonLabel
+      }
+      videoSection {
+        heading
+        description
+        embed
       }
     }
   }
@@ -118,6 +124,7 @@ query {
 const IndexPage = ({data}) => {
   const tagline = data.home.frontmatter.taglineSection
   const newsletter = data.home.frontmatter.newsletterSection
+  const video = data.home.frontmatter.videoSection
   const books = data.books.edges
   const news = data.news.edges
   const events = data.events.edges
@@ -148,7 +155,7 @@ const IndexPage = ({data}) => {
           library signup thing
         </div>
         <div className="video-container">
-          video
+          <Video video={video} />
         </div>
       </div>
     </Layout>

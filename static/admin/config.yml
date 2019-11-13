@@ -52,6 +52,8 @@ collections:
       - file: src/content/home.md
         name: home
         label: Home
+        editor:
+          preview: false
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
           - name: taglineSection
@@ -67,6 +69,12 @@ collections:
               - { name: description, label: Description }
               - { name: url, label: "Newsletter URL" }
               - { name: buttonLabel, label: "Button Label" }
+          - name: videoSection
+            label: "Video Section"
+            widget: object
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: embed, label: "Video Embed Code", widget: text }
       - file: "src/content/about.md"
         name: about
         label: About
