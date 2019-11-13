@@ -18,6 +18,10 @@ export const query = graphql`
   allMarkdownRemark (
     filter: {
       frontmatter: { templateKey: { eq: "news" } }
+    },
+    sort: {
+      fields: frontmatter___date,
+      order: DESC
     }
   ) {
     edges {
