@@ -15,5 +15,9 @@ videoSection:
     allow="accelerometer; autoplay; encrypted-media; gyroscope;
     picture-in-picture" allowfullscreen></iframe>
   heading: Boop (...smuuuusssshhhh)
+mapSection:
+  description: Seed Vault
+  heading: This is a map
+  mapImage: /assets/240px-norway_svalbard_location_map.svg.png
 ---
 
