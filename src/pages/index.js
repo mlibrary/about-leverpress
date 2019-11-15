@@ -145,35 +145,41 @@ const IndexPage = ({data}) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <div className="index-grid">
-        <div className="books-container">
+        <section className="row books-container card-deck lever-card-list">
           <BookList books={books} />
-        </div>
-        <div className="tagline-container">
-          <Tagline text={tagline.text} />
-        </div>
-        <div className="newsletter-container">
-          <Newsletter newsletter={newsletter} />
-        </div>
-        <div className="news-container">
-          <NewsList news={news} cardStyle="tiny-card"/>
-        </div>
-        <div className="events-container">
-          <EventList events={events} cardStyle="tiny-card"/>
-        </div>
-        <div className="author-container">
-          author signup thing
-        </div>
-        <div className="library-container">
-          library signup thing
-        </div>
-        <div className="video-container">
-          <Video video={video} />
-        </div>
-        <div className="map-container">
-          <MapImage mapImage={map} />
-        </div>
-      </div>
+        </section>
+        <section className="row">
+          <div className="tagline-container col-md-6">
+            <Tagline text={tagline.text} />
+          </div>
+          <div className="newsletter-container col-md-6">
+            <Newsletter newsletter={newsletter} />
+          </div>
+        </section>
+        <section className="row">
+          <div className="news-container col-md-9">
+            <NewsList news={news} cardStyle="tiny-card"/>
+          </div>
+          <div className="events-container col-md-3">
+            <EventList events={events} cardStyle="tiny-card"/>
+          </div>
+        </section>
+        <section className="row">
+          <div className="author-container col-md-6">
+            author signup thing
+          </div>
+          <div className="library-container col-md-6">
+            library signup thing
+          </div>
+        </section>
+        <section className="row">
+          <div className="video-container col-md-6">
+            <Video video={video} />
+          </div>
+          <div className="map-container col-md-6">
+            <MapImage mapImage={map} />
+          </div>
+        </section>
     </Layout>
   )
 }

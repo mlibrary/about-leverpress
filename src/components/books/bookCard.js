@@ -11,7 +11,7 @@ const Book = ({book}) => {
   } = book
 
   return (
-    <div className="card lever-card">
+    <div className="col-md-4 card lever-card">
       <Img fluid={cover.childImageSharp.fluid}
            alt={`cover of ${title}`}
            className="card-img-top lever-card-img"

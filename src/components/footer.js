@@ -16,14 +16,16 @@ const Footer = () => {
     const {title} = data.site.siteMetadata
 
     return (
-    <footer className="footer navbar fixed-bottom bg-dark">
-      <ul className="lever-footer-links">
-        <li>
-          <Link to="/">
-            {title}
-          </Link>
-        </li>
-      </ul>
+    <footer className="footer navbar bg-dark" role="navigation">
+      <div class="container">
+        <ul className="lever-footer-links">
+          <li>
+            <Link to="/">
+              {title}
+            </Link>
+          </li>
+        </ul>
+      </div>
     </footer>
   )
 }
