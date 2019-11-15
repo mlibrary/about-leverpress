@@ -10,6 +10,7 @@ import Newsletter from "../components/newsletter"
 import NewsList from "../components/news/newsList"
 import EventList from "../components/events/eventList"
 import Video from "../components/video"
+import MapImage from "../components/mapImage"
 
 export const IndexQuery = graphql`
 query {
@@ -28,6 +29,17 @@ query {
         heading
         description
         embed
+      }
+      mapSection {
+        heading
+        description
+        mapImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
@@ -125,6 +137,7 @@ const IndexPage = ({data}) => {
   const tagline = data.home.frontmatter.taglineSection
   const newsletter = data.home.frontmatter.newsletterSection
   const video = data.home.frontmatter.videoSection
+  const map = data.home.frontmatter.mapSection
   const books = data.books.edges
   const news = data.news.edges
   const events = data.events.edges
@@ -156,6 +169,9 @@ const IndexPage = ({data}) => {
         </div>
         <div className="video-container">
           <Video video={video} />
+        </div>
+        <div className="map-container">
+          <MapImage mapImage={map} />
         </div>
       </div>
     </Layout>
