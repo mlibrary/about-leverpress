@@ -57,8 +57,12 @@ body {
   background: darkorange;
 }
 
-.map-area {
+.map-container {
+  background: aqua;
 
+  .map-image {
+    width: 20rem;
+  }
 }
 
 // card stuff
