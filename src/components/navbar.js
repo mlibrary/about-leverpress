@@ -23,7 +23,7 @@ const Navbar = () => {
   const data = useStaticQuery(getLogo)
 
   return (
-    <nav className="navbar navbar-expand-sm bg-light navbar-light">
+    <nav className="navbar navbar-expand-sm navbar-light border-bottom border-light">
       <div class="container">
         <Link to="/" className="navbar-brand">
           <Img fluid={data.logo.childImageSharp.fluid} className="navbar-brand-logo"/>
@@ -33,11 +33,11 @@ const Navbar = () => {
         </button>
         <div className={
           isOpen
-            ? "collapse navbar-collapse show"
-            : "collapse navbar-collapse"
+            ? "collapse navbar-collapse flex-row show"
+            : "collapse navbar-collapse flex-row-reverse"
           }
         >
-          <ul className="navbar-nav mx-auto">
+          <ul className="navbar-nav float-right">
             <li className="nav-item">
               <Link to="/about" className="nav-link">
                 About

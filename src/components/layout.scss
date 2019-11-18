@@ -2,11 +2,17 @@
   box-sizing: border-box;
 }
 
-.navbar-brand-logo {
-  width: 10rem;
-  height: 2.5rem;
-  vertical-align: middle;
+.navbar-brand {
+  height: 4rem;
+
+  .navbar-brand-logo {
+    width: 10rem;
+    height: 2.5rem;
+    vertical-align: middle;
+  }
+
 }
+
 
 // index
 .index-grid {
