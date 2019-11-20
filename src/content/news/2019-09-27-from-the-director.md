@@ -17,3 +17,5 @@ Currently, I’m the chair of the Acquisitions Committee for the AUPresses and h
 I have invited Cheryl Ball to give a talk on Amherst’s campus during Open Access Week next month. I encourage you to think about how you can promote the work of Lever at your own OA Week events
 
 —Beth Bouloukos, Director of Lever Press
+
+<a href="/assets/leverpress-catalog-web.pdf">Lever Press Catalog Web</a>
