@@ -17,7 +17,7 @@ const Footer = () => {
 
     return (
     <footer className="footer navbar bg-dark" role="navigation">
-      <div class="container">
+      <div className="container">
         <ul className="lever-footer-links">
           <li>
             <Link to="/">

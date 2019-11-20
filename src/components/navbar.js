@@ -24,7 +24,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar navbar-expand-sm navbar-light border-bottom border-light">
-      <div class="container">
+      <div className="container">
         <Link to="/" className="navbar-brand">
           <Img fluid={data.logo.childImageSharp.fluid} className="navbar-brand-logo"/>
         </Link>
