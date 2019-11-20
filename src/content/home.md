@@ -1,9 +1,9 @@
 ---
 templateKey: home-page
 taglineSection:
-  text: 'Open Access, digitally native, liberal arts.'
+  text: 'Open Access, digitally native, liberal arts. Read our books!'
 newsletterSection:
-  buttonLabel: Subscribe
+  buttonLabel: Subscribe Now!
   description: A quarterly newsletter
   heading: Keep up to date with Lever
   url: 'https://google.com'
