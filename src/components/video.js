@@ -4,7 +4,9 @@ const Video = ({video}) => {
   return (
     <div>
       <h2>{video.heading}</h2>
-      <figure dangerouslySetInnerHTML={{ __html: video.embed }} />
+      <div className="video-embed">
+        <figure dangerouslySetInnerHTML={{ __html: video.embed }} />
+      </div>
       <p>{video.description}</p>
     </div>
   )
