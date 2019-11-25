@@ -23,7 +23,9 @@ const Footer = () => {
             <Link to="/" className="text-muted mb-2">{title}</Link>
             <small className="text-muted d-block">Amherst, MA</small>      
             <small className="text-muted d-block"><a href="mailto:info@leverpress.org">info@leverpress.org</a></small>      
-            <small className="text-muted d-block mb-3">© 2019</small>      
+            <small className="text-muted d-block mb-3">© 2019 <a aria-label="Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+                <img alt="Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" />
+              </a></small>      
           </div>
           <div className="col-md-3">
             <h5>Our Partners</h5>
