@@ -2,8 +2,8 @@
   box-sizing: border-box;
 }
 
-.navbar-brand {
-  height: 4rem;
+.navbar {
+  height: 6rem;
 
   .navbar-brand-logo {
     width: 10rem;
@@ -13,20 +13,34 @@
 
 }
 
-
-// index
-.index-grid {
-  display: block;
+// page
+.page-container {
+  padding: 2rem 0;
 }
+
+
+// home
 
 .books-container {
-  display: flex;
-  background: lightskyblue;
+  padding: 3rem 0;
+
+  .lever-card-list {
+    justify-content: space-evenly;
+  }
+  // card stuff
+  .lever-card {
+    max-width: 540px;
+
+    .card-img {
+      border-radius: 0;
+    }
+  }
 }
 
-.tagline-container {
-  background: indianred;
-  height: 10vh;
+.tagline-newsletter-container {
+  padding: 4rem 0;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  border-top: 1px solid rgba(0,0,0,.125);
 
   .tagline {
     font-weight: bold;
@@ -34,80 +48,21 @@
   }
 }
 
-.newsletter-container {
-  background: lightgreen;
+.author-library-container {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  border-top: 1px solid rgba(0,0,0,.125);
 }
 
-.news-container {
-  background: mediumpurple;
-}
-
-.events-container {
-  background: palegoldenrod;
-}
-
-.author-container {
-  background: hotpink;
-}
-
-.library-container {
-  background: lightseagreen;
-}
-
-.video-container {
-  background: darkorange;
-}
-
-.map-container {
-  background: aqua;
-
-  .map-image {
-    width: 20rem;
+.news-events-container, .video-impact-container {
+  padding: 3rem 0;
+  h2 {
+    margin-bottom: 1rem;
   }
 }
-
-// card stuff
-.lever-card {
-  min-width: 10rem;
-  max-width: 20rem;
-
-  .lever-card-img {
-    width: 225px;
-    margin: auto;
-  }
-}
-
-.tiny-card {
-  min-width: 10rem;
-  max-width: 10rem;
-
-  .lever-card-img {
-    width: 100px;
-    margin: auto;
-  }
-  .card-title {
-    font-size: 1rem;
-  }
-  .card-text {
-    font-size: 0.7rem;
-  }
-}
-
 
 // footer
-.lever-footer-links {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  align-items: center;
-}
-
-@media (max-width: 575px) {
-  .lever-card-list {
-    flex-direction: column;
-  }
-  .lever-card {
-    max-width: 20rem;
-  }
+.footer {
+  border-top: 1px solid rgba(0,0,0,.125);
+  padding: 3rem 0;
 }

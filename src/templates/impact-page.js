@@ -17,17 +17,19 @@ const Impact = ({data}) => {
 
   return (
     <Layout>
-      <Title title={title} />
-      <div className="readership-map">
-        <ReactMarkdown source={readershipMapDescription} />
-        <div>
-          (map embed)
+      <div className="container page-container">
+        <Title title={title} />
+        <div className="readership-map">
+          <ReactMarkdown source={readershipMapDescription} />
+          <div>
+            (map embed)
+          </div>
         </div>
-      </div>
-      <div className="google-data-studio">
-        <ReactMarkdown source={googleDataStudioDescription} />
-        <div>
-          (data studio embed)
+        <div className="google-data-studio">
+          <ReactMarkdown source={googleDataStudioDescription} />
+          <div>
+            (data studio embed)
+          </div>
         </div>
       </div>
     </Layout>

@@ -4,7 +4,7 @@ import BookCard from "./bookCard"
 const BookList = ({books}) => {
 
   return (
-    <div className="card-deck lever-card-list">
+    <div className="row lever-card-list">
       {
         books.map(({node}) => {
           return (

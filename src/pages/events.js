@@ -8,7 +8,9 @@ const Events = ({data}) => {
 
   return (
     <Layout>
-      <EventList events={events} />
+      <div className="container page-container">
+        <EventList events={events} />
+      </div>
     </Layout>
   )
 }

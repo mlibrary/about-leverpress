@@ -23,7 +23,7 @@ const Navbar = () => {
   const data = useStaticQuery(getLogo)
 
   return (
-    <nav className="navbar navbar-expand-sm navbar-light border-bottom border-light">
+    <nav className="navbar navbar-expand-sm navbar-light border-bottom">
       <div className="container">
         <Link to="/" className="navbar-brand">
           <Img fluid={data.logo.childImageSharp.fluid} className="navbar-brand-logo"/>

@@ -7,16 +7,16 @@ const EventCard = ({event, cardStyle}) => {
   const slug = event.fields.slug
 
   return (
-    <div className={`card ${cardStyle || "lever-card"}`}>
-      <div className="card-img-top lever-card-img">
-        <Link to={slug}>
+    <div className="event-card-container">
+      <Link to={slug}>
+        <li className="media my-4">
           <Img fluid={image.childImageSharp.fluid} />
-        </Link>
-      </div>
-      <div className="card-body">
-        <h5 className="card-title">{title}</h5>
-        <h5 className="card-text">{date}</h5>
-      </div>
+          <div class="media-body">
+            <h5 className="mt-0 mb-1">{title}</h5>
+            Summary of the event goes here.
+          </div>
+        </li>
+      </Link>
     </div>
   )
 }

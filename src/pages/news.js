@@ -8,7 +8,9 @@ const News = ({data}) => {
 
   return (
     <Layout>
-      <NewsList news={news} />
+      <div className="container page-container">
+        <NewsList news={news} />
+      </div>
     </Layout>
   )
 }

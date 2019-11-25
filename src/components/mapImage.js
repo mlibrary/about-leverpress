@@ -5,8 +5,10 @@ const MapImage = ({mapImage}) => {
   return (
     <div>
     <h2>{mapImage.heading}</h2>
-    <figure><Img fluid={mapImage.mapImage.childImageSharp.fluid} alt="map" className="map-image"/></figure>
-    <p>{mapImage.description}</p>
+    <a href="/impact">
+      <figure><Img fluid={mapImage.mapImage.childImageSharp.fluid} alt="map" className="map-image"/></figure>
+      <p>{mapImage.description}</p>
+    </a>
     </div>
   )
 }

@@ -8,8 +8,10 @@ const About = ({data}) => {
   const html = data.markdownRemark.html
   return (
     <Layout>
-    <Title title={title} />
-    <div dangerouslySetInnerHTML={{ __html: html }} />
+      <div className="container page-container">
+        <Title title={title} />
+        <div dangerouslySetInnerHTML={{ __html: html }} />
+      </div>
     </Layout>
   )
 }

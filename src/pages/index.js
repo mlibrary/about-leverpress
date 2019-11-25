@@ -145,39 +145,65 @@ const IndexPage = ({data}) => {
   return (
     <Layout>
       <SEO title="Home" />
-        <section className="row books-container card-deck lever-card-list">
+        <section className="books-container container">
           <BookList books={books} />
         </section>
-        <section className="row">
-          <div className="tagline-container col-md-6">
-            <Tagline text={tagline.text} />
-          </div>
-          <div className="newsletter-container col-md-6">
-            <Newsletter newsletter={newsletter} />
-          </div>
-        </section>
-        <section className="row">
-          <div className="news-container col-md-9">
-            <NewsList news={news} cardStyle="tiny-card"/>
-          </div>
-          <div className="events-container col-md-3">
-            <EventList events={events} cardStyle="tiny-card"/>
+        <section class="tagline-newsletter-container">
+          <div class="container">
+            <div class="row">
+              <div className="tagline-container col-md-9">
+                <Tagline text={tagline.text} />
+              </div>
+              <div className="newsletter-container col-md-3">
+                <Newsletter newsletter={newsletter} />
+              </div>
+            </div>
           </div>
         </section>
-        <section className="row">
-          <div className="author-container col-md-6">
-            author signup thing
-          </div>
-          <div className="library-container col-md-6">
-            library signup thing
+        <section className="news-events-container container">
+          <div className="row">
+            <div className="news-container col-md-6">
+              <NewsList news={news} />
+            </div>
+            <div className="events-container col-md-6">
+              <EventList events={events} />
+            </div>
           </div>
         </section>
-        <section className="row">
-          <div className="video-container col-md-6">
-            <Video video={video} />
+        <section className="author-library-container">
+          <div class="container">
+            <div class="row">
+              <div className="author-container col">
+                <div className="row">
+                <div className="col-md-8">
+                    <p>Interested in publishing your next book with us?</p>
+                  </div>
+                  <div className="col-md-4">
+                    <a className="btn btn-lg btn-outline-secondary" href="/info-for#author">Learn more</a>
+                  </div>
+                </div>
+              </div>
+              <div className="library-container col">
+                <div className="row">
+                  <div className="col-md-8">
+                    <p>Join over 50 liberal arts colleges and their libraries who support our Open Access mission</p>
+                  </div>
+                  <div className="col-md-4">
+                    <a className="btn btn-lg btn-outline-secondary" href="/info-for#library">Join Us</a>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
-          <div className="map-container col-md-6">
-            <MapImage mapImage={map} />
+        </section>
+        <section className="video-impact-container container">
+          <div class="row">
+            <div className="video-container col">
+              <Video video={video} />
+            </div>
+            <div className="map-container col">
+              <MapImage mapImage={map} />
+            </div>
           </div>
         </section>
     </Layout>
