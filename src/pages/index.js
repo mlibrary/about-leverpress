@@ -147,6 +147,13 @@ const IndexPage = ({data}) => {
       <SEO title="Home" />
         <section className="books-container container">
           <BookList books={books} />
+          <div className="row mt-4">
+            <div className="col-md-12">
+              <p className="text-right">
+                <a href="https://fulcrum.org/leverpress">Read more books...</a>
+              </p>
+            </div>
+          </div>
         </section>
         <section class="tagline-newsletter-container">
           <div class="container">
