@@ -14,13 +14,13 @@ const Book = ({book}) => {
   return (
     <div className="card mb-3 lever-card">
       <div className="row no-gutters">
-        <div class="col-md-4">
+        <div className="col-md-4">
           <Img fluid={cover.childImageSharp.fluid}
              alt={`cover of ${title}`}
             className="card-img"
           />
         </div>
-        <div class="col-md-8">
+        <div className="col-md-8">
           <div className="card-body">
             <h5 className="card-title">{title}</h5>
             <h6 className="card-subtitle text-muted">{author}</h6>

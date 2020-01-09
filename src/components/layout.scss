@@ -33,8 +33,13 @@
     .card-img {
       border-radius: 0;
     }
+
+    .cover-only-img {
+      min-width: 200px;
+    }
   }
 }
+
 
 .tagline-newsletter-container {
   padding: 4rem 0;
