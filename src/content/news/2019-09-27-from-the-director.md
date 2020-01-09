@@ -22,3 +22,5 @@ I have invited Cheryl Ball to give a talk on Amherst’s campus during Open Acce
 —Beth Bouloukos, Director of Lever Press
 
 <a href="/assets/leverpress-catalog-web.pdf">Lever Press Catalog Web</a>
+
+<a href="/assets/leverpress-catalog-web.pdf">Lever Press Catalog again</a>
