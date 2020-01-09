@@ -7,7 +7,7 @@ const LinkFileComponent = {
     {name: 'text', label: 'Link Text', widget: 'string'},
     {name: 'file', label: 'File', widget: 'file' }
   ],
-  pattern: /^<a href="(.*)">(.*)<\/a>$/,
+  pattern: /^<a target="_blank" rel="noopener noreferrer" href="(.*)">(.*)<\/a>$/,
   fromBlock: function(match) {
     return {
       file: match[1],
@@ -15,10 +15,10 @@ const LinkFileComponent = {
     };
   },
   toBlock: function({file, text}) {
-    return `<a href="${file}">${text}</a>`
+    return `<a target="_blank" rel="noopener noreferrer" href="${file}">${text}</a>`
   },
   toPreview: function({file, text}) {
-    return `<a href="${file}">${text}</a>`
+    return `<a target="_blank" rel="noopener noreferrer" href="${file}">${text}</a>`
   }
 }
 
