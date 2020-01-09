@@ -13,6 +13,8 @@ const BookList = ({books}) => {
               return (
                 <BookCard key={node.id} book={node.frontmatter} />
               )
+            } else {
+              return null
             }
           })
         }
@@ -24,6 +26,8 @@ const BookList = ({books}) => {
               return (
                 <BookCover key={node.id} book={node.frontmatter} />
               )
+            } else {
+              return null
             }
           })
         }
