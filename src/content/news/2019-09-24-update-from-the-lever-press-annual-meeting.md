@@ -1,6 +1,7 @@
 ---
 templateKey: news
 title: Update from the Lever Press Annual Meeting
+summary: Summary of the blog post goes here
 date: 2019-09-24T14:23:41.310Z
 image: /assets/screen-shot-2019-11-18-at-11.41.57-am.png
 ---

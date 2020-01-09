@@ -35,6 +35,7 @@ export const query = graphql`
         html
         frontmatter {
           title
+          summary
           date(formatString:"MMMM Do, YYYY")
           image{
             childImageSharp{

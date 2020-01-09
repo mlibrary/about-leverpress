@@ -1,6 +1,7 @@
 ---
 templateKey: event
 title: 'Charleston Conference, Nov 4-8'
+summary: Summary of the event goes here
 date: 2019-11-01T19:11:21.024Z
 image: /assets/clc-2019_header_small.jpg
 ---

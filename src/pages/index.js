@@ -92,6 +92,7 @@ query {
         html
         frontmatter {
           title
+          summary
           date(formatString:"MMMM Do, YYYY")
           image{
             childImageSharp{
@@ -123,6 +124,7 @@ query {
         html
         frontmatter {
           title
+          summary
           date(formatString:"MMMM Do, YYYY")
           image{
             childImageSharp{

@@ -3,7 +3,7 @@ import Img from "gatsby-image"
 import {Link} from "gatsby"
 
 const NewsCard = ({singleNews, cardStyle}) => {
-  const {title, date, image} = singleNews.frontmatter
+  const {title, summary, date, image} = singleNews.frontmatter
   const slug = singleNews.fields.slug
 
 
@@ -18,7 +18,7 @@ const NewsCard = ({singleNews, cardStyle}) => {
             <div className="col-md-8">
               <div className="card-body">
                 <h5 className="card-title">{title}</h5>
-                <p className="card-text">Summary of the blog post goes here.</p>
+                <p className="card-text">{summary}</p>
                 <p className="published"><small className="text-muted">Published {date}</small></p>
               </div>
             </div>
