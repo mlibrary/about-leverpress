@@ -46,6 +46,10 @@ query {
   books: allMarkdownRemark (
     filter: {
       frontmatter: { templateKey: { eq: "book" } }
+    },
+    sort: {
+      fields: frontmatter___orderOnPage,
+      order: ASC
     }
   ) {
     edges {
@@ -57,6 +61,7 @@ query {
           description
           readLink
           buyLink
+          orderOnPage
           cover {
             childImageSharp {
               fluid {
@@ -155,9 +160,9 @@ const IndexPage = ({data}) => {
             </div>
           </div>
         </section>
-        <section class="tagline-newsletter-container">
-          <div class="container">
-            <div class="row">
+        <section className="tagline-newsletter-container">
+          <div className="container">
+            <div className="row">
               <div className="tagline-container col-md-9">
                 <Tagline text={tagline.text} />
               </div>
@@ -178,8 +183,8 @@ const IndexPage = ({data}) => {
           </div>
         </section>
         <section className="author-library-container">
-          <div class="container">
-            <div class="row">
+          <div className="container">
+            <div className="row">
               <div className="author-container col">
                 <div className="row">
                 <div className="col-md-8">
@@ -204,7 +209,7 @@ const IndexPage = ({data}) => {
           </div>
         </section>
         <section className="video-impact-container container">
-          <div class="row">
+          <div className="row">
             <div className="video-container col">
               <Video video={video} />
             </div>

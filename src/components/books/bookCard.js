@@ -18,7 +18,7 @@ const Book = ({book}) => {
           <Img fluid={cover.childImageSharp.fluid}
              alt={`cover of ${title}`}
             className="card-img"
-          /> 
+          />
         </div>
         <div class="col-md-8">
           <div className="card-body">

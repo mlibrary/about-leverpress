@@ -11,7 +11,7 @@ const EventCard = ({event, cardStyle}) => {
       <Link to={slug}>
         <li className="media my-4">
           <Img fluid={image.childImageSharp.fluid} />
-          <div class="media-body">
+          <div className="media-body">
             <h5 className="mt-0 mb-1">{title}</h5>
             Summary of the event goes here.
           </div>

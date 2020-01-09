@@ -11,15 +11,15 @@ const NewsCard = ({singleNews, cardStyle}) => {
     <div className="blog-card-container">
       <Link to={slug}>
         <div className="card mb-3">
-          <div class="row no-gutters">
+          <div className="row no-gutters">
             <div className="col-md-4">
               <Img fluid={image.childImageSharp.fluid} />
             </div>
-            <div class="col-md-8">
+            <div className="col-md-8">
               <div className="card-body">
                 <h5 className="card-title">{title}</h5>
                 <p className="card-text">Summary of the blog post goes here.</p>
-                <p className="published"><small class="text-muted">Published {date}</small></p>
+                <p className="published"><small className="text-muted">Published {date}</small></p>
               </div>
             </div>
           </div>
