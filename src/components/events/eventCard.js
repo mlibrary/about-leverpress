@@ -3,7 +3,7 @@ import Img from "gatsby-image"
 import {Link} from "gatsby"
 
 const EventCard = ({event, cardStyle}) => {
-  const {title, date, image} = event.frontmatter
+  const {title, summary, date, image} = event.frontmatter
   const slug = event.fields.slug
 
   return (
@@ -13,7 +13,8 @@ const EventCard = ({event, cardStyle}) => {
           <Img fluid={image.childImageSharp.fluid} />
           <div className="media-body">
             <h5 className="mt-0 mb-1">{title}</h5>
-            Summary of the event goes here.
+            <p>{summary}</p>
+            <small className="text-muted">Published {date}</small>
           </div>
         </li>
       </Link>

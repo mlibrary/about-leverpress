@@ -1,6 +1,7 @@
 ---
 templateKey: news
 title: From the Director
+summary: Summary of the blog post goes here.
 date: 2019-09-27T14:29:55.200Z
 image: /assets/screen-shot-2019-11-18-at-11.46.18-am.png
 ---

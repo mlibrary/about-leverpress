@@ -26,6 +26,7 @@ query ($id: String!) {
     html
     frontmatter {
       title
+      summary
       date(formatString: "MMMM Do, YYYY")
       image {
         childImageSharp {

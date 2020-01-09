@@ -17,6 +17,7 @@ collections:
     fields:
       - { name: templateKey, label: "Template Key", widget: hidden, default: news }
       - { name: title, label: Title }
+      - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
       - { name: image, label: Image, widget: image }
       - { name: body, label: Body, widget: markdown }
@@ -28,6 +29,7 @@ collections:
     fields:
       - { name: templateKey, label: "Template Key", widget: hidden, default: event }
       - { name: title, label: Title }
+      - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
       - { name: image, label: Image, widget: image }
       - { name: body, label: Body, widget: markdown }
