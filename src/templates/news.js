@@ -14,7 +14,7 @@ const News = ({data}) => {
         <h1 className="mb-3">{title}</h1>
         <Img fluid={image.childImageSharp.fluid} />
         <h4 className="mt-4">{date}</h4>
-        <p dangerouslySetInnerHTML={{ __html: html }} />
+        <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </Layout>
   )

@@ -15,10 +15,10 @@ const LinkFileComponent = {
     };
   },
   toBlock: function({file, text}) {
-    return `<a target="_blank" rel="noopener noreferrer" href="${file}">${text}</a>`
+    return `<a href="${file}">${text}</a>`
   },
   toPreview: function({file, text}) {
-    return `<a target="_blank" rel="noopener noreferrer" href="${file}">${text}</a>`
+    return `<a href="${file}">${text}</a>`
   }
 }
 
