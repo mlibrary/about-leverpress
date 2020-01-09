@@ -12,7 +12,7 @@ const Impact = ({data}) => {
   } = data.markdownRemark.frontmatter
 
   // When we have markdown in the frontmatter, we need to process it
-  // with ReactMarkdown (or something)
+  // with ReactMarkdown (or something) or something similar.
   // When it's in the "html"/not frontmatter, we would "dangerouslySetInnerHTML"
 
   return (
