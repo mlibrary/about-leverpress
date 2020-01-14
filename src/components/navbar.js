@@ -49,8 +49,13 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <Link to="/info" className="nav-link">
-                Info For
+              <Link to="/authors" className="nav-link">
+                Publish With Us
+              </Link>
+            </li>
+            <li>
+              <Link to="/join" className="nav-link">
+                Join Us
               </Link>
             </li>
             <li>

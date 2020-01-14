@@ -43,7 +43,6 @@
 
 .tagline-newsletter-container {
   padding: 4rem 0;
-  border-bottom: 1px solid rgba(0,0,0,.125);
   border-top: 1px solid rgba(0,0,0,.125);
 
   .tagline {
@@ -56,6 +55,10 @@
   padding: 2.5rem 0;
   border-bottom: 1px solid rgba(0,0,0,.125);
   border-top: 1px solid rgba(0,0,0,.125);
+}
+
+.video-impact-container {
+  border-bottom: 1px solid rgba(0,0,0,.125);
 }
 
 .news-events-container, .video-impact-container {

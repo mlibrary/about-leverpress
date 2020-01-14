@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 import Title from '../components/title'
 import {graphql} from 'gatsby'
 
-const Info = ({data}) => {
+const Authors = ({data}) => {
   const title = data.markdownRemark.frontmatter.title
   const html = data.markdownRemark.html
   return (
@@ -17,7 +17,7 @@ const Info = ({data}) => {
 }
 
 export const query = graphql`
-  query infoPage($id: String!) {
+  query authorsPage($id: String!) {
   	markdownRemark(id: {eq: $id}) {
       html
       frontmatter{
@@ -27,4 +27,4 @@ export const query = graphql`
   }
 `
 
-export default Info
+export default Authors

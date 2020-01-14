@@ -174,26 +174,17 @@ const IndexPage = ({data}) => {
             </div>
           </div>
         </section>
-        <section className="news-events-container container">
-          <div className="row">
-            <div className="news-container col-md-6">
-              <NewsList news={news} />
-            </div>
-            <div className="events-container col-md-6">
-              <EventList events={events} />
-            </div>
-          </div>
-        </section>
+        
         <section className="author-library-container">
           <div className="container">
             <div className="row">
               <div className="author-container col">
                 <div className="row">
-                <div className="col-md-8">
+                <div className="col-md-6">
                     <p>Interested in publishing your next book with us?</p>
                   </div>
-                  <div className="col-md-4">
-                    <a className="btn btn-lg btn-outline-secondary" href="/info-for#author">Learn more</a>
+                  <div className="col-md-6">
+                    <a className="btn btn-lg btn-outline-secondary" href="/authors">Publish With Us</a>
                   </div>
                 </div>
               </div>
@@ -203,20 +194,32 @@ const IndexPage = ({data}) => {
                     <p>Join over 50 liberal arts colleges and their libraries who support our Open Access mission</p>
                   </div>
                   <div className="col-md-4">
-                    <a className="btn btn-lg btn-outline-secondary" href="/info-for#library">Join Us</a>
+                    <a className="btn btn-lg btn-outline-secondary" href="/join">Join Us</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </section>
-        <section className="video-impact-container container">
+        <section className="video-impact-container">
+          <div className="container">
           <div className="row">
             <div className="video-container col">
               <Video video={video} />
             </div>
             <div className="map-container col">
               <MapImage mapImage={map} />
+            </div>
+          </div>
+          </div>
+        </section>
+        <section className="news-events-container container">
+          <div className="row">
+            <div className="news-container col-md-6">
+              <NewsList news={news} />
+            </div>
+            <div className="events-container col-md-6">
+              <EventList events={events} />
             </div>
           </div>
         </section>

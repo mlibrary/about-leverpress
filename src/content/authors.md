@@ -1,6 +1,6 @@
 ---
-templateKey: info-page
-title: Information For
+templateKey: authors-page
+title: Publish With Us
 ---
 ## Authors
 

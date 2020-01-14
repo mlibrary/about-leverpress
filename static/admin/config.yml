@@ -92,12 +92,26 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/info.md"
-        name: info
-        label: Info
+      - file: "src/content/authors.md"
+        name: authors
+        label: Authors
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: info-page }
-          - { name: title, label: Info }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
+          - { name: title, label: Authors }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/join.md"
+        name: join
+        label: Join
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: join-page }
+          - { name: title, label: Join }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/series.md"
+        name: series
+        label: Series
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Series }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/impact.md"
         name: impact
