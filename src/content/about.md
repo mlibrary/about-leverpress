@@ -56,3 +56,7 @@ By living our values we will be responsive to the needs of readers, authors, and
 * Bowdoin University
 * Claremont McKenna College
 * ...
+
+## Historical Documents
+
+<a href="/assets/oberlin_rfp_nov14_v1.1.pdf">Oberlin Group RFP</a>
