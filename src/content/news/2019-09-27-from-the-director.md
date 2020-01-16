@@ -2,7 +2,7 @@
 templateKey: news
 title: From the Director
 summary: >-
-  Beth Bouloukos, Director of the Lever Press, reports on recent activities
+  Beth Bouloukos, Director of Lever Press, reports on recent activities
   including Lever's first catalog, conferences attended, and new promotional
   materials.
 date: 2019-09-27T14:29:55.200Z
