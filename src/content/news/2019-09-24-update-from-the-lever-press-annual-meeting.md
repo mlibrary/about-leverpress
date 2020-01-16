@@ -14,4 +14,8 @@ The two days are organized into separate and joint meetings of the two groups so
 
 —Jonathan Miller, Chair of the Oversight Committee
 
-##
+![](/assets/screen-shot-2019-11-18-at-11.46.18-am.png)
+
+## 
+
+![](/assets/img_2984.jpeg)
