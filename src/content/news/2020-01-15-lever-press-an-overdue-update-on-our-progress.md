@@ -7,7 +7,7 @@ summary: >-
   that Lever Press lives in a dynamic open access ecosystem where its funders
   and authors are not the only stakeholders.
 date: 2019-05-07T18:40:01.238Z
-image: /assets/leverlogo-black.jpg
+image: ''
 ---
 A [Twitter thread over the weekend from our colleagues at Punctum Books](https://threadreaderapp.com/thread/1124456090991616002.html), another library-supported publisher of open access books, was a good reminder that Lever Press lives in a dynamic open access ecosystem where its funders and authors are not the only stakeholders. Over the last six months, we’ve had our heads down commissioning books, producing our first titles, and managing a transition of leadership from inaugural director Mark Edington to our dynamic acquisitions lead Beth Bouloukos. We have been working intensively with our Oversight Committee, representing the funding institutions, and Editorial Board, the faculty leadership group that determines what we publish and oversees its quality, but we have been much less good at communicating our progress more publicly.
 
