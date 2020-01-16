@@ -1,7 +1,9 @@
 ---
 templateKey: news
 title: Lever Press releases its statement of values
-summary: Lever Press begins 2018 by publishing its Statement of Values
+summary: >-
+  Lever Press begins 2018 by publishing its Statement of Values, a clear
+  statement of the values grounding its work as a scholarly publisher.
 date: 2018-01-08T05:53:57.747Z
 image: /assets/leverlogo-black.jpg
 ---
