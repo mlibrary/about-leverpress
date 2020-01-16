@@ -6,13 +6,16 @@ import Img from "gatsby-image"
 const News = ({data}) => {
   const { html } = data.markdownRemark
   const { title, date, image } = data.markdownRemark.frontmatter
-
+  var showImage;
+  if (image) {
+    showImage = <Img fluid={image.childImageSharp.fluid} />
+  }
 
   return (
     <Layout>
       <div className="container page-container">
         <h1 className="mb-3">{title}</h1>
-        <Img fluid={image.childImageSharp.fluid} />
+        {showImage}
         <h4 className="mt-4">{date}</h4>
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
