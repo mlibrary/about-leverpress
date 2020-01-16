@@ -24,15 +24,13 @@ Libraries that provide support for Lever Press become part of the conversation s
 
 Requested contribution rates are linked to annual acquisition budgets:
 
-$500,000 or less                     $2,000/year for five years
+$500,000 or less => $2,000/year for five years
 
-$500,000 to $750,000             $4,000/year for five years
+$500,000 to $750,000 => $4,000/year for five years
 
-$750,000 to $1.5m                  $6,000/year for five years
+$750,000 to $1.5m => $6,000/year for five years
 
-More than $1.5m                    $8,000/year for five years
-
-
+More than $1.5m => $8,000/year for five years
 
 **Pledge Agreement**
 
