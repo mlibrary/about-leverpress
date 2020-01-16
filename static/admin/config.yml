@@ -19,7 +19,7 @@ collections:
       - { name: title, label: Title }
       - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
-      - { name: image, label: Image, widget: image }
+      - { name: image, label: Image, widget: image, required: false }
       - { name: body, label: Body, widget: markdown }
   - name: events
     label: Events
@@ -31,7 +31,7 @@ collections:
       - { name: title, label: Title }
       - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
-      - { name: image, label: Image, widget: image }
+      - { name: image, label: Image, widget: image, required: false }
       - { name: body, label: Body, widget: markdown }
   - name: books
     label: Books
