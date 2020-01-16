@@ -14,8 +14,6 @@ Lever Press is pleased to welcome new members of the Editorial Board and the Ove
 
 **Danielle Colburn** is Lever Press’ new Social Media Manager. Danielle is the Marketing Assistant at the University of Michigan Library, where she creates social media campaigns, writes articles for publications, and contributes to special projects. She reports that she is “excited to be managing social media for Lever Press and working with the Communications Committee to grow Lever’s social presence, establish a voice, and engage with greater open access conversations.”
 
-![]()
-
 **Katherine Hite**, Professor of Political Science on the F. Thompson Chair and Director of Research Development at Vassar College, joined the Lever Editorial Board in August. Professor Hite’s recent work focuses on the politics of memory, as well as issues in higher education, access, and equity. Her teaching interests include Latin American politics, social movements, and the legacies of violence for governments and societies in transition around the globe.
 
 **Este Pope**, Head of Digital Programs at Amherst College Library, is serving as Amherst’s representative to the Oversight Committee on a temporary basis, following Bryn Geffert’s resignation and during the college’s search for a new Librarian. Bryn’s term on the committee was due to end in December 2021. Este leads the work of the digital programs department in creating digital collections, managing digital preservation, and supporting digital scholarship. An advocate for the role of libraries in open access and open source, she also serves on the leadership and steering groups for Fedora open source repository software.
