@@ -2,7 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import {graphql} from "gatsby"
+import {graphql, Link} from "gatsby"
 
 import BookList from "../components/books/bookList"
 import Tagline from "../components/tagline"
@@ -81,7 +81,7 @@ query {
       fields: frontmatter___date,
       order: DESC
     },
-    limit: 4
+    limit: 3
   ) {
     edges {
       node {
@@ -113,7 +113,7 @@ query {
       fields: frontmatter___date,
       order: DESC
     },
-    limit: 4
+    limit: 3
   ) {
     edges {
       node {
@@ -174,7 +174,7 @@ const IndexPage = ({data}) => {
             </div>
           </div>
         </section>
-        
+
         <section className="author-library-container">
           <div className="container">
             <div className="row">
@@ -217,9 +217,23 @@ const IndexPage = ({data}) => {
           <div className="row">
             <div className="news-container col-md-6">
               <NewsList news={news} />
+              <div className="row mt-4">
+                <div className="col-md-12">
+                  <p className="text-right">
+                    <Link to="/news">Read all News</Link>
+                  </p>
+                </div>
+              </div>
             </div>
             <div className="events-container col-md-6">
               <EventList events={events} />
+              <div className="row mt-4">
+                <div className="col-md-12">
+                  <p className="text-right">
+                    <Link to="/events">Read all Events</Link>
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </section>
