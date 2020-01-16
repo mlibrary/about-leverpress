@@ -1,7 +1,10 @@
 ---
 templateKey: news
 title: From the Director
-summary: This is the blog summary
+summary: >-
+  Beth Bouloukos, Director of the Lever Press, reports on recent activities
+  including Lever's first catalog, conferences attended, and new promotional
+  materials.
 date: 2019-09-27T14:29:55.200Z
 image: /assets/screen-shot-2019-11-18-at-11.46.18-am.png
 ---
