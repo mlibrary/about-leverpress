@@ -3,7 +3,7 @@ templateKey: news
 title: Lever Editorial Board issues Peer Review Commitments & Guidelines
 summary: >-
   The Lever Press Editorial Board releases a document making clear its
-  commitment to strong and consistent peer review
+  commitment to strong and consistent peer review.
 date: 2017-03-21T04:56:00.000Z
 image: /assets/leverlogo-black.jpg
 ---
