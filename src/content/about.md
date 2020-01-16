@@ -6,7 +6,9 @@ As a press aligned with the ethos and mission of liberal arts colleges, we seek 
 
 ## Editorial Board
 
-The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press.
+The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press. The Board consists of faculty nominated from Lever Press pledging institutions and selected by the Oversight Committee. The chair of the Oversight Committee holds an ex officio position on the Board and two representatives from Michigan Publishing and Amherst College Press hold non-voting positions. The Board meets as needed based on the burden of work to be done.
+
+Current Board members:
 
 * Jason Mittell, Middlebury College
 * Karil Kucera, St. Olaf College
@@ -17,10 +19,11 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Lisa Trivedi, Hamilton College
 * Phyllis Brown, Santa Clara University
 * Katherine Hite, Vassar College
+* Brett Rogers, University of Puget Sound
 
 ## Our Values
 
-Lever Press is grounded on a set of values, and guided by clear commitments. The values on which we’re basing our work are:
+Lever Press is **grounded on a set of values**, and **guided by clear commitments**. The values on which we’re basing our work are:
 
 * producing the highest quality scholarship in an economically sustainable model
 * embodying and reflecting the values of the liberal arts, and
@@ -38,11 +41,11 @@ By living our values we will be responsive to the needs of readers, authors, and
 
 ## Our Commitments
 
-**Alignment with mission and ethos of liberal arts colleges**. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard 100,000-word monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
+_**Alignment with mission and ethos of liberal arts colleges**_. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard 100,000-word monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
 
-**Platinum Open Access**. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means the Lever Press can consider works with regard to scholarly merit only. But because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth investing in.
+_**Platinum Open Access**_. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means the Lever Press can consider works with regard to scholarly merit only. But because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth investing in.
 
-**Digitally native**. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
+_**Digitally native**_. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
 
 ## Our Supporting Institutions
 
