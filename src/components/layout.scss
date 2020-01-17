@@ -6,8 +6,6 @@
   min-height: 6rem;
 
   .navbar-brand-logo {
-    width: 10rem;
-    height: 2.5rem;
     vertical-align: middle;
   }
 
@@ -78,4 +76,21 @@
 .footer {
   border-top: 1px solid rgba(0,0,0,.125);
   padding: 3rem 0;
+
+  .block {
+    display: block;
+  }
+
+  p.social {
+    padding-top: .4em;
+    a {
+      padding-right: 0.75em;
+      svg {
+        display: inline-block;
+        vertical-align: middle;
+        fill: grey;
+      }
+    }
+  }
+
 }

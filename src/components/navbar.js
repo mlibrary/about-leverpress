@@ -1,33 +1,31 @@
 import React, {useState} from "react"
 import {Link} from "gatsby"
-import Img from 'gatsby-image'
-import {useStaticQuery,graphql} from 'gatsby'
+// import Img from 'gatsby-image'
 
-export const getLogo = graphql`
-{
-  logo:file(relativePath:{eq: "LEVERPRESS-SIDEWAYS-no-icon.png"}) {
-    childImageSharp{
-      fluid(maxWidth: 700){
-        ...GatsbyImageSharpFluid
-      }
-    }
-  }
-}
-`
+//export const getLogo = graphql`
+//{
+//  logo:file(relativePath:{eq: "LeverLogo.svg"}) {
+//    childImageSharp{
+//      fluid(maxWidth: 700){
+//        ...GatsbyImageSharpFluid
+//      }
+//    }
+//  }
+//}
+// `
 
 const Navbar = () => {
   const [isOpen, setNav] = (useState(false))
   const toggleNav = () => {
     setNav(isOpen => !isOpen)
   }
-  const data = useStaticQuery(getLogo)
 
   return (
     <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light border-bottom">
       <div className="container">
-        <Link to="/" className="navbar-brand">
-          <Img fluid={data.logo.childImageSharp.fluid} className="navbar-brand-logo"/>
-        </Link>
+        <a href="/" className="navbar-brand">
+          <img src="/assets/LeverLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> Lever Press
+        </a> 
         <button className="navbar-toggler" type="button" onClick={toggleNav}>
           <span className="navbar-toggler-icon" />
         </button>
