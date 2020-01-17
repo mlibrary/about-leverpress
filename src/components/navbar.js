@@ -23,7 +23,7 @@ const Navbar = () => {
   const data = useStaticQuery(getLogo)
 
   return (
-    <nav className="navbar navbar-expand-sm navbar-light border-bottom">
+    <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light border-bottom">
       <div className="container">
         <Link to="/" className="navbar-brand">
           <Img fluid={data.logo.childImageSharp.fluid} className="navbar-brand-logo"/>
@@ -31,7 +31,7 @@ const Navbar = () => {
         <button className="navbar-toggler" type="button" onClick={toggleNav}>
           <span className="navbar-toggler-icon" />
         </button>
-        <div className={
+        <div id="navbar" className={
           isOpen
             ? "collapse navbar-collapse flex-row show"
             : "collapse navbar-collapse flex-row-reverse"

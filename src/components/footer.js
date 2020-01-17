@@ -14,6 +14,8 @@ export const titleQuery = graphql`
 const Footer = () => {
     const data = useStaticQuery(titleQuery)
     const {title} = data.site.siteMetadata
+    const now = new Date()
+    const year = now.getFullYear()
 
     return (
     <footer className="footer" role="navigation">
@@ -23,7 +25,7 @@ const Footer = () => {
             <Link to="/" className="text-muted mb-2">{title}</Link>
             <small className="text-muted d-block">Amherst, MA</small>      
             <small className="text-muted d-block"><a href="mailto:info@leverpress.org">info@leverpress.org</a></small>      
-            <small className="text-muted d-block mb-3">© 2019 <a aria-label="Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+            <small className="text-muted d-block mb-3">© {year} <a aria-label="Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
                 <img alt="Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" />
               </a></small>      
           </div>
@@ -36,13 +38,11 @@ const Footer = () => {
             </ul>
           </div>
           <div className="col-md-3">
+            <h5>Book Series</h5>
             <ul className="list-unstyled text-small">
-              <li><a href="/about" className="text-muted">About</a></li>
-              <li><a href="/catalog" className="text-muted">Catalog</a></li>
-              <li><a href="/info" className="text-muted">Info For</a></li>
-              <li><a href="/impact" className="text-muted">Impact</a></li>
-              <li><a href="/news" className="text-muted">News</a></li>
-              <li><a href="/events" className="text-muted">Events</a></li>
+              <li><a href="/series#series-one" className="text-muted">Series one</a></li>
+              <li><a href="/series#series-two" className="text-muted">Series Two</a></li>
+              <li><a href="/series#series-three" className="text-muted">Series Three</a></li>
             </ul>
           </div>
         </div>
