@@ -5,7 +5,7 @@ import Img from "gatsby-image"
 
 const News = ({data}) => {
   const { html } = data.markdownRemark
-  const { title, date, image } = data.markdownRemark.frontmatter
+  const { title, summary, date, image } = data.markdownRemark.frontmatter
   var showImage;
   if (image) {
     showImage = <Img fluid={image.childImageSharp.fluid} />
@@ -14,10 +14,25 @@ const News = ({data}) => {
   return (
     <Layout>
       <div className="container page-container">
-        <h1 className="mb-3">{title}</h1>
-        {showImage}
-        <h4 className="mt-4">{date}</h4>
-        <div dangerouslySetInnerHTML={{ __html: html }} />
+        <div className="row justify-content-md-center">
+          <div className="col-md-10">
+            <h1 className="mb-3">{title}</h1>
+            <div className="summary">
+              <p>{summary}</p>
+              <h4 className="mt-4">{date}</h4>
+            </div>
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-md-10 post-image">
+            {showImage}
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-md-8">
+            <div dangerouslySetInnerHTML={{ __html: html }} />
+          </div>
+        </div>
       </div>
     </Layout>
   )

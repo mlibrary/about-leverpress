@@ -9,7 +9,11 @@ const News = ({data}) => {
   return (
     <Layout>
       <div className="container page-container">
-        <NewsList news={news} />
+        <div className="row justify-content-md-center">
+          <div className="col-md-10">
+            <NewsList news={news} />
+          </div>
+        </div>
       </div>
     </Layout>
   )

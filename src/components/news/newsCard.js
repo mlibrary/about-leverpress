@@ -7,7 +7,7 @@ const NewsCard = ({singleNews, cardStyle}) => {
   const slug = singleNews.fields.slug
   var showImage;
   if (image) {
-    showImage =  <div className="col-md-4">
+    showImage =  <div className="col-md-4 card-image">
                    <Img fluid={image.childImageSharp.fluid} />
                  </div>
   }

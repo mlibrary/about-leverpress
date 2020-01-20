@@ -9,7 +9,11 @@ const Events = ({data}) => {
   return (
     <Layout>
       <div className="container page-container">
-        <EventList events={events} />
+        <div className="row justify-content-md-center">
+          <div className="col-md-10">
+            <EventList events={events} />
+          </div>
+        </div>
       </div>
     </Layout>
   )

@@ -67,6 +67,19 @@
   }
 }
 
+// news and events
+.post-image {
+  max-height: 500px;
+  overflow: hidden;
+}
+
+.blog-card-container {
+  .card-image {
+    max-height: 300px;
+    overflow: hidden;
+  }
+}
+
 // impact
 .map {
   height: 60%;
