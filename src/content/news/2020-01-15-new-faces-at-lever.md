@@ -6,9 +6,11 @@ summary: >-
   Oversight Committee, along with staff support from the University of Michigan
   for our communication efforts. 
 date: 2019-09-20T18:22:27.334Z
-image: /assets/new-faces.jpeg
+image: ''
 ---
 Lever Press is pleased to welcome new members of the Editorial Board and the Oversight Committee, along with staff support from the University of Michigan for our communication efforts.
+
+![](/assets/new-faces.jpeg)
 
 **Hannah Brooks-Motl** will join Lever Press on October 16, 2019 as Assistant Acquisitions Editor. Hannah recently completed her PhD at the University of Chicago, where she was the poetry editor of the Chicago Review and worked as a student assistant at the University of Chicago Press. The author of three collections of poetry, most recently Earth (2019), she has published creative and scholarly work in venues such as the Cambridge Literary Review, Modernism/modernity, and the Poetry Foundation.
 
