@@ -36,6 +36,4 @@ $750,000 to $1.5m => $6,000/year for five years
 
 More than $1.5m => $8,000/year for five years
 
-**Pledge Agreement**
-
-View the document that participating libraries will be asked to sign in joining the Lever Press initiative as stakeholders.
+****
