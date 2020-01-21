@@ -16,9 +16,13 @@ What we’re proposing is, in essence, to pay for scholarly publishing in the mi
 
 Unique among open-access publishing initiatives, Lever Press is conceived, governed, and funded by a consortium of liberal arts college libraries.
 
-Academic libraries, especially those at liberal arts colleges, face challenges in the current scholarly publishing environment–not only the known issues of the rising costs of scholarly monographs and increasing pressures on acquisitions budgets, but also the long-term costs of monographs produced under current assumptions and the uncompensated service librarians provide to publishers by policing copyright claims on their behalf.
+Academic libraries, especially those at liberal arts colleges, face challenges in the current scholarly publishing environment–not only the known issues of the rising costs of scholarly monographs and increasing pressures on acquisitions budgets, but also 
 
-The role of libraries in scholarly publishing has historically been limited to that of purchasing and preserving works published elsewhere. Yet librarians see at first hand the scholarly needs of their institutions, and the occasional mismatch between what publishers produce and what their faculty and students need and use.Today, more and more academic libraries are launching their own scholarly publishing programs, but these tend to be based in large research institutions, usually with an emphasis on serving local publishing needs.
+<a href="/assets/courantandnielsen.pdf">the long-term costs of monographs produced under current assumptions</a>
+
+ and the uncompensated service librarians provide to publishers by policing copyright claims on their behalf.
+
+The role of libraries in scholarly publishing has historically been limited to that of purchasing and preserving works published elsewhere. Yet librarians see at first hand the scholarly needs of their institutions, and the occasional mismatch between what publishers produce and what their faculty and students need and use. Today, more and more academic libraries are launching their own scholarly publishing programs, but these tend to be based in large research institutions, usually with an emphasis on serving local publishing needs.
 
 Libraries that provide support for Lever Press become part of the conversation shaping both the editorial program and objectives of the press, and the principles by which we do our work. Participation  is an opportunity for academic libraries–especially those that might not be able to justify or support an independent publishing initiative–to shape the future and the direction of scholarly publishing, and to invest in the publication of research that serves the needs of research and teaching on their campuses.
 
