@@ -3,8 +3,8 @@ templateKey: home-page
 taglineSection:
   text: >-
     We are a scholarly press supported by and aligned with the mission and ethos
-    of liberal arts institutions. We publish peer-reviewed, open access
-    monographs at no cost to our authors or their institutions.
+    of more than 50 liberal arts institutions. We publish peer-reviewed, open
+    access monographs at no cost to our authors or their academic institutions.
 newsletterSection:
   buttonLabel: Subscribe
   description: Stay current with our quarterly newsletter
