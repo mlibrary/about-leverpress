@@ -8,14 +8,13 @@ We’re interested in proposals both for individual projects and for series of w
 
 If you’d like to get a sense of what we ask for in a proposal, you may download the templates to review:
 
-* Individual project proposal template
-* Series proposal template (Please note that the principal editor of a proposed series must be affiliated with a Lever Press participating institution).
+*  <a href="/assets/leverpressindividualprojectproposaltemplatepubliclyaccessible.pdf">undefined</a>
+* <a href="/assets/leverpressseriesproposaltemplatepubliclyaccessible.pdf">undefined</a>
+   (Please note that the principal editor of a proposed series must be affiliated with a Lever Press participating institution).
 
 When you’re ready, [submit a proposal to Lever Press](https://leverpress.submittable.com/submit) (free Submittable account required).
 
 Have questions? Want guidance before proceeding with a proposal? Write to us!
-
-
 
 ## The Lever Press Editorial Program
 
@@ -37,15 +36,11 @@ This century has been marked by the tension between human progress and optimism 
 
 Our works are published on [Fulcrum](https://www.fulcrum.org/), which provides a platform allowing narrative to be richly integrated with associated data (images, videos, audio files, visualizations, etc.), optimized for long-term preservation and accessibility. 
 
-
-
 **Existing series**
 
  _ASIANetwork Books_, series editors Erin McCarthy and Lisa Trivedi 
 
 This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the ASIANetwork series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While the _ASIANetwork Series_ assists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia. 
-
- 
 
 Multimodal Monographs, series editor Jason Mittell
 
@@ -57,15 +52,11 @@ _Re-Editions_: Literary and cultural texts, recovered for the classroom, series 
 
 The Re-Editions series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. Quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.   
 
-
-
 Possible new series or monograph topics
 
 Teaching, Learning, and Leading in Liberal Arts Colleges 
 
 Liberal arts colleges have played a distinctive, leadership role in the development of American higher education. Lever Press seeks to publish work that highlights excellence in the scholarship of teaching and learning and strategies that enable transformational student development. We will also seek contributions from academic leadership reflecting on the present and future state of liberal arts education, providing a forum for both constructive self-reflection and leadership for policy makers, administrators, trustees, graduates, and others who care about sustaining and improving upon the liberal arts college tradition.
-
-
 
 Archives and Special Collections
 
