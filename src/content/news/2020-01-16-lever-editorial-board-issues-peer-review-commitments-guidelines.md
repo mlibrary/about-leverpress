@@ -13,4 +13,4 @@ Of course, there’s no logical link between forms of access and forms of review
 
 The Editorial Board of Lever Press has released a document making clear the commitments of our press to strong and consistent peer review. The document also makes transparent the objects that will be reviewed, the forms of peer review that will be undertaken, and the work now underway to develop a clear signaling system to make plain to readers the nature of the review to which a work has been subjected.
 
-Read the Peer Review Commitments & Guidelines.
+Read the [Peer Review Commitments & Guidelines](https://about-leverpress-umich-gitlab.netlify.com/admin/#/collections/pages/entries/peerReview).
