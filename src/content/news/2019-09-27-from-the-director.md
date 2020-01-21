@@ -6,7 +6,7 @@ summary: >-
   including Lever's first catalog, upcoming conferences, and new promotional
   materials.
 date: 2019-09-27T14:29:55.200Z
-image: /assets/lpcatalogimage.jpg
+image: /assets/beth_headshot.jpg
 ---
 <a href="/assets/leverpress-catalog-web.pdf">Download the Lever Press Fall '19 - Spring '20 Catalog</a>
 
