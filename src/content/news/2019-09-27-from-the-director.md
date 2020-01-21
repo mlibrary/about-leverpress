@@ -6,9 +6,9 @@ summary: >-
   including Lever's first catalog, upcoming conferences, and new promotional
   materials.
 date: 2019-09-27T14:29:55.200Z
-image: /assets/beth_headshot.jpg
+image: ''
 ---
-<a href="/assets/leverpress-catalog-web.pdf">Download the Lever Press Fall '19 - Spring '20 Catalog</a>
+![](/assets/beth_headshot.jpg)
 
 I am excited to share that we are preparing our first catalog here at Lever Press and we will release it in October! We will be announcing 7 new titles that will come out this academic year. Five of the titles have authors or contributors from Lever Press consortium member campuses. The books range in topic from the resurgence of vinyl to race and class in engineering education. I hope that our first batch of titles helps us promote Lever in a way that gets scholars to understand that we will consider any topic as long as it falls in line with the liberal arts ethos of the Press.
 
