@@ -2,8 +2,9 @@
 templateKey: home-page
 taglineSection:
   text: >-
-    We are a digital-first Open Access publisher supported by over 50 liberal
-    arts colleges making great books for the humanities and social sciences.
+    We are a scholarly press supported by and aligned with the mission and ethos
+    of liberal arts institutions. We publish peer-reviewed, open access
+    monographs at no cost to our authors or their institutions.
 newsletterSection:
   buttonLabel: Subscribe
   description: Stay current with our quarterly newsletter
