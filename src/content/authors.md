@@ -20,6 +20,8 @@ When you’re ready, [submit a proposal to Lever Press](https://leverpress.submi
 
 Have questions? Want guidance before proceeding with a proposal? Write to us!
 
+
+
 ## The Lever Press Editorial Program
 
 Lever Press is a publisher of pathbreaking scholarship. Supported by a consortium of liberal arts institutions focused on excellence in research and teaching, we have founded our press on three essential commitments:
