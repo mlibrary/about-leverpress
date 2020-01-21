@@ -10,9 +10,9 @@ If you’d like to get a sense of what we ask for in a proposal, you may downloa
 
 * 
 
-<a href="/assets/leverpressindividualprojectproposaltemplatepubliclyaccessible.pdf">undefined</a>
+<a href="/assets/leverpressindividualprojectproposaltemplatepubliclyaccessible.pdf">Individual project proposal template</a>
 
-<a href="/assets/leverpressseriesproposaltemplatepubliclyaccessible.pdf">undefined</a>
+<a href="/assets/leverpressseriesproposaltemplatepubliclyaccessible.pdf">Series proposal template</a>
 
 *  (Please note that the principal editor of a proposed series must be affiliated with a Lever Press participating institution).
 
