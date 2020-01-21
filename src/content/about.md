@@ -6,7 +6,7 @@ As a press aligned with the ethos and mission of liberal arts colleges, we seek 
 
 ## Editorial Board
 
-The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press. The Board consists of faculty nominated from Lever Press pledging institutions and selected by the Oversight Committee. The chair of the Oversight Committee holds an ex officio position on the Board and two representatives from Michigan Publishing and Amherst College Press hold non-voting positions. The Board meets as needed based on the burden of work to be done.
+The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press. The Board consists of faculty nominated from Lever Press pledging institutions and selected by the Oversight Committee. The chair of the Oversight Committee holds an ex officio position on the Board and two representatives from Michigan Publishing and Amherst College Press hold non-voting positions. The Board meets monthly by teleconference and in person at least once per year.
 
 Current Editorial Board members:
 
@@ -25,59 +25,44 @@ Current Editorial Board members:
 
 ## Oversight Committee
 
-The Oversight Committee is responsible for overall strategic guidance of the Lever Press. The Committee consists of up to 12 representatives nominated and elected by the Lever Press pledging libraries and two representatives from Amherst College Press and Michigan Publishing. The committee meets monthly by teleconference and in person at least once per year.
+The Oversight Committee is responsible for overall strategic guidance of the Lever Press. The Committee consists of up to 12 representatives nominated and elected by the Lever Press pledging libraries, and two representatives from Amherst College Press and Michigan Publishing. The committee meets monthly by teleconference and in person at least once per year.
 
 Current Oversight Committee members:
 
 **Term ending December 31, 2020**
 
-Marta Brunner, College Librarian, Skidmore College (Chair)
-
-Alexia Hudson-Ward, Director of Libraries, Oberlin College
-
-Jennifer Nutefall, University Librarian, Santa Clara University
-
-John Tombarge, Professor and University Librarian, Washington and Lee University
+* Marta Brunner, College Librarian, Skidmore College (Chair)
+* Alexia Hudson-Ward, Director of Libraries, Oberlin College
+* Jennifer Nutefall, University Librarian, Santa Clara University
+* John Tombarge, Professor and University Librarian, Washington and Lee University
 
 **Term ending December 31, 2021**
 
-Mark Christel, Librarian of the College, Grinnell College
-
-Dalia Corkrum, Library Director, Whitman College (Treasurer)
-
-Este Pope, Head of Digital Programs, Frost Library, Amherst College
-
-Irene Herold, Librarian of the College, The College of Wooster
-
-Mike Roy, Dean of the Library, Middlebury College
+* Mark Christel, Librarian of the College, Grinnell College
+* Dalia Corkrum, Library Director, Whitman College (Treasurer)
+* Este Pope, Head of Digital Programs, Frost Library, Amherst College
+* Irene Herold, Librarian of the College, The College of Wooster
+* Mike Roy, Dean of the Library, Middlebury College
 
 **Term ending December 31, 2022**
 
-Neal Baker, Library Director, Earlham College
-
-Deborah Prosser, Director of the Olin Library, Rollins College
+* Neal Baker, Library Director, Earlham College
+* Deborah Prosser, Director of the Olin Library, Rollins College
 
 **Standing**
 
-Beth Bouloukos, Director, Amherst College Press
-
-Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
+* Beth Bouloukos, Director, Amherst College Press
+* Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
 **Previously Served**
 
-Marjorie Hassen, College Librarian, Bowdoin College
-
-Jonathan Miller, Director of Libraries, Williams College
-
-Andrew Ashton, Director of the Libraries, Vassar College
-
-Terri Fishel, Library Director, Macalester College
-
-Kevin Mulroy, Dean of the Claremont Colleges Library
-
-Loretta Parham, Chief Executive Officer and Library Director at the Atlanta University Center
-
-Marci Sortor, Provost, St. Olaf College
+* Marjorie Hassen, College Librarian, Bowdoin College
+* Jonathan Miller, Director of Libraries, Williams College
+* Andrew Ashton, Director of the Libraries, Vassar College
+* Terri Fishel, Library Director, Macalester College
+* Kevin Mulroy, Dean of the Claremont Colleges Library
+* Loretta Parham, Chief Executive Officer and Library Director at the Atlanta University Center
+* Marci Sortor, Provost, St. Olaf College
 
 ## Our Values
 
