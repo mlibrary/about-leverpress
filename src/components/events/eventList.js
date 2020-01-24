@@ -3,7 +3,7 @@ import EventCard from "./eventCard"
 
 const EventList = ({events, cardStyle}) => {
   return (
-    <section className="lever-card-list">
+    <section className="event-card-list">
       <h2>Events</h2>
       <ul className="list-unstyled">
       {

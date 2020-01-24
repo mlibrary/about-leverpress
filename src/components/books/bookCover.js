@@ -3,7 +3,7 @@ import Img from "gatsby-image"
 
 const BookCover = ({book}) => {
   return (
-    <div className="card mb-3 lever-card">
+    <div className="card mb-3 book-card">
       <a href={book.readLink}>
         <div className="row no-gutters">
           <div className="col-md-12">

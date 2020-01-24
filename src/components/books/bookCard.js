@@ -12,7 +12,7 @@ const Book = ({book}) => {
   } = book
 
   return (
-    <div className="card mb-3 lever-card">
+    <div className="card mb-3 book-card">
       <div className="row no-gutters">
         <div className="col-md-4">
           <Img fluid={cover.childImageSharp.fluid}

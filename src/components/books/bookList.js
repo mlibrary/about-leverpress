@@ -6,7 +6,7 @@ const BookList = ({books}) => {
 
   return (
     <div>
-      <div className="row lever-card-list">
+      <div className="row book-card-list">
         {
           books.map(({node}) => {
             if (node.frontmatter.orderOnPage === 1 || node.frontmatter.orderOnPage === 2) {
@@ -19,7 +19,7 @@ const BookList = ({books}) => {
           })
         }
       </div>
-      <div className="row lever-card-list">
+      <div className="row book-card-covers-only-list">
         {
           books.map(({node}) => {
             if (node.frontmatter.orderOnPage > 2) {

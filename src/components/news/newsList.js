@@ -3,7 +3,7 @@ import NewsCard from "./newsCard"
 
 const NewsList = ({news, cardStyle}) => {
   return (
-    <section className="lever-card-list">
+    <section className="blog-card-list">
       <h2>News</h2>
     {
       news.map(({node}) => {

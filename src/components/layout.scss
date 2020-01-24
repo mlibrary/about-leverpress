@@ -21,11 +21,13 @@
 .books-container {
   padding: 3rem 0;
 
-  .lever-card-list {
+  .book-card-list {
     justify-content: space-evenly;
   }
-  // card stuff
-  .lever-card {
+  
+  // books
+  
+  .book-card {
     max-width: 540px;
 
     .card-img {
@@ -71,6 +73,21 @@
 .post-image {
   max-height: 500px;
   overflow: hidden;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+.summary {
+  font-size: 1em;
+
+    p {
+      margin-bottom: 0;
+    }
+
+    h4 {
+      font-size: .9em;
+      margin-top: .2em !important;
+    }
 }
 
 .blog-card-container {
