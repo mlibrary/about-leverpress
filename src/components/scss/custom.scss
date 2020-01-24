@@ -1,3 +1,9 @@
+// colors
+$theme-colors: (
+  "primary": #003352,
+  "danger": #ff4136
+);
+
 * {
   box-sizing: border-box;
 }
@@ -23,6 +29,10 @@
 
   .book-card-list {
     justify-content: space-evenly;
+  }
+
+  .book-card-covers-only-list {
+    
   }
   
   // books
@@ -124,3 +134,5 @@
   }
 
 }
+
+@import "../bootstrap/scss/bootstrap";
