@@ -8,6 +8,8 @@ Unlike other Open Access initiatives, Lever Press is a press governed by its par
 
 
 
+<a href="/assets/lever-press-governance-statement.pdf">Lever Press Governance Statement</a>
+
 ## Editorial Board
 
 The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press. The Board consists of faculty nominated from Lever Press pledging institutions and selected by the Oversight Committee. The Chair of the Oversight Committee holds an ex officio position on the Board and two representatives from Michigan Publishing and Amherst College Press hold non-voting positions. The Board meets monthly by teleconference and in person at least once per year.
@@ -30,8 +32,6 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
 * Marta Brunner, Oversight Committee Chair, ex officio
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
-
-
 
 ## Oversight Committee
 
@@ -56,8 +56,6 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
-
-
 ## Operations Group
 
 The Lever Press Operations Group is essentially the production backbone of Lever Press. It consists of staff at Amherst College Press and Michigan Publishing with a key role in acquiring, developing, and producing Lever Press titles, or in the administration of this initiative. The current Operations Group consists of:
@@ -69,8 +67,6 @@ The Lever Press Operations Group is essentially the production backbone of Lever
 * Terri Geitgey, Program Manager, Lever Press and Publishing Services Librarian, Michigan Publishing Services
 * Amanda Karby, Senior Digital Publishing Coordinator, Michigan Publishing Services
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
-
-
 
 ## Our Values
 
@@ -92,11 +88,11 @@ By living our values we will be responsive to the needs of readers, authors, and
 
 ## Our Commitments
 
-_**Alignment with mission and ethos of liberal arts colleges**_. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard 100,000-word monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
+**_Alignment with mission and ethos of liberal arts colleges_**. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard 100,000-word monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
 
-_**Platinum Open Access**_. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means the Lever Press can consider works with regard to scholarly merit only. But because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth investing in.
+**_Platinum Open Access_**. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means the Lever Press can consider works with regard to scholarly merit only. But because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth investing in.
 
-_**Digitally native**_. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
+**_Digitally native_**. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
 
 ## Our Supporting Institutions
 
