@@ -1,14 +1,65 @@
-// colors
+// colors and theming
 $theme-colors: (
-  "primary": #003352,
-  "danger": #ff4136
+  "primary": #40658f,
+  "secondary": #003352,
+  "muted": #EAEAEA
 );
 
-* {
-  box-sizing: border-box;
+
+@import "../bootstrap/scss/bootstrap";
+
+// typography
+@mixin meta-serif {
+  font-family: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
 }
 
+.meta-serif {
+  @include meta-serif;
+}
+
+@mixin scala-sans {
+  font-family: "ff-scala-sans-pro", Helvetica, Arial, sans-serif;
+}
+
+.scala-sans {
+  @include scala-sans;
+}
+
+body {
+  @include meta-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    @include scala-sans;
+    font-weight: 700;
+}
+
+// colors
+$lever-brand-color: #003352;
+$lever-accent-color: #78B3E0;
+$lever-black-80: #342f2e;
+
+// links
+p {
+  a {
+  text-decoration: underline;
+  }
+}
+
+// buttons
+.btn {
+  @include scala-sans;
+}
+
+
+// navigation
 .navbar {
+  @include scala-sans;
+
   min-height: 6rem;
 
   .navbar-brand-logo {
@@ -20,6 +71,17 @@ $theme-colors: (
 // page
 .page-container {
   padding: 5rem 0;
+}
+
+// cards
+
+.card {
+  border-radius: 0;
+
+  picture,
+  source {
+    line-height: 0;
+  };
 }
 
 
@@ -53,12 +115,13 @@ $theme-colors: (
 
 
 .tagline-newsletter-container {
+  background-color: $lever-brand-color;
   padding: 4rem 0;
   border-top: 1px solid rgba(0,0,0,.125);
 
   .tagline {
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1.6rem;
   }
 }
 
@@ -114,6 +177,7 @@ $theme-colors: (
 
 // footer
 .footer {
+  background-color: $lever-brand-color;
   border-top: 1px solid rgba(0,0,0,.125);
   padding: 3rem 0;
 
@@ -128,11 +192,11 @@ $theme-colors: (
       svg {
         display: inline-block;
         vertical-align: middle;
-        fill: grey;
+        fill: $lever-accent-color;
       }
     }
   }
 
 }
 
-@import "../bootstrap/scss/bootstrap";
+
