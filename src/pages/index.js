@@ -184,7 +184,7 @@ const IndexPage = ({data}) => {
                     <p>Interested in publishing your next book with us?</p>
                   </div>
                   <div className="col-md-6">
-                    <a className="btn btn-lg btn-outline-secondary" href="/authors">Publish With Us</a>
+                    <a className="btn btn-lg btn-secondary" href="/authors">Publish With Us</a>
                   </div>
                 </div>
               </div>
@@ -194,7 +194,7 @@ const IndexPage = ({data}) => {
                     <p>Join over 50 liberal arts colleges and their libraries who support our Open Access mission</p>
                   </div>
                   <div className="col-md-4">
-                    <a className="btn btn-lg btn-outline-secondary" href="/join">Join Us</a>
+                    <a className="btn btn-lg btn-secondary" href="/join">Join Us</a>
                   </div>
                 </div>
               </div>

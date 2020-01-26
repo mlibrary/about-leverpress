@@ -22,7 +22,7 @@ const BookList = ({books}) => {
       <div className="row book-card-covers-only-list">
         {
           books.map(({node}) => {
-            if (node.frontmatter.orderOnPage > 2) {
+            if (node.frontmatter.orderOnPage > 5) {
               return (
                 <BookCover key={node.id} book={node.frontmatter} />
               )

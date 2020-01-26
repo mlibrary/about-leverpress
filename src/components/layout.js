@@ -1,6 +1,8 @@
 import React from "react"
-import "./bootstrap.min.css"
-import "./layout.scss"
+import Helmet from "react-helmet"
+import { withPrefix } from "gatsby"
+import "./scss/custom.scss"
+
 import Navbar from "./navbar"
 import Footer from "./footer"
 
@@ -12,6 +14,9 @@ const Layout = ({ children }) => {
         {children}
       </div>
       <Footer />
+      <Helmet>
+        <script src={withPrefix('bootstrap.min.js')} type="text/javascript" />
+      </Helmet>
     </div>
   )
 }
