@@ -2,7 +2,7 @@
 templateKey: series-page
 title: Series
 ---
-_ASIANetwork Books_
+<h2 id="asianetwork"><cite>ASIANetwork Books</cite></h2>
 
 Series editors: Erin McCarthy and Lisa Trivedi
 
@@ -10,7 +10,7 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 
 
-_Multimodal Monographs_
+<h2 id="multimodal"><cite>Multimodal Monographs</cite></h2>
 
 Series editor: Jason Mittell
 
@@ -18,7 +18,7 @@ Combining the possibilities of digital scholarship with the long-standing streng
 
 
 
-_Re-Editions_: _Literary and cultural texts, recovered for the classroom_
+<h2 id="re-editions"><cite>Re-Editions: Literary and cultural texts, recovered for the classroom</cite></h2>
 
 Series editor: Michelle Burnham
 
