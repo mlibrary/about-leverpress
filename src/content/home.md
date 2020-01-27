@@ -15,10 +15,10 @@ videoSection:
     In this video, members of the Lever Press faculty editorial board talk about
     how the press' commitments to platinum open access, digitally native
     scholarship, and the mission and ethos of liberal arts colleges help
-    scholars in the humanities and social sciences publish  long-form scholars
+    scholars in the humanities and social sciences publish long-form scholarship
     in the humanities and social sciences.
   embed: >-
-    <iframe width="560" height="315"
+    <iframe title="Why publish with Lever Press? video" width="560" height="315"
     src="https://www.youtube-nocookie.com/embed/e2vF-SG0-WU" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope;
     picture-in-picture" allowfullscreen></iframe>
