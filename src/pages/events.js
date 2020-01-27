@@ -43,13 +43,6 @@ export const query = graphql`
           title
           summary
           date(formatString:"MMMM Do, YYYY")
-          image{
-            childImageSharp{
-              fluid{
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
         }
       }
     }

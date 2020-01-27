@@ -47,9 +47,9 @@ const Footer = () => {
           <div className="col-md-2">
             <h5>Book Series</h5>
             <ul className="list-unstyled text-small">
-              <li><a href="/series#series-one" className="text-light">Series one</a></li>
-              <li><a href="/series#series-two" className="text-light">Series Two</a></li>
-              <li><a href="/series#series-three" className="text-light">Series Three</a></li>
+              <li><a href="/series#asianetwork" className="text-light">ASIANetwork Books</a></li>
+              <li><a href="/series#multimodal" className="text-light">Multimodal Monographs</a></li>
+              <li><a href="/series#re-editions" className="text-light">Re-Editions</a></li>
             </ul>
           </div>
         </div>
