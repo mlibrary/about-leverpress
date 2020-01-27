@@ -1,4 +1,5 @@
 import React from 'react'
+import SEO from "../components/seo"
 import Layout from '../components/layout'
 import Title from '../components/title'
 import {graphql} from 'gatsby'
@@ -17,6 +18,7 @@ const Impact = ({data}) => {
 
   return (
     <Layout>
+      <SEO title={title} />
       <div className="container page-container">
         <Title title={title} />
         <div className="readership-map">

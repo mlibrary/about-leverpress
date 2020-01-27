@@ -1,4 +1,5 @@
 import React from 'react'
+import SEO from "../components/seo"
 import Layout from '../components/layout'
 import {graphql} from "gatsby"
 import Img from "gatsby-image"
@@ -13,6 +14,7 @@ const News = ({data}) => {
 
   return (
     <Layout>
+      <SEO title={title} />
       <div className="container page-container">
         <div className="row justify-content-md-center">
           <div className="col-md-10">
