@@ -33,7 +33,7 @@ const Footer = () => {
           <div className="col-md-2">
             <h5>Our Partners</h5>
             <ul className="list-unstyled text-small">
-              <li><a href="https://acpress.amherst.edu/" className="text-light">Amerhest College Press</a></li>
+              <li><a href="https://acpress.amherst.edu/" className="text-light">Amherst College Press</a></li>
               <li><a href="http://www.oberlingroup.org/" className="text-light">Oberlin Group</a></li>
               <li><a href="https://www.publishing.umich.edu" className="text-light">Michigan Publishing</a></li>
             </ul>
