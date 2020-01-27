@@ -16,11 +16,7 @@ What we’re proposing is, in essence, to pay for scholarly publishing in the mi
 
 Unique among open-access publishing initiatives, Lever Press is conceived, governed, and funded by a consortium of liberal arts college libraries.
 
-Academic libraries, especially those at liberal arts colleges, face challenges in the current scholarly publishing environment–not only the known issues of the rising costs of scholarly monographs and increasing pressures on acquisitions budgets, but also 
-
-<a href="/assets/courantandnielsen.pdf">the long-term costs of monographs produced under current assumptions</a>
-
- and the uncompensated service librarians provide to publishers by policing copyright claims on their behalf.
+Academic libraries, especially those at liberal arts colleges, face challenges in the current scholarly publishing environment–not only the known issues of the rising costs of scholarly monographs and increasing pressures on acquisitions budgets, but also <a href="/assets/courantandnielsen.pdf">the long-term costs of monographs produced under current assumptions</a> and the uncompensated service librarians provide to publishers by policing copyright claims on their behalf.
 
 The role of libraries in scholarly publishing has historically been limited to that of purchasing and preserving works published elsewhere. Yet librarians see at first hand the scholarly needs of their institutions, and the occasional mismatch between what publishers produce and what their faculty and students need and use. Today, more and more academic libraries are launching their own scholarly publishing programs, but these tend to be based in large research institutions, usually with an emphasis on serving local publishing needs.
 
@@ -35,5 +31,3 @@ $500,000 to $750,000 => $4,000/year for five years
 $750,000 to $1.5m => $6,000/year for five years
 
 More than $1.5m => $8,000/year for five years
-
-- - -
