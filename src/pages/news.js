@@ -1,5 +1,6 @@
 import React from "react"
 import {graphql} from "gatsby"
+import SEO from "../components/seo"
 import Layout from "../components/layout"
 import NewsList from "../components/news/newsList"
 
@@ -8,6 +9,7 @@ const News = ({data}) => {
 
   return (
     <Layout>
+      <SEO title="News" />
       <div className="container page-container">
         <div className="row justify-content-md-center">
           <div className="col-md-10">

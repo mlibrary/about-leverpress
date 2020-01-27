@@ -1,4 +1,5 @@
 import React from 'react'
+import SEO from "../components/seo"
 import Layout from '../components/layout'
 import {graphql} from "gatsby"
 import Img from "gatsby-image"
@@ -13,7 +14,8 @@ const Event = ({data}) => {
 
   return (
     <Layout>
-<div className="container page-container">
+      <SEO title={title} />
+      <div className="container page-container">
         <div className="row justify-content-md-center">
           <div className="col-md-10">
             <h1 className="mb-3">{title}</h1>
