@@ -2,15 +2,23 @@
 templateKey: about-page
 title: About Lever Press
 ---
-## How we run Lever Press
+<ul class="list-unstyled">
+<li><a href="#editorial">Editorial Board</a></li>
+<li><a href="#oversight">Oversight Committee</a></li>
+<li><a href="#operations">Operations Group</a></li>
+<li><a href="#values">Our Values</a></li>
+<li><a href="#commitments">Our Commitments</a></li>
+<li><a href="#institutions">Our Supporting Institutions</a></li>
+<li><a href="#historical-docs">Historical Documents</a></li>
+</ul>
+
+<h2 id="governance">How we run Lever Press</h2>
 
 Unlike other Open Access initiatives, Lever Press is a press governed by its participating members. An Editorial Board, composed of faculty from participating institutions, oversees the editorial and review process for our titles; an elected Oversight Committee, composed of representatives of participating institutions, directs the execution of Lever’s business plan.
 
-
-
 <a href="/assets/lever-press-governance-statement.pdf">Lever Press Governance Statement</a>
 
-## Editorial Board
+<h2 id="editorial">Editorial Board</h2>
 
 The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press. The Board consists of faculty nominated from Lever Press pledging institutions and selected by the Oversight Committee. The Chair of the Oversight Committee holds an ex officio position on the Board and two representatives from Michigan Publishing and Amherst College Press hold non-voting positions. The Board meets monthly by teleconference and in person at least once per year.
 
@@ -33,7 +41,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Marta Brunner, Oversight Committee Chair, ex officio
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
-## Oversight Committee
+<h2 id="oversight">Oversight Committee</h2>
 
 The Oversight Committee is responsible for overall strategic guidance of the Lever Press. The Committee consists of representatives nominated from and elected by Lever Press pledging institutions, and two representatives from Amherst College Press and Michigan Publishing. The committee meets monthly by teleconference and in person at least once per year.
 
@@ -56,7 +64,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
-## Operations Group
+<h2 id="operations">Operations Group</h2>
 
 The Lever Press Operations Group is essentially the production backbone of Lever Press. It consists of staff at Amherst College Press and Michigan Publishing with a key role in acquiring, developing, and producing Lever Press titles, or in the administration of this initiative. The current Operations Group consists of:
 
@@ -68,7 +76,7 @@ The Lever Press Operations Group is essentially the production backbone of Lever
 * Amanda Karby, Senior Digital Publishing Coordinator, Michigan Publishing Services
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
-## Our Values
+<h2 id="values">Our Values</h2>
 
 Lever Press is **grounded on a set of values**, and **guided by clear commitments**. The values on which we’re basing our work are:
 
@@ -86,7 +94,7 @@ As a press aligned with the ethos and mission of liberal arts colleges, we seek 
 
 By living our values we will be responsive to the needs of readers, authors, and member institutions, share our liberal arts focus broadly, and engage globally with others in the exchange of new scholarship.
 
-## Our Commitments
+<h2 id="commitments">Our Commitments</h2>
 
 **_Alignment with mission and ethos of liberal arts colleges_**. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard 100,000-word monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
 
@@ -94,7 +102,7 @@ By living our values we will be responsive to the needs of readers, authors, and
 
 **_Digitally native_**. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
 
-## Our Supporting Institutions
+<h2 id="institutions">Our Supporting Institutions</h2>
 
 * Adrian College
 * Agnes Scott College
@@ -152,7 +160,7 @@ By living our values we will be responsive to the needs of readers, authors, and
 * Willamette University
 * Williams College
 
-## Historical Documents
+<h2 id="historical-docs">Historical Documents</h2>
 
 The Lever Press arises out of an initiative of the Oberlin Group to study how the libraries of liberal arts colleges could offer a new and compelling alternative to authors of scholarly works for a way of publishing their work.
 
@@ -160,32 +168,14 @@ The history of our work has been [documented in a website](https://leverinitiati
 
 If you’re interested, you can read as well:
 
-The 
+* The <a href="/assets/oberlin_rfp_nov14_v1.1.pdf">request for proposals</a> that we issued to publishers inviting submissions for ways of realizing our vision;
 
-<a href="/assets/oberlin_rfp_nov14_v1.1.pdf">request for proposals</a>
+* The <a href="/assets/mpacpleverfinalredct.pdf">proposal submitted by the Amherst/Michigan team</a> that we selected;
 
- that we issued to publishers inviting submissions for ways of realizing our vision;
+* The <a href="/assets/lever_press_business_plan_final_feb15-2.pdf">business plan</a> we agreed to together.
 
-The 
+After finalizing our choice, the Task Force has met regularly with the Amherst/Michigan team to finalize the documents that set out how the Lever Press will be <a href="/assets/lever-press-mou_signed_corrected.pdf">governed by participating libraries and guided by its editorial board.</a>
 
-<a href="/assets/mpacpleverfinalredct.pdf">proposal submitted by the Amherst/Michigan team</a>
+Note that while the initial agreement is between the publishing team and the Oberlin Group, participation is not limited to Oberlin Group members, and libraries committing to our work stand as equals in the governance of the Press.
 
- that we selected;
-
-The 
-
-<a href="/assets/lever_press_business_plan_final_feb15-2.pdf">business plan</a>
-
- we agreed to together.
-
-After finalizing our choice, the Task Force has met regularly with the Amherst/Michigan team to finalize the documents that set out how the Lever Press will be 
-
-<a href="/assets/lever-press-mou_signed_corrected.pdf">governed by participating libraries and guided by its editorial board.</a>
-
- Note that while the initial agreement is between the publishing team and the Oberlin Group, participation is not limited to Oberlin Group members, and libraries committing to our work stand as equals in the governance of the Press.
-
-We’ve also developed the document that 
-
-<a href="/assets/lever_press_pledge_agreement_final20150923-1.pdf">participating libraries will be asked to sign</a>
-
- in joining the Lever Press initiative as stakeholders.
+We’ve also developed the document that <a href="/assets/lever_press_pledge_agreement_final20150923-1.pdf">participating libraries will be asked to sign</a> in joining the Lever Press initiative as stakeholders.
