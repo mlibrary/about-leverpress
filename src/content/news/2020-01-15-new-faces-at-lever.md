@@ -8,7 +8,6 @@ summary: >-
 date: 2019-09-20T18:22:27.334Z
 image: ''
 ---
-Lever Press is pleased to welcome new members of the Editorial Board and the Oversight Committee, along with staff support from the University of Michigan for our communication efforts.
 
 ![](/assets/new-faces.jpeg)
 
