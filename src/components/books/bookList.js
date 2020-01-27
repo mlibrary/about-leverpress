@@ -6,6 +6,7 @@ const BookList = ({books}) => {
 
   return (
     <div>
+      <h2 className="sr-only">Recent Books</h2>
       <div className="row book-card-list">
         {
           books.map(({node}) => {
