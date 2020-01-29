@@ -14,7 +14,7 @@ title: About Lever Press
 
 <h2 id="governance">How we run Lever Press</h2>
 
-Unlike other Open Access initiatives, Lever Press is a press governed by its participating members. An Editorial Board, composed of faculty from participating institutions, oversees the editorial and review process for our titles; an elected Oversight Committee, composed of representatives of participating institutions, directs the execution of Lever’s business plan.
+Unlike other Open Access initiatives, Lever Press is a press governed by its participating members. An Editorial Board, composed of faculty from participating institutions, oversees the editorial and review process for our titles; an elected Oversight Committee, composed of representatives of participating institutions, directs the execution of Lever’s business plan. Lever Press is a member of the [Association of University Presses](http://www.aupresses.org/).
 
 <a href="/assets/lever-press-governance-statement.pdf">Lever Press Governance Statement</a>
 
@@ -69,7 +69,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 The Lever Press Operations Group is essentially the production backbone of Lever Press. It consists of staff at Amherst College Press and Michigan Publishing with a key role in acquiring, developing, and producing Lever Press titles, or in the administration of this initiative. The current Operations Group consists of:
 
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
-* Hannah Brooks-Motl, Assistant Acquisitions Editor, Lever Press
+* Hannah Brooks-Motl, Assistant Acquisitions Editor, Amherst College Press & Lever Press
 * Jason Colman, Director, Michigan Publishing Services
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 * Terri Geitgey, Program Manager, Lever Press and Publishing Services Librarian, Michigan Publishing Services
@@ -96,11 +96,15 @@ By living our values we will be responsive to the needs of readers, authors, and
 
 <h2 id="commitments">Our Commitments</h2>
 
-**_Alignment with mission and ethos of liberal arts colleges_**. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard 100,000-word monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
+_**Alignment with mission and ethos of liberal arts colleges**_. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
 
-**_Platinum Open Access_**. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means the Lever Press can consider works with regard to scholarly merit only. But because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth investing in.
+_**Platinum Open Access**_. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means Lever Press can consider works with regard to scholarly merit only. Because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth the investment.
 
-**_Digitally native_**. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
+_**Born digital**_. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
+
+<h2 id="peerreview">Peer Review</h2>
+
+Lever Press is committed to the highest standards of peer review in evaluating the work it considers for publication and to communicating the nature of review to readers in a transparent fashion. As a process of independent and informed evaluation of both argument and originality of scholarly work, peer review is the principal means by which Lever assures the quality and merit of the work it publishes. Please see our [Peer Review Commitments and Guidelines page](https://leverpress.org/peerreview) for more details.
 
 <h2 id="institutions">Our Supporting Institutions</h2>
 
@@ -162,16 +166,14 @@ By living our values we will be responsive to the needs of readers, authors, and
 
 <h2 id="historical-docs">Historical Documents</h2>
 
-The Lever Press arises out of an initiative of the Oberlin Group to study how the libraries of liberal arts colleges could offer a new and compelling alternative to authors of scholarly works for a way of publishing their work.
+Lever Press arises out of an initiative of the Oberlin Group to study how the libraries of liberal arts colleges could offer a new and compelling alternative to authors of scholarly works for a way of publishing their work.
 
 The history of our work has been [documented in a website](https://leverinitiative.wordpress.com) begun when the Task Force was launched. You can find there as well copies of the results of a faculty survey we conducted about needs in scholarly publishing, and our first report to the Oberlin Group.
 
 If you’re interested, you can read as well:
 
 * The <a href="/assets/oberlin_rfp_nov14_v1.1.pdf">request for proposals</a> that we issued to publishers inviting submissions for ways of realizing our vision;
-
 * The <a href="/assets/mpacpleverfinalredct.pdf">proposal submitted by the Amherst/Michigan team</a> that we selected;
-
 * The <a href="/assets/lever_press_business_plan_final_feb15-2.pdf">business plan</a> we agreed to together.
 
 After finalizing our choice, the Task Force has met regularly with the Amherst/Michigan team to finalize the documents that set out how the Lever Press will be <a href="/assets/lever-press-mou_signed_corrected.pdf">governed by participating libraries and guided by its editorial board.</a>
