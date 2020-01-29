@@ -12,11 +12,9 @@ If you’d like to get a sense of what we ask for in a proposal, you may downloa
 
 * (Please note that the principal editor of a proposed series must be affiliated with a Lever Press participating institution).
 
-When you’re ready, [submit a proposal to Lever Press](https://leverpress.submittable.com/submit) (free Submittable account required).
+When you’re ready, [submit a proposal to Lever Press at info@leverpress.org](mailto:info@leverpress.org).
 
 Have questions? Want guidance before proceeding with a proposal? Write to us at info@leverpress.org
-
-
 
 ## The Lever Press Editorial Program
 
@@ -52,7 +50,7 @@ _Re-Editions_: Literary and cultural texts, recovered for the classroom, series 
 
 The Re-Editions series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. Quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.   
 
-## Possible new series or monograph topics
+## Areas of Interest
 
 _Teaching, Learning, and Leading in Liberal Arts Colleges_ 
 
@@ -63,5 +61,11 @@ __
 _Archives and Special Collections_
 
 The Helen Hartness Flanders Ballad Archive at Middlebury College and the Kuna Indian or Burmese works housed in the Denison Museum are just two of many examples of the remarkable materials held by many liberal arts colleges. Lever Press welcomes interdisciplinary studies of a specific collection, and encourages thematic studies across institutional collections that promote collaboration and illustrate our connections. Of particular interest are as-yet unexplored narratives of communities, movements, and populations whose voices have been marginalized and excluded.
+
+## For Current Authors
+
+* Lever Press Project Metadata Template
+* Final Manuscript Preparation Guidelines
+* Statement on Subventions
 
 ##
