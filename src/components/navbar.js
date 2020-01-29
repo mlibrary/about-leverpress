@@ -43,7 +43,7 @@ const Navbar = () => {
             </li>
             <li>
               <a href="https://www.fulcrum.org/leverpress" className="nav-link text-dark">
-                Catalog
+                Books
               </a>
             </li>
             <li>

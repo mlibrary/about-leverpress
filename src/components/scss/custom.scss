@@ -227,6 +227,19 @@ p {
   }
 }
 
+p.social {
+  padding-top: .4em;
+  a {
+    padding-right: 0.75em;
+    svg {
+      display: inline-block;
+      vertical-align: middle;
+      fill: $lever-brand-color;
+    }
+  }
+}
+
+
 // footer
 .footer {
   background-color: $lever-brand-color;
@@ -236,7 +249,7 @@ p {
   .fulcrum {
     vertical-align: baseline;
   }
-  
+
   .block {
     display: block;
   }

@@ -5,6 +5,7 @@ const EventList = ({events, cardStyle}) => {
   return (
     <section className="event-card-list">
       <h2>Events</h2>
+      <p class="scala-sans">Lever representatives will be attending the following events. <a href="mailto:info@leverpress.org">Email us</a> if you'd like to meet up.</p>
       <ul className="list-unstyled">
       {
         events.map(({node}) => {
