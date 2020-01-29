@@ -16,7 +16,7 @@ title: About Lever Press
 
 Unlike other Open Access initiatives, Lever Press is a press governed by its participating members. An Editorial Board, composed of faculty from participating institutions, oversees the editorial and review process for our titles; an elected Oversight Committee, composed of representatives of participating institutions, directs the execution of Lever’s business plan. Lever Press is a member of the [Association of University Presses](http://www.aupresses.org/).
 
-<a href="/assets/lever-press-governance-statement.pdf">Lever Press Governance Statement</a>
+<a href="/assets/final_2017-lever-press-bylaws.pdf">Lever Press Bylaws</a>
 
 <h2 id="editorial">Editorial Board</h2>
 
@@ -124,7 +124,7 @@ Lever Press is committed to the highest standards of peer review in evaluating t
 * The College of Wooster
 * College of Saint Benedict / Saint John's University
 * Denison University
-* Depauw University
+* DePauw University
 * Earlham College
 * Furman University
 * Grinnell College
@@ -132,6 +132,7 @@ Lever Press is committed to the highest standards of peer review in evaluating t
 * Harvey Mudd College
 * Haverford College
 * Hollins University
+* Keck Graduate Institute
 * Kenyon College
 * Knox College
 * Lafayette College
