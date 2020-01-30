@@ -93,7 +93,7 @@ query {
         frontmatter {
           title
           summary
-          date(formatString:"MMMM Do, YYYY")        
+          date(formatString:"MMMM Do, YYYY")          
         }
       }
     }
