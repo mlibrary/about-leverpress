@@ -38,4 +38,4 @@ $3,000,000 - $5,999,999 => $10,000 annually
 
 More than $6,000,000 => $12,000 annually
 
-Please use [this form](https://docs.google.com/forms/d/11v45JsQO24z5PbNhQUMLFZl-GmR1brPxZQ_dk4GVX8w/edit) to indicate your Lever Press membership pledge. You will receive a response from Lever Press staff with information about fee payment schedules and to sign our contract.
+**Please use** [**this form**](https://docs.google.com/forms/d/11v45JsQO24z5PbNhQUMLFZl-GmR1brPxZQ_dk4GVX8w/edit) **to indicate your Lever Press membership pledge.** You will receive a response from Lever Press staff with information about fee payment schedules and to sign our contract.
