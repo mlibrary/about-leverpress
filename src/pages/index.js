@@ -93,14 +93,7 @@ query {
         frontmatter {
           title
           summary
-          date(formatString:"MMMM Do, YYYY")
-          image{
-            childImageSharp{
-              fluid{
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
+          date(formatString:"MMMM Do, YYYY")        
         }
       }
     }

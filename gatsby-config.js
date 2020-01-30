@@ -1,10 +1,16 @@
 module.exports = {
   siteMetadata: {
     title: `Lever Press`,
-    description: `Open Access. Digitally Native. Liberal Arts.`,
+    description: `Lever Press is a scholarly press supported by more than 50 liberal arts institutions. It publishes peer-reviewed, born digital, open access monographs at no cost to authors or their academic institutions.`,
     author: `Lever Press`,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-79270005-1",
+      }
+    },
     {
       resolve: `gatsby-plugin-sass`,
       options: {
