@@ -36,7 +36,7 @@ export const query = graphql`
     },
     sort: {
       fields: frontmatter___date,
-      order: DESC
+      order: ASC
     }
   ) {
     edges {

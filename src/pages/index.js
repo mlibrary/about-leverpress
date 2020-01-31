@@ -104,9 +104,9 @@ query {
     },
     sort: {
       fields: frontmatter___date,
-      order: DESC
+      order: ASC
     },
-    limit: 3
+    limit: 6
   ) {
     edges {
       node {
