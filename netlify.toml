@@ -1,21 +1,39 @@
-# example netlify.toml
 [build]
   command = "gatsby build"
   functions = "functions"
   publish = "public/"
 
-  ## Uncomment to use this redirect for Single Page Applications like create-react-app. 
-  ## Not needed for static site generators.
-  #[[redirects]]
-  #  from = "/*"
-  #  to = "/index.html"
-  #  status = 200
-  
-  ## (optional) Settings for Netlify Dev
-  ## https://github.com/netlify/cli/blob/master/docs/netlify-dev.md#project-detection
-  #[dev] 
-  #  command = "yarn start" # Command to start your dev server
-  #  port = 3000 # Port that the dev server will be listening on
-  #  publish = "dist" # Folder with the static content for _redirect file
-  
-  ## more info on configuring this file: https://www.netlify.com/docs/netlify-toml-reference/ 
+[[redirects]]
+ from = "https://about-leverpress-umich-gitlab.netlify.com/*"
+ to = "https://www.leverpress.org/:splat"
+ status = 301
+
+[[redirects]]
+ from = "/libraries"
+ to = "/join"
+ status = 301
+
+[[redirects]]
+ from = "/contact"
+ to = "/"
+ status = 301
+
+[[redirects]]
+ from = "/governance"
+ to = "/about"
+ status = 301
+
+[[redirects]]
+ from = "/history"
+ to = "/about"
+ status = 301
+
+[[redirects]]
+ from = "/consortium"
+ to = "/about"
+ status = 301
+
+[[redirects]]
+ from = "/our-values-and-commitments"
+ to = "/about"
+ status = 301
