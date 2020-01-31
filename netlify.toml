@@ -50,7 +50,7 @@ status = 301
 
 [[redirects]]
  from = "/2019/09/20/update-from-the-lever-press-annual-meeting/"
- to = "/2019-09-24-update-from-the-lever-press-annual-meeting/"
+ to = "/news/2019-09-24-update-from-the-lever-press-annual-meeting/"
  status = 301
 
 [[redirects]]
@@ -70,7 +70,7 @@ status = 301
 
 [[redirects]]
  from= "/wp-content/uploads/2019/10/LeverPress-Catalog-web.pdf"
- to = "https://fulcrum.org/leverpress"
+ to = "/assets/LeverPress-Fall19-Spring20.pdf"
  status = 301
 
  
