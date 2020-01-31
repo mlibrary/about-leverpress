@@ -9,7 +9,8 @@ newsletterSection:
   buttonLabel: Subscribe
   description: Stay current with our quarterly newsletter
   heading: Keep up to date with Lever
-  url: 'https://google.com'
+  url: >-
+    https://visitor.r20.constantcontact.com/manage/optin?v=001WXZkjjlBP1ZO4vWwIA9HU80CKVVKX-DWmCItOAZxMlaI6uN2m3u7Ni8ELHYeO4PkjOocQfUTRPY390FT7lD5ykY3B-6NcZU3GXwUKc1ZRYc%3D
 videoSection:
   description: >-
     In this video, members of the Lever Press faculty editorial board talk about
