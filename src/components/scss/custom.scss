@@ -87,7 +87,8 @@ p {
 
 // page
 .page-container {
-  padding: 5rem 0;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 // cards
@@ -163,10 +164,16 @@ p {
 }
 
 .news-events-container, .video-impact-container {
-  padding: 3rem 0;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   h2 {
     margin-bottom: 1rem;
   }
+}
+
+// video
+.video-embed {
+  margin-bottom: 1rem;
 }
 
 // news and events on homepage and individual pages

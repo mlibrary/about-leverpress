@@ -11,12 +11,16 @@ const Join = ({data}) => {
     <Layout>
       <SEO title={title} />
       <div className="container page-container">
-        <div className="row justify-content-end">
-          <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/11v45JsQO24z5PbNhQUMLFZl-GmR1brPxZQ_dk4GVX8w/viewform?edit_requested=true" role="button">Make a Membership Pledge</a>
+        <div className="row justify-content-end mx-lg-n5">
+            <div className="col-md-3 py-3 px-lg-5">
+              <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/11v45JsQO24z5PbNhQUMLFZl-GmR1brPxZQ_dk4GVX8w/viewform?edit_requested=true" role="button">Make a Membership Pledge</a>
+            </div>
         </div>
         <div className="row">
-          <Title title={title} />
-          <div dangerouslySetInnerHTML={{ __html: html }} />
+          <div className="col-md-12">
+            <Title title={title} />
+            <div dangerouslySetInnerHTML={{ __html: html }} />
+          </div>
         </div>
       </div>
     </Layout>

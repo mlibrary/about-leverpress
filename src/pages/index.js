@@ -190,10 +190,10 @@ const IndexPage = ({data}) => {
         <section className="video-impact-container">
           <div className="container">
           <div className="row">
-            <div className="video-container col">
+            <div className="video-container col-md-6">
               <Video video={video} />
             </div>
-            <div className="map-container col">
+            <div className="map-container col-md-6">
               <MapImage mapImage={map} />
             </div>
           </div>
