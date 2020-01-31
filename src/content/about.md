@@ -96,11 +96,11 @@ By living our values we will be responsive to the needs of readers, authors, and
 
 <h2 id="commitments">Our Commitments</h2>
 
-_**Alignment with mission and ethos of liberal arts colleges**_. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
+***Alignment with mission and ethos of liberal arts colleges***. Like the colleges supporting our mission, we welcome works exploring intellectual connections across academic disciplines and divisions. Lever Press also champions works whose methods and modalities reach beyond the standard monograph. Inspired by the close collaborations between faculty and undergraduate students at liberal arts colleges, we seek path-breaking ideas communicated with clarity and creativity—publications that “teach what they know.”
 
-_**Platinum Open Access**_. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means Lever Press can consider works with regard to scholarly merit only. Because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth the investment.
+***Platinum Open Access***. Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication. Uniquely, Lever Press is committed to what we’re calling “Platinum OA,” in which all the costs of acquiring, editing, developing, and producing the work are borne collectively by our supporting institutions—not by individual authors or their sponsoring departments or institutions. Platinum OA means Lever Press can consider works with regard to scholarly merit only. Because we take on all the costs of producing the work we select, Platinum OA means one thing  more: that the work we produce is of the highest quality, and has been selected exactly because it is worth the investment.
 
-_**Born digital**_. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
+***Born digital***. While Lever Press titles will appear in print form wherever possible, we approach publishing as a digital-first endeavor. Unconstrained by legacy publishing processes and leveraging the opportunities for reuse facilitated by an open-access business model, Lever Press will welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes. We’ll work in partnership with an emerging community of scholars in the digital humanities who are linking together narrative analysis and datasets from a variety of disciplinary perspectives and using new tools for visualization and reader engagement.
 
 <h2 id="peerreview">Peer Review</h2>
 
@@ -115,7 +115,7 @@ Lever Press is committed to the highest standards of peer review in evaluating t
 * Atlanta University Center Consortium
 * Bard College
 * Berea College
-* Bowdoin University
+* Bowdoin College
 * Carleton College
 * Claremont Graduate University
 * Claremont McKenna College
