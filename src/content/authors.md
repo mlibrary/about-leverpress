@@ -66,3 +66,5 @@ The Helen Hartness Flanders Ballad Archive at Middlebury College and the Kuna In
 
 * Lever Press Project Metadata Template
 * Final Manuscript Preparation Guidelines
+
+  Lever Press Subvention Statement
