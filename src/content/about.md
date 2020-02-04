@@ -49,13 +49,13 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 * Neal Baker, Library Director, Earlham College
 * Marta Brunner, College Librarian, Skidmore College (Chair)
-* Mark Christel, Librarian of the College, Grinnell College
+* Mark Christel, Librarian of the College, Grinnell College (Vice Chair/Chair-elect)
 * Dalia Corkrum, Library Director, Whitman College (Treasurer)
 * Irene Herold, Librarian of the College, The College of Wooster
 * Alexia Hudson-Ward, Director of Libraries, Oberlin College
 * Jennifer Nutefall, University Librarian, Santa Clara University
 * Este Pope, Head of Digital Programs, Frost Library, Amherst College
-* Deborah Prosser, Olin Library Director, Rollins College
+* Deborah Prosser, Olin Library Director, Rollins College (Secretary)
 * Mike Roy, Dean of the Library, Middlebury College
 * John Tombarge, Professor and University Librarian, Washington and Lee University
 
