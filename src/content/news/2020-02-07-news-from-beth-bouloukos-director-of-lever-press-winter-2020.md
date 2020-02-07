@@ -2,8 +2,8 @@
 templateKey: news
 title: From the Director (Winter 2020)
 summary: >-
-  Beth gives an update on the latest Lever Press publication, as well as past
-  and upcoming conference attendance
+  Beth Bouloukos, Director of Lever Press, gives an update on the latest Lever
+  Press publication, as well as past and upcoming conference attendance
 date: 2020-02-07T14:47:45.679Z
 image: ''
 ---
