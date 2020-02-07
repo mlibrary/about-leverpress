@@ -1,6 +1,6 @@
 ---
 templateKey: news
-title: 'News from Beth Bouloukos, Director of Lever Press (Winter 2020)'
+title: From the Director (Winter 2020)
 summary: >-
   Beth gives an update on the latest Lever Press publication, as well as past
   and upcoming conference attendance
