@@ -5,7 +5,7 @@ summary: >-
   Beth gives an update on the latest Lever Press publication, as well as past
   and upcoming conference attendance
 date: 2020-02-07T14:47:45.679Z
-image: assets/beth_headshot.jpg
+image: ''
 ---
 As we move into our second phase here at Lever Press, we are delighted to announce that our new website is now live. You should find it easier to access information and updates, which aligns with our goal of greater transparency and communication. We are also excited to announce that our latest book, *[Elizabeth Bishop and the Literary Archive ](https://www.fulcrum.org/concern/monographs/2b88qd97w)*is live on Fulcrum. This project was born out of the poet’s archive at Vassar College and was edited by a scholar at Williams College. It is also our first title that includes numerous embedded images and will serve as an example for others who are hoping to bring the archive alive with the tools allotted to us from Fulcrum. We will publish a book every month from now until June, so stay on the lookout for new titles!
 
@@ -18,3 +18,5 @@ As for upcoming conferences, Hannah and I are scheduled to attend meetings of th
 In my role as the chair of the Acquisitions Committee for the Association of University Presses, I am participating in the revision and expansion of the AUPressess Handbook, [Best Practices for Peer Review](http://www.aupresses.org/resources/for-members/handbooks-and-toolkits/peer-review-best-practices). I am writing the sections on the peer review of digital projects and open review, both wonderful contributions that our Press can provide to the greater world of scholarly publishing.
 
 I urge you all to follow the Press, Hannah, and me on Twitter and Facebook and help us get the word out about our titles and how our work is advancing! [@Lever_Press](https://twitter.com/lever_press), [@BBouloukos](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FBBouloukos&data=02%7C01%7Cmhassen%40bowdoin.edu%7C461576c81aef484cb12408d7a6714357%7C984e32e5f98a4600aa3227c3f948abe3%7C1%7C0%7C637160877710546310&sdata=DzksHnzMnK0eX9F%2FXrsIwxlQpm9Gh6cpcneVbqQWDDQ%3D&reserved=0), [@hmbrooksm](https://twitter.com/hmbrooksm)
+
+![](assets/beth_headshot.jpg)
