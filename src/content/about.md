@@ -39,7 +39,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
 * Marta Brunner, Oversight Committee Chair, ex officio
-* Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
+* Elizabeth Demers, Editorial Director, University of Michigan Press
 
 <h2 id="oversight">Oversight Committee</h2>
 
