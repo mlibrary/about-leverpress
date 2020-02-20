@@ -13,7 +13,7 @@ const Join = ({data}) => {
       <div className="container page-container">
         <div className="row justify-content-end mx-lg-n5">
             <div className="col-md-3 py-3 px-lg-5">
-              <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/11v45JsQO24z5PbNhQUMLFZl-GmR1brPxZQ_dk4GVX8w/viewform?edit_requested=true" role="button">Make a Membership Pledge</a>
+              <a class="btn btn-primary btn-lg" href="https://forms.gle/3kDMmHqjVC3a7w358" role="button">Make a Membership Pledge</a>
             </div>
         </div>
         <div className="row">
