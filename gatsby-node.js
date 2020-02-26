@@ -56,9 +56,31 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions;
+  fmImagesToRelative(node);
 
+  const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
+
+    // HELIO-3193
+    // frontmatter cover and image paths need to be corrected
+// console.log(node.frontmatter.image)
+//     if (node.frontmatter.image) {
+// console.log("FIXPATH", path.join("/", node.frontmatter.image))
+//       createNodeField({
+//         node,
+//         name: `image`,
+//         value: path.join("/", node.frontmatter.image)
+//       })
+//     }
+//
+//     if (node.frontmatter.cover) {
+//       createNodeField({
+//         node,
+//         name: `cover`,
+//         value: path.join("/", node.frontmatter.cover)
+//       })
+//     }
+
     const value = createFilePath({ node, getNode });
     createNodeField({
       name: `slug`,
@@ -66,6 +88,4 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       value,
     });
   }
-
-  fmImagesToRelative(node);
 }

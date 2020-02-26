@@ -5,7 +5,6 @@ summary: >-
   The Lever Press Editorial Board releases a document making clear its
   commitment to strong and consistent peer review.
 date: 2017-03-21T04:56:00.000Z
-image: ''
 ---
 Open access publishing fights against the perception that there is an inherent link between forms of access (paywall or open access?) and the rigor of review. Not incidentally, publishers with strong interests in maintaining the revenue generated from pay-for-access are anxious to encourage that notion—not least to protect the status quo.
 

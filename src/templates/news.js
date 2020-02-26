@@ -6,11 +6,11 @@ import Img from "gatsby-image"
 
 const News = ({data}) => {
   const { html } = data.markdownRemark
-  const { title, summary, date } = data.markdownRemark.frontmatter
-  //var showImage;
-  //if (image) {
-   // showImage = <Img fluid={image.childImageSharp.fluid} />
-  //}
+  const { title, summary, date, image } = data.markdownRemark.frontmatter
+  var showImage;
+  if (image) {
+   showImage = <Img fluid={image.childImageSharp.fluid} />
+  }
 
   return (
     <Layout>
@@ -26,7 +26,8 @@ const News = ({data}) => {
           </div>
         </div>
         <div className="row justify-content-md-center">
-          <div className="col-md-10 post-image">        
+          <div className="col-md-10 post-image">
+            { showImage }
           </div>
         </div>
         <div className="row justify-content-md-center">
@@ -47,6 +48,13 @@ query ($id: String!) {
       title
       summary
       date(formatString: "MMMM Do, YYYY")
+      image {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
     }
   }
 }
