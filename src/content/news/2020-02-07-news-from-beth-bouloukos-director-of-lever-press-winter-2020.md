@@ -5,7 +5,6 @@ summary: >-
   Beth Bouloukos, Director of Lever Press, gives an update on the latest Lever
   Press publication, as well as past and upcoming conference attendance
 date: 2020-02-07T14:47:45.679Z
-image: ''
 ---
 As we move into our second phase here at Lever Press, we are delighted to announce that our new website is now live. You should find it easier to access information and updates, which aligns with our goal of greater transparency and communication. We are also excited to announce that our latest book, *[Elizabeth Bishop and the Literary Archive ](https://www.fulcrum.org/concern/monographs/2b88qd97w)*is live on Fulcrum. This project was born out of the poet’s archive at Vassar College and was edited by a scholar at Williams College. It is also our first title to include numerous embedded images and will serve as an example for others who are hoping to bring the archive alive with the tools allotted to us from Fulcrum. We will publish a book every month from now until June, so stay on the lookout for new titles!
 

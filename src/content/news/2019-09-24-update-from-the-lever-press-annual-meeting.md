@@ -6,7 +6,6 @@ summary: >-
   come together in person with staff for a two-day meeting at the University of
   Michigan, hosted by our partners, Michigan Publishing.
 date: 2019-09-24T14:23:41.310Z
-image: ''
 ---
 Lever Press conducts much of the business of governance virtually since our leaders and operations are scattered across North America. The Editorial Board and the Oversight Committee each meet monthly via Zoom, supplemented by copious e-mail, phone traffic, and online document editing (not to mention the annual membership meeting in the Fall). But once a year in late summer, the Board and the Committee come together in person with staff for a two-day meeting at the University of Michigan, hosted by our partners, Michigan Publishing. This year we met on August 13th and 14th.
 
@@ -16,6 +15,6 @@ The two days are organized into separate and joint meetings of the two groups so
 
 ![](/assets/screen-shot-2019-11-18-at-11.41.57-am.png)
 
-## 
+##
 
 ![](/assets/img_2984.jpeg)
