@@ -1,11 +1,3 @@
-backend:
-  name: gitlab
-  repo: michigan-publishing/about-leverpress
-  auth_type: implicit
-  app_id: 03d3fe1c9a36d44c83ea5d1f0382ac41333bd88052587631ae9fa15ce6b15123
-  api_root: https://gitlab.umich.edu/api/v4
-  base_url: https://gitlab.umich.edu
-  auth_endpoint: oauth/authorize
 media_folder: static/assets
 public_folder: assets
 collections:
