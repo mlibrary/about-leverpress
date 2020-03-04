@@ -8,6 +8,8 @@ title: About Lever Press
 <li><a href="#operations">Operations Group</a></li>
 <li><a href="#values">Our Values</a></li>
 <li><a href="#commitments">Our Commitments</a></li>
+<li><a href="#peerreview">Peer Review</a></li>
+<li><a href="#discovery">Discovery and Reuse</a></li>
 <li><a href="#institutions">Our Supporting Institutions</a></li>
 <li><a href="#historical-docs">Historical Documents</a></li>
 </ul>
@@ -105,6 +107,14 @@ By living our values we will be responsive to the needs of readers, authors, and
 <h2 id="peerreview">Peer Review</h2>
 
 Lever Press is committed to the highest standards of peer review in evaluating the work it considers for publication and to communicating the nature of review to readers in a transparent fashion. As a process of independent and informed evaluation of both argument and originality of scholarly work, peer review is the principal means by which Lever assures the quality and merit of the work it publishes. Please see our [Peer Review Commitments and Guidelines page](https://leverpress.org/peerreview) for more details.
+
+<h2 id="discovery">Discovery and Reuse</h2>
+
+Lever Press titles are made available under Creative Commons (CC) licenses to maximize opportunities for reuse. The particular CC license chosen is up to the author. As well as being delivered [through the Fulcrum platform](https://www.fulcrum.org/leverpress), Lever Press titles are delivered to a range of book indexers, library discovery services, and platforms including [JSTOR Open](https://www.jstor.org/publisher/leverpress), [Muse Open](https://muse.jhu.edu/search?action=browse&limit=publisher_id:314), Open Research Library, and OAPEN. 
+
+MARC records are available for free download under a CC0 license [from this location](https://umich.app.box.com/s/9bb546ihgu5s8v0lxdvwpqgd9siils5p). 
+
+See how Lever Press titles receive usage all over the world [on the Readership Map](https://www.leverpress.org/impact/).
 
 <h2 id="institutions">Our Supporting Institutions</h2>
 
