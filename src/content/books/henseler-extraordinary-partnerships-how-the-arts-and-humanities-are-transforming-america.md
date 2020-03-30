@@ -5,7 +5,7 @@ title: >-
   America
 authorLastname: Henseler
 author: Christine Henseler
-cover: assets/henseler.jpg
+cover: /assets/henseler.jpg
 description: Inspiring essays on the impact of the arts and humanities on our communities.
 orderOnPage: 1
 readLink: 'https://doi.org/10.3998/mpub.11649046'
