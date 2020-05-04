@@ -6,7 +6,7 @@ readershipMapDescription: >-
 
 
   The Readership Map replays every view or download of Lever Press books or
-  media components that occurred the previous day.
+  media components that occurred the previous four weeks.
 googleDataStudioDescription: >-
   ## Book Usage
 
