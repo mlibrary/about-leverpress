@@ -4,9 +4,8 @@ title: New Faces at Lever
 summary: >-
   Lever Press is pleased to welcome new members of the Editorial Board and the
   Oversight Committee, along with staff support from the University of Michigan
-  for our communication efforts. 
+  for our communication efforts.
 date: 2019-09-20T18:22:27.334Z
-image: ''
 ---
 
 ![](/assets/new-faces.jpeg)
