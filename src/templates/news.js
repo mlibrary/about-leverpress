@@ -21,10 +21,6 @@ const News = ({data}) => {
           </div>
         </div>
         <div className="row justify-content-md-center">
-          <div className="col-md-10 post-image">
-          </div>
-        </div>
-        <div className="row justify-content-md-center">
           <div className="col-md-8">
             <div dangerouslySetInnerHTML={{ __html: html }} />
           </div>

@@ -54,6 +54,9 @@ query {
   ) {
     edges {
       node {
+        fields {
+          cover
+        }
         id
         frontmatter {
           title
@@ -62,13 +65,6 @@ query {
           readLink
           buyLink
           orderOnPage
-          cover {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
         }
       }
     }
@@ -93,7 +89,7 @@ query {
         frontmatter {
           title
           summary
-          date(formatString:"MMMM Do, YYYY")          
+          date(formatString:"MMMM Do, YYYY")
         }
       }
     }

@@ -5,7 +5,6 @@ summary: >-
   Lever Press begins 2018 by publishing its Statement of Values, a clear
   statement of the values grounding its work as a scholarly publisher.
 date: 2018-01-08T05:53:57.747Z
-image: ''
 ---
 Lever Press has opened 2018 by publishing its “[Statement of Values](https://www.leverpress.org/about#values),” a clear statement of the values grounding its work as a scholarly publisher. “As we’ve grown from imagining what a sustainable open-access press might be to establishing a press and signing contracts with authors, we began to focus on the values that we want to be sure inform our work,” said Mike Roy, Dean of Libraries at Middlebury College and chair of Lever’s governing Oversight Committee. “Because this is a values-driven initiative, it is important to us that we articulate those values in a transparent way.”
 

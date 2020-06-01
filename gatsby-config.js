@@ -6,6 +6,15 @@ module.exports = {
   },
   plugins: [
     {
+      // keep as first gatsby-source-filesystem plugin for gatsby image support
+      // for netlify
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/assets`,
+        name: 'assets',
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-79270005-1",
@@ -30,15 +39,6 @@ module.exports = {
         enableIdentityWidget: false,
         modulePath: `${__dirname}/src/cms/cms.js`,
       }
-    },
-    {
-      // keep as first gatsby-source-filesystem plugin for gatsby image support
-      // for netlify
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/static/assets`,
-        name: 'assets',
-      },
     },
     {
       resolve: `gatsby-source-filesystem`,
