@@ -2,15 +2,10 @@ import React from 'react'
 import SEO from "../components/seo"
 import Layout from '../components/layout'
 import {graphql} from "gatsby"
-import Img from "gatsby-image"
 
 const Event = ({data}) => {
   const { html } = data.markdownRemark
   const { title, summary } = data.markdownRemark.frontmatter
-  //var showImage;
-  //if (image) {
-  //  showImage = <Img fluid={image.childImageSharp.fluid} />
-  //}
 
   return (
     <Layout>
@@ -22,10 +17,6 @@ const Event = ({data}) => {
             <div className="summary">
               <p>{summary}</p>
             </div>
-          </div>
-        </div>
-        <div className="row justify-content-md-center">
-          <div className="col-md-10 post-image">
           </div>
         </div>
         <div className="row justify-content-md-center">

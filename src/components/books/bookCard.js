@@ -1,24 +1,20 @@
 import React from "react"
-import Img from "gatsby-image"
+// import Img from "gatsby-image"
 
-const Book = ({book}) => {
+const Book = ({cover, book}) => {
   const {
     title,
     author,
     readLink,
     buyLink,
     description,
-    cover
   } = book
 
   return (
     <div className="card mb-3 book-card">
       <div className="row no-gutters">
         <div className="col-md-4">
-          <Img fluid={cover.childImageSharp.fluid}
-             alt={`cover of ${title}`}
-            className="card-img"
-          />
+          <img src={cover} alt={`cover of ${title}`} className="card-img" />
         </div>
         <div className="col-md-8">
           <div className="card-body">
