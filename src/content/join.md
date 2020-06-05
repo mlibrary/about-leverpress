@@ -79,8 +79,8 @@ title: Join Us
         <p>Lever Press is governed by our members. Faculty in any discipline can serve on the Editorial Board and in various editorial roles, and library leaders serve on the governing board</p>
     </div>
     <div class="col-md-5">
-        <img class="img-fluid" src="/assets/join-us-image-1.jpg"/>
-        <img class="img-fluid" src="/assets/join-us-image-4.jpg"/>
+        <img class="img-fluid" src="/assets/join-us-image-4.jpg" alt="Three students work in the field with their professor, examining plants specimens."/>
+        <img class="img-fluid" src="/assets/join-us-image-1.jpg" alt="A group of four students work collaboratively on a project."/>
     </div>
 </div>
 <hr class="featurette-divider">
@@ -127,7 +127,7 @@ title: Join Us
         </blockquote>
     </div>
     <div class="col-md-5 order-md-1">
-        <img class="img-fluid" src="/assets/join-us-image-2.jpg"/>
-        <img class="img-fluid" src="/assets/join-us-image-3.jpg"/>
+        <img class="img-fluid" src="/assets/join-us-image-2.jpg" alt="Two women present their work to a group of people."/>
+        <img class="img-fluid" src="/assets/join-us-image-3.jpg" alt="A male student works on his laptop in the library./>
     </div>
 </div>
