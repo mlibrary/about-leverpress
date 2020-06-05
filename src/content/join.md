@@ -128,6 +128,6 @@ title: Join Us
     </div>
     <div class="col-md-5 order-md-1">
         <img class="img-fluid" src="/assets/join-us-image-2.jpg" alt="Two women present their work to a group of people."/>
-        <img class="img-fluid" src="/assets/join-us-image-3.jpg" alt="A male student works on his laptop in the library./>
+        <img class="img-fluid" src="/assets/join-us-image-3.jpg" alt="A male student works on his laptop in the library."/>
     </div>
 </div>
