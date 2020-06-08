@@ -89,16 +89,16 @@ title: Join Us
         <h2 class="featurette-heading text-center">Why Lever? <span class="text-muted">10 reasons to choose Lever Press</span></h2>
         <p>
             <ol class="join">
-                <li>Quality, reach and innovation</li>
+                <li>Quality, reach, and innovation</li>
                 <li>Alignment with mission and ethos of liberal arts institutions</li>
-                <li>Adherence to highest level peer review practices</li>
-                <li>Reaching stats far beyond traditional print monograph, contributing to the democratization of scholarship</li>
-                <li>Making research openly available beyond the academy</li>
-                <li>The Platinum OA model ensures access to publication venue regardless of ability to pay publication fees.</li>
-                <li>Opportunity to transcend disciplinary boundaries</li>
-                <li>Publications that feature a uniquely liberal arts blend of research with teaching & learning resources</li>
-                <li>Lever Press is a fully open access press: all works will be freely available to readers on the web immediately upon publication</li>
-                <li><strong>Born digital</strong>: We publish rich media digital books that are simultaneously available in print</li>
+                <li>Adherence to highest level peer-review practices</li>
+                <li>Metrics, tracking, and discoverability built into publishing platform</li>
+                <li>Research openly available to all, contributing to the democratization of scholarship</li>
+                <li>Platinum OA ensures authors access to publication venue regardless of ability to pay publication fees</li>
+                <li>Opportunities to transcend disciplinary boundaries and create new models of scholarship</li>
+                <li>Publications that blend research with teaching and learning resources</li>
+                <li>Lever’s fully open access model means works are freely available online immediately upon publication</li>
+                <li>Rich media digital books published on sustainable and durable digital platform, simultaneously available in print</li>
             </ol>
         </p>
     </div>
