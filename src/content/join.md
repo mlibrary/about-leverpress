@@ -6,7 +6,7 @@ title: Join Us
     <div class="col-md-7">
         <h2 class="featurette-heading">Who we are</h2>
         <p class="lead"><span class="intro scala-sans text-primary">Lever Press arose</span> from an initiative of the Oberlin Group of Libraries that explored how liberal arts colleges could offer new and compelling alternatives to existing models of scholarly publishing.</p>
-        <p>We seek out, identify, evaluate and advocate for transformative scholarship that spurs creative dialogue within and between traditional fields of inquiry, emphasizes disciplinary innovation, draws upon new models of collaborative research and strives to reach the broadest audience possible.</p>
+        <p>We seek out, identify, evaluate, and advocate for transformative scholarship that spurs creative dialogue within and between traditional fields of inquiry, emphasizes disciplinary innovation, draws upon new models of collaborative research, and strives to reach the broadest audience possible.</p>
     </div>
     <div class="col-md-5">
         <div class="video-embed embed-responsive embed-responsive-16by9">
@@ -76,7 +76,7 @@ title: Join Us
         <h3 class="join-h3 text-primary">Diversity, Equity, &amp; Inclusion</h3>
         <p>Lever membership is an investment in a more just scholarly ecosystem. Membership in Lever and Platinum OA is an equalizer, ensuring that smaller institutions have a voice in the future of scholarly communications and academic publishing. All liberal arts institutions, regardless of resources and budget, have the opportunity to benefit from Lever membership and to have a voice in Lever governance.</p>
         <h3 class="join-h3 text-primary">Shared Governance</h3>
-        <p>Lever Press is governed by our members. Faculty in any discipline can serve on the Editorial Board and in various editorial roles, and library leaders serve on the governing board</p>
+        <p>Lever Press is governed by our members. Faculty in any discipline can serve on the Editorial Board and in various editorial roles, and library leaders serve on the governing board.</p>
     </div>
     <div class="col-md-5">
         <img class="img-fluid" src="/assets/join-us-image-4.jpg" alt="Three students work in the field with their professor, examining plants specimens."/>
@@ -109,7 +109,7 @@ title: Join Us
         <h2 class="featurette-heading">Testimonials</h2>
         <blockquote class="blockquote">
         <p class="mb-0">The reality is that someone has to pay for the development and distribution of an OA publisher’s content, and that has typically fallen on individual scholars and their institutions. The new Lever Press OA endeavor, with its innovative cost-sharing model, may have a profound impact on shifting that reality.</p>
-        <footer class="blockquote-footer">Susan Wadsworth-Booth,<cite title="University Press Forum, 2016, Choice Magazine">University Press Forum, 2016, Choice Magazine</cite>
+        <footer class="blockquote-footer">Susan Wadsworth-Booth, <cite title="University Press Forum, 2016, Choice Magazine">University Press Forum, 2016, Choice Magazine</cite>
         </footer>
         </blockquote>
         <blockquote class="blockquote">
@@ -118,7 +118,7 @@ title: Join Us
         </blockquote>
         <blockquote class="blockquote">
         <p class="mb-0">Lever Press advances the value of liberal arts and the value of an open access press, as central to equity and inclusion. Lever Press is an equalizer.</p> 
-        <footer class="blockquote-footer">Alexia Hudson-Ward</footer>
+        <footer class="blockquote-footer">Alexia Hudson-Ward, Azariah Smith Root Director of Libraries, Oberlin College</footer>
         </blockquote>
         <blockquote class="blockquote">
         <p class="mb-0">The scholarly publishing landscape needs more experiments like this, and I think many presses will benefit from the path that Lever carves out.</p>
@@ -129,5 +129,12 @@ title: Join Us
     <div class="col-md-5 order-md-1">
         <img class="img-fluid" src="/assets/join-us-image-2.jpg" alt="Two women present their work to a group of people."/>
         <img class="img-fluid" src="/assets/join-us-image-3.jpg" alt="A male student works on his laptop in the library."/>
+    </div>
+</div>
+<div class="row cta-bottom featurette justify-content-md-center">
+    <div class="col-md-4 text-center">
+        <div className="join-cta text-center">
+            <a class="btn btn-primary btn-lg" href="https://forms.gle/3kDMmHqjVC3a7w358" role="button">Make a Membership Pledge »</a>
+        </div>
     </div>
 </div>
