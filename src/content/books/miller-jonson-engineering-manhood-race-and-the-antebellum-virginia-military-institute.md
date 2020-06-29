@@ -5,9 +5,9 @@ authorLastname: 'Miller, Jonson'
 author: Jonson Miller
 cover: assets/9781643150178.jpg
 description: >-
-  Miller examines the process by which engineers of the antebellum Virginia
-  Military Institute cultivated whiteness, manhood, and other intersecting
-  identities as essential to an engineering professional identity.
+  Examining the process by which engineers of the antebellum VMI cultivated
+  whiteness, manhood, and other intersecting identities as essential to an
+  engineering professional identity.
 orderOnPage: 1
 readLink: 'https://doi.org/10.3998/mpub.11675767'
 buyLink: 'https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150178&PRESS=lever'
