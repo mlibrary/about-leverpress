@@ -10,10 +10,7 @@ title: Join Us
     </div>
     <div class="col-md-5">
         <div class="video-embed embed-responsive embed-responsive-16by9">
-        <iframe title="Why publish with Lever Press? video" width="560" height="315"
-        src="https://www.youtube-nocookie.com/embed/e2vF-SG0-WU" frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope;
-    picture-in-picture" allowfullscreen></iframe>
+            <iframe title="Why Lever Press?" width="560" height="315" src="https://www.youtube.com/embed/GtPgw52VSUU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </div>
     </div>
 </div>
