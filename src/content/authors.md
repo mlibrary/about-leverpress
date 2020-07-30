@@ -64,7 +64,9 @@ The Helen Hartness Flanders Ballad Archive at Middlebury College and the Kuna In
 
 ## For Current Authors
 
-* Lever Press Project Metadata Template
-* Final Manuscript Preparation Guidelines
+The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. Please download these documents for your own use and reference.
 
-  Lever Press Subvention Statement
+* [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1R5nmG9-FS6X8yA6vMtkjTcjxZfHfHgg2HS4G4deYIKg/edit)
+* [Lever Press Project Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
+
+ * Lever Press Subvention Statement
