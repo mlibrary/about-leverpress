@@ -68,4 +68,4 @@ The following resources, accessible via Google Drive, are for authors preparing 
 
 * [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1R5nmG9-FS6X8yA6vMtkjTcjxZfHfHgg2HS4G4deYIKg/edit)
 * [Lever Press Project Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
-*   <a href="assets/lever-press-subvention-statement.pdf">Lever Press Subvention Statement</a>
+*   <a href="assets/lever-subvention-statement.pdf">Lever Press Subvention Statement</a>
