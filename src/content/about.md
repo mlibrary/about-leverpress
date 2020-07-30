@@ -26,7 +26,6 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 **Current Editorial Board members:**
 
-* Phyllis Brown, Santa Clara University
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
 * Katherine Hite, Vassar College
@@ -35,7 +34,6 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Brett Rogers, University of Puget Sound
 * Lisa Trivedi, Hamilton College
 * Josephine Wright, College of Wooster
-* Zahi Zalloua, Whitman College
 
 **Standing**
 
@@ -55,8 +53,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Dalia Corkrum, Library Director, Whitman College (Treasurer)
 * Irene Herold, Librarian of the College, The College of Wooster
 * Alexia Hudson-Ward, Director of Libraries, Oberlin College
-* Jennifer Nutefall, University Librarian, Santa Clara University
-* Este Pope, Head of Digital Programs, Frost Library, Amherst College
+* Martin Garnar, Library Director, Frost Library, Amherst College
 * Deborah Prosser, Olin Library Director, Rollins College (Secretary)
 * Mike Roy, Dean of the Library, Middlebury College
 * John Tombarge, Professor and University Librarian, Washington and Lee University
