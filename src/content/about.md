@@ -50,7 +50,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Mark Christel, Librarian of the College, Grinnell College (Vice Chair/Chair-elect)
 * Dalia Corkrum, Library Director, Whitman College (Treasurer)
 * Irene Herold, Librarian of the College, The College of Wooster
-* Alexia Hudson-Ward, Oberlin College
+* Alexia Hudson-Ward, Library Director, Oberlin College
 * Martin Garnar, Library Director, Frost Library, Amherst College
 * Deborah Prosser, Olin Library Director, Rollins College (Secretary)
 * Mike Roy, Dean of the Library, Middlebury College
