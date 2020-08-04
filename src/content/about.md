@@ -49,9 +49,9 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Marta Brunner, College Librarian, Skidmore College (Chair)
 * Mark Christel, Librarian of the College, Grinnell College (Vice Chair/Chair-elect)
 * Dalia Corkrum, Library Director, Whitman College (Treasurer)
+* Martin Garnar, Library Director, Frost Library, Amherst College
 * Irene Herold, Librarian of the College, The College of Wooster
 * Alexia Hudson-Ward, Library Director, Oberlin College
-* Martin Garnar, Library Director, Frost Library, Amherst College
 * Deborah Prosser, Olin Library Director, Rollins College (Secretary)
 * Mike Roy, Dean of the Library, Middlebury College
 * John Tombarge, Professor and University Librarian, Washington and Lee University
