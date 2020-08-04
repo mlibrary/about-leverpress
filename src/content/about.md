@@ -29,7 +29,6 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
 * Katherine Hite, Vassar College
-* Karil Kucera, St. Olaf College
 * Jason Mittell, Middlebury College
 * Brett Rogers, University of Puget Sound
 * Lisa Trivedi, Hamilton College
@@ -47,12 +46,10 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Current Oversight Committee members:**
 
-* Neal Baker, Library Director, Earlham College
 * Marta Brunner, College Librarian, Skidmore College (Chair)
 * Mark Christel, Librarian of the College, Grinnell College (Vice Chair/Chair-elect)
 * Dalia Corkrum, Library Director, Whitman College (Treasurer)
 * Irene Herold, Librarian of the College, The College of Wooster
-* Alexia Hudson-Ward, Director of Libraries, Oberlin College
 * Martin Garnar, Library Director, Frost Library, Amherst College
 * Deborah Prosser, Olin Library Director, Rollins College (Secretary)
 * Mike Roy, Dean of the Library, Middlebury College
