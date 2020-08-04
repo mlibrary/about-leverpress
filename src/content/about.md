@@ -46,13 +46,13 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Current Oversight Committee members:**
 
-* Marta Brunner, College Librarian, Skidmore College (Chair)
+* Marta Brunner, College Librarian, Lucy Scribner Library, Skidmore College (Chair)
 * Mark Christel, Librarian of the College, Grinnell College (Vice Chair/Chair-elect)
-* Dalia Corkrum, Library Director, Whitman College (Treasurer)
+* Dalia Corkrum, College Librarian, Penrose Library, Whitman College (Treasurer)
 * Martin Garnar, Library Director, Frost Library, Amherst College
 * Irene Herold, Librarian of the College, The College of Wooster
-* Alexia Hudson-Ward, Library Director, Oberlin College
-* Deborah Prosser, Olin Library Director, Rollins College (Secretary)
+* Alexia Hudson-Ward, Azariah Smith Root Director of Libraries, Oberlin College and Conservatory
+* Deborah Prosser, Director of Olin Library, Rollins College (Secretary)
 * Mike Roy, Dean of the Library, Middlebury College
 * John Tombarge, Professor and University Librarian, Washington and Lee University
 
