@@ -69,9 +69,9 @@ title: Join Us
     <div class="col-md-7">
         <h2 class="featurette-heading">Benefits of Membership</h2>
         <h3 class="join-h3 text-primary">Agency &amp; Advocacy for the Liberal Arts</h3>
-        <p>Lever is more than a subscription to a monograph series. It is membership in an advocacy collective that amplifies the voice of liberal arts institutions to ensure a future for academic publishing and scholarly communications that meet the needs of our constituents. </p>
+        <p>Lever is more than a subscription to a monograph series. It is membership in an advocacy collective that amplifies the voice of the liberal arts ethos to ensure a future for academic publishing and scholarly communications that aligns with this mission and vision. </p>
         <h3 class="join-h3 text-primary">Diversity, Equity, &amp; Inclusion</h3>
-        <p>Lever membership is an investment in a more just scholarly ecosystem. Membership in Lever and Platinum OA is an equalizer, ensuring that smaller institutions have a voice in the future of scholarly communications and academic publishing. All liberal arts institutions, regardless of resources and budget, have the opportunity to benefit from Lever membership and to have a voice in Lever governance.</p>
+        <p>Lever membership is an investment in a more just scholarly ecosystem. Membership in Lever and Platinum OA is an equalizer, ensuring that institutions supporting the liberal arts ethos have a voice in the future of scholarly communications and academic publishing. All liberal arts supporting institutions, regardless of resources and budget, have the opportunity to benefit from Lever membership and to have a voice in Lever governance.</p>
         <h3 class="join-h3 text-primary">Shared Governance</h3>
         <p>Lever Press is governed by our members. Faculty in any discipline can serve on the Editorial Board and in various editorial roles, and library leaders serve on the governing board.</p>
     </div>
