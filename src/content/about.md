@@ -26,13 +26,13 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 **Current Editorial Board members:**
 
+* Carrie Baker, Smith College
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
 * Katherine Hite, Vassar College
 * Jason Mittell, Middlebury College
 * Brett Rogers, University of Puget Sound
 * Lisa Trivedi, Hamilton College
-* Josephine Wright, College of Wooster
 
 **Standing**
 
@@ -51,9 +51,14 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Dalia Corkrum, College Librarian, Penrose Library, Whitman College (Treasurer)
 * Martin Garnar, Library Director, Frost Library, Amherst College
 * Irene Herold, Librarian of the College, The College of Wooster
-* Alexia Hudson-Ward, Azariah Smith Root Director of Libraries, Oberlin College and Conservatory
+* Anne Houston, Dean of Libraries, Skillman Library, Lafayette College
+* Frances Maloy, College Librarian, Schaffer Library, Union College
+* Craig Milberg, University Librarian, Hatfield Library, Willamette University
+* Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
 * Deborah Prosser, Director of Olin Library, Rollins College (Secretary)
 * Mike Roy, Dean of the Library, Middlebury College
+* Bradley Schaffner, College Librarian, Gould Library, Carleton College
+* Peggy Seiden, College Librarian, Swarthmore College Libraries, Swarthmore College
 * John Tombarge, Professor and University Librarian, Washington and Lee University
 
 **Standing**
