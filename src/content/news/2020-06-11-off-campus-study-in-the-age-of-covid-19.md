@@ -6,10 +6,9 @@ summary: >-
   COVID-19. In March of 2020, nearly all small colleges rapidly depopulated
   their dormitories, quickly shifted to teaching courses online, and began
   conducting campus operations remotely. The authors of Faculty as Global
-  Learners: Off-Campus Study Leaders at Liberal Arts Colleges [coming soon from
-  Lever Press] and creators of the podcast “Postcard Pedagogy” offer some
-  suggestions for how colleges can deliver global learning experiences during a
-  global pandemic.
+  Learners: Off-Campus Study Leaders at Liberal Arts Colleges and creators of
+  the podcast “Postcard Pedagogy” offer some suggestions for how colleges can
+  deliver global learning experiences during a global pandemic.
 date: 2020-06-11T18:33:14.560Z
 ---
 When we set out to produce the first book that examines the role of faculty members in off-campus study, we hoped to accomplish three things. First, we wanted to respond to often-inaccurate or incomplete perceptions of off-campus study programs and the faculty who lead them. Some of these myths included that leading a program is “a vacation, not work,” or that it is somehow easier or less important than teaching on campus. Second, we wanted to shine a light on the “unseen” and often unrecognized work that faculty members do when they lead off-campus study programs. We wanted to highlight examples of creative teaching and document the full extent of the responsibilities that leaders carry. And third, we wanted to propose concrete steps to strategically align this high-impact practice for students with resources and recognition for faculty and staff.
