@@ -6,7 +6,7 @@ date: 2020-11-04T16:45:16.219Z
 ---
 <br>
 
-<a href="assets/2020-2021_final_web.pdf">View the digital 2020/2021 Lever Press Catalog</a>
+<a href="/assets/lever_2020-2021_final_print-1.pdf">View the digital 2020/2021 Lever Press Catalog</a>
 
 <br>
 
