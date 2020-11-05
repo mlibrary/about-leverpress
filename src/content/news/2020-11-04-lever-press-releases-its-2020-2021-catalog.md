@@ -10,4 +10,4 @@ date: 2020-11-04T16:45:16.219Z
 
 <br>
 
-![](assets/2020-2021_final_web-front-cover_resized.jpg)
+![](/assets/2020-2021_final_web-front-cover_resized.jpg)
