@@ -3,7 +3,7 @@ templateKey: book
 title: 'Confronting Child Sexual Abuse: Knowledge to Action'
 authorLastname: Nurse
 author: Anne M. Nurse
-cover: assets/nurse-front-cover_final_rev.jpg
+cover: assets/nurse-front-cover-02.jpg
 description: >-
   This new monograph from Anne M. Nurse describes how various forces shape our
   views of child sexual abuse victims and offenders, while also providing an
