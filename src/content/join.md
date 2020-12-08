@@ -24,10 +24,10 @@ title: Join Us
     </div>
     <div class="col-md-5 order-md-1">
         <table class="table table-bordered">
-            <caption class="scala-sans">Requested contribution rates are linked to annual acquisition budgets</caption>
+            <caption class="scala-sans">Requested contribution rates are based on an institution's most current materials expenditure as reported to IPEDS</caption>
             <thead class="scala-sans">
                 <tr>
-                    <th scope="col">Acquisitions Budget</th>
+                    <th scope="col">IPEDS Expenditure</th>
                     <th scope="col">Contribution Rate</th>
                 </tr>
             </thead>
