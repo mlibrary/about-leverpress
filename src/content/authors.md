@@ -8,7 +8,7 @@ We’re interested in proposals both for individual projects and for series of w
 
 If you’d like to get a sense of what we ask for in a proposal, you may download the templates to review:
 
-<a href="/assets/leverpressindividualprojectproposaltemplatepubliclyaccessible.pdf">Individual project proposal template</a>
+<a href="/assets/lever-press-individual-project-proposal-template-publicly-accessible-.pdf">Individual project proposal template</a>
 
 * (Please note that the principal editor of a proposed series must be affiliated with a Lever Press participating institution)
 
