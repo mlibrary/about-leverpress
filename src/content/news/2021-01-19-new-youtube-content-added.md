@@ -1,6 +1,6 @@
 ---
 templateKey: news
-title: New YouTube Content Added
+title: Lever Announces New Book Talks on YouTube Channel
 summary: >-
   We are pleased to announce two new Lever Press Book Talks on our YouTube
   channel.
