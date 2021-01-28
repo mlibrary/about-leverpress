@@ -27,6 +27,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Current Editorial Board members:**
 
 * Carrie Baker, Smith College
+* Richard Benson, Spelman College
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
 * Katherine Hite, Vassar College
@@ -37,7 +38,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Standing**
 
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
-* Marta Brunner, Oversight Committee Chair, ex officio
+* Mark Christel, Oversight Committee Chair, ex officio
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 
 <h2 id="oversight">Oversight Committee</h2>
@@ -46,8 +47,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Current Oversight Committee members:**
 
-* Marta Brunner, College Librarian, Lucy Scribner Library, Skidmore College (Chair)
-* Mark Christel, Librarian of the College, Grinnell College (Vice Chair/Chair-elect)
+* Mark Christel, Librarian of the College, Grinnell College (Chair)
 * Dalia Corkrum, College Librarian, Penrose Library, Whitman College (Treasurer)
 * Martin Garnar, Library Director, Frost Library, Amherst College
 * Irene Herold, Librarian of the College, The College of Wooster
@@ -59,7 +59,6 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Mike Roy, Dean of the Library, Middlebury College
 * Bradley Schaffner, College Librarian, Gould Library, Carleton College
 * Peggy Seiden, College Librarian, Swarthmore College Libraries, Swarthmore College
-* John Tombarge, Professor and University Librarian, Washington and Lee University
 
 **Standing**
 
