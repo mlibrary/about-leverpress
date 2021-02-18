@@ -1,6 +1,6 @@
 ---
 templateKey: event
-title: Lever Press Update Sessions
+title: 'Lever Press Update Sessions - March 15, March 24, April 2'
 summary: >-
   Join us for a fast-paced Zoom update on Lever Press from the Lever Press Team.
   You’ll learn about updates to the catalog and editorial program, new
