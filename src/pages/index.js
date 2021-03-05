@@ -11,6 +11,7 @@ import NewsList from "../components/news/newsList"
 import EventList from "../components/events/eventList"
 import Video from "../components/video"
 import MapImage from "../components/mapImage"
+import Catalog from "../components/catalog"
 
 export const IndexQuery = graphql`
 query {
@@ -40,6 +41,17 @@ query {
             }
           }
         }
+      }
+      catalogSection {
+        heading
+        catalogImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        catalogPdf
       }
     }
   }
@@ -127,6 +139,7 @@ const IndexPage = ({data}) => {
   const newsletter = data.home.frontmatter.newsletterSection
   const video = data.home.frontmatter.videoSection
   const map = data.home.frontmatter.mapSection
+  const catalog = data.home.frontmatter.catalogSection
   const books = data.books.edges
   const news = data.news.edges
   const events = data.events.edges
@@ -144,14 +157,14 @@ const IndexPage = ({data}) => {
             </div>
           </div>
         </section>
-        <section className="tagline-newsletter-container">
+        <section className="tagline-catalog-container">
           <div className="container">
             <div className="row">
-              <div className="tagline-container col-md-9">
+              <div className="tagline-container col-md-8">
                 <Tagline text={tagline.text} />
               </div>
-              <div className="newsletter-container col-md-3">
-                <Newsletter newsletter={newsletter} />
+              <div className="catalog-container col-md-4">
+                <Catalog catalog={catalog} />
               </div>
             </div>
           </div>
@@ -160,23 +173,30 @@ const IndexPage = ({data}) => {
         <section className="author-library-container">
           <div className="container">
             <div className="row">
-              <div className="author-container col">
-                <div className="row">
-                <div className="col-md-6">
-                    <p>Interested in publishing your next book with us?</p>
-                  </div>
-                  <div className="col-md-6">
-                    <a className="btn btn-lg btn-secondary" href="/authors">Publish With Us</a>
+              <div className="author-container col-sm">
+                <div className="container">
+                  <div className="row">
+                    <div className="col-md-6">
+                      <p>Interested in publishing your next book with us?</p>
+                    </div>
+                    <div className="col-md-6">
+                      <a className="btn btn-secondary" href="/authors">Publish With Us</a>
+                    </div>
                   </div>
                 </div>
               </div>
-              <div className="library-container col">
-                <div className="row">
-                  <div className="col-md-8">
-                    <p>Join over 50 liberal arts colleges and their libraries who support our Open Access mission</p>
-                  </div>
-                  <div className="col-md-4">
-                    <a className="btn btn-lg btn-secondary" href="/join">Join Us</a>
+              <div className="newsletter-container col-sm">
+                  <Newsletter newsletter={newsletter} />
+              </div>
+              <div className="library-container col-sm">
+                <div className="container">
+                  <div className="row">
+                    <div className="col-md-8">
+                      <p>Join over 50 liberal arts colleges and their libraries who support our Open Access mission</p>
+                    </div>
+                    <div className="col-md-4">
+                      <a className="btn btn-secondary" href="/join">Join Us</a>
+                    </div>
                   </div>
                 </div>
               </div>

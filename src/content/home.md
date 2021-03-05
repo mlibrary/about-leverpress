@@ -31,5 +31,10 @@ mapSection:
     world and other statistics about the usage of our books.
   heading: Our impact and reach is global
   mapImage: /assets/screen-shot-2019-11-18-at-11.29.58-am.png
+catalogSection:
+  heading: Lever Press Seasonal Catalog
+  catalogImage: /assets/2020-2021_final_web-front-cover_resized.jpg
+  catalogPdf: >-
+    <a class="btn btn-primary" href="/assets/lever_2020-2021_final_print-1.pdf">Explore our Catalog</a>
 ---
 

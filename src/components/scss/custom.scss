@@ -140,7 +140,7 @@ p {
 }
 
 // home - tagline and newsletter button
-.tagline-newsletter-container {
+.tagline-catalog-container {
   background-color: $lever-brand-color;
   padding: 4rem 0;
   border-top: 1px solid rgba(0,0,0,.125);
@@ -148,14 +148,35 @@ p {
   .tagline {
     font-weight: bold;
     font-size: 1.6rem;
+    margin-left: 1.5em;
   }
+}
+
+// home - catalog
+.catalog-wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  figure {
+    display: flex;
+    justify-content: center;
+  }
+
+}
+.catalog-image {
+  width: 95px;
 }
 
 // home - for authors/for libraries, impact report
 .author-library-container {
-  padding: 2.5rem 0;
+  padding: 1.5rem 0;
   border-bottom: 1px solid rgba(0,0,0,.125);
   border-top: 1px solid rgba(0,0,0,.125);
+
+  .author-container, .newsletter-container, .library-container {
+    margin: 15px 0;
+  }
 }
 
 .video-impact-container {
