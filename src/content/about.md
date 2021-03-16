@@ -53,9 +53,9 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Irene Herold, Librarian of the College, The College of Wooster
 * Anne Houston, Dean of Libraries, Skillman Library, Lafayette College
 * Frances Maloy, College Librarian, Schaffer Library, Union College
-* Craig Milberg, University Librarian, Hatfield Library, Willamette University
+* Craig Milberg, University Librarian, Hatfield Library, Willamette University (Secretary)
 * Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
-* Deborah Prosser, Director of Olin Library, Rollins College (Secretary)
+* Deborah Prosser, Director of Olin Library, Rollins College
 * Mike Roy, Dean of the Library, Middlebury College
 * Bradley Schaffner, College Librarian, Gould Library, Carleton College
 * Peggy Seiden, College Librarian, Swarthmore College Libraries, Swarthmore College
