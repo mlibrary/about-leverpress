@@ -8,8 +8,6 @@ summary: >-
   that Lever publications are having in the world. 
 date: 2021-02-18T19:20:52.699Z
 ---
-
-
 Presenters include:\
 \
 Beth Bouloukos, Editor\
@@ -35,3 +33,5 @@ Register in advance for this meeting:\
 <https://amherstcollege.zoom.us/meeting/register/tJEkc-6vpzspEtOeVvessoNe9DUckKz3ElQY>\
 \
 After registering, you will receive a confirmation email containing information about joining the meeting. We hope to see you at one of the sessions!
+
+**Couldn't attend one of the sessions?** Watch a [recording](https://youtu.be/bIeICwYCugE) on our Lever Press YouTube channel!
