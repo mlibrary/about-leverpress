@@ -28,8 +28,8 @@ catalogSection:
   heading: Lever Press Seasonal Catalog
   catalogImage: /assets/2020-2021_final_web-front-cover_resized.jpg
   catalogPdf: >-
-    <a class="btn btn-primary" href="assets/2020-2021_final_print.pdf">Explore
-    our Catalog</a>
+    <a class="btn btn-primary"
+    href="/assets/lever-catalog-digital-booklet.pdf">Explore our Catalog</a>
 mapSection:
   description: >-
     Learn about our impact with real-time mapping of views and downloads of our
