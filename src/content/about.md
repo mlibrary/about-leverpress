@@ -122,12 +122,14 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Berea College
 * Bowdoin College
 * Carleton College
+* Central Washington University
 * Claremont Graduate University
 * Claremont McKenna College
 * Clark Atlanta University
 * Coe College
 * The College of Wooster
 * College of Saint Benedict / Saint John's University
+* Davidson College
 * Denison University
 * DePauw University
 * Earlham College
@@ -137,6 +139,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Harvey Mudd College
 * Haverford College
 * Hollins University
+* Iowa State University
 * Keck Graduate Institute
 * Kenyon College
 * Knox College
@@ -149,6 +152,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Oberlin College
 * Pitzer College
 * Pomona College
+* Randolph-Macon College
 * Rollins College
 * Santa Clara University
 * Scripps College
@@ -162,11 +166,16 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Swarthmore College
 * Trinity University
 * Union College
+* University of California, Los Angeles Library
+* University of Idaho
 * University of Puget Sound
+* University of San Francisco
 * Ursinus College
 * Vassar College
 * Washington and Lee University
 * Whitman College
+* Whittier College
+* Whitworth University
 * Willamette University
 * Williams College
 
