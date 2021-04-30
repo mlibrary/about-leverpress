@@ -3,7 +3,7 @@ templateKey: book
 title: Women of Trachis
 authorLastname: Sophokles
 author: Translated by Rachel Kitzinger and Eamon Grennan
-cover: assets/sophokles-front-cover_oa.jpg
+cover: assets/sophokles-front-cover_oa_400x600.jpg
 description: >-
   This new Sophokles translation is a living script in conversation with the
   past. Rachel Kitzinger, a Classicist, and Eamon Grennan, a poet, have captured
