@@ -6,7 +6,7 @@ title: Publish With Us
 
 We’re interested in proposals both for individual projects and for series of works consistent with our theme and focus. Please consult our editorial program below to read about the areas of work of particular interest to our editors.
 
-If you’d like to get a sense of what we ask for in a proposal, you may download the templates to review:
+If you’d like to get a sense of what we ask for in a proposal, as well as preview the author agreement, you may download the templates to review:
 
 <a href="/assets/lever-press-individual-project-proposal-template-publicly-accessible-.pdf">Individual project proposal template</a>
 
@@ -14,7 +14,7 @@ If you’d like to get a sense of what we ask for in a proposal, you may downloa
 
 When you’re ready, [submit a proposal to Lever Press at info@leverpress.org](mailto:info@leverpress.org)
 
-<a href=""></a>
+<a href="/assets/lever-press-author-contract.pdf">Author publishing agreement</a>
 
 Have questions? Want guidance before proceeding with a proposal? Write to us at info@leverpress.org
 
