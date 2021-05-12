@@ -21,48 +21,13 @@ title: Join Us
         <p class="lead">Publishing high-quality scholarship is costly. No one disputes this.</p>
         <p>Lever Press is premised on the idea that it’s better to pay once for a work and create an open access result than to cover costs through a system demanding repeated payments—for purchasing, for copying, for long-term preservation, etc. This “pay-in-the-middle” membership model replaces paying at the consumer end or the producer end. Both of those models end up driving, not addressing, the growing inequality in access to scholarly information.</p>
         <p>Libraries that provide support for Lever Press become part of the conversation shaping both the editorial program and objectives of the press and the principles by which we do our work.</p>
-    </div>
-    <div class="col-md-5 order-md-1">
-        <table class="table table-bordered">
-            <caption class="scala-sans">Requested contribution rates are based on an institution's most current materials expenditure as reported to IPEDS</caption>
-            <thead class="scala-sans">
-                <tr>
-                    <th scope="col">IPEDS Expenditure</th>
-                    <th scope="col">Contribution Rate</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Less than $300,000</td>
-                    <td>$500 annually</td>
-                </tr>
-                <tr>
-                    <td>$300,000 - $499,999</td>
-                    <td>$2,000 annually</td>
-                </tr>
-                <tr>
-                    <td>$500,000 - $749,999</td>
-                    <td>$4,000 annually</td>
-                </tr>
-                <tr>
-                    <td>$750,000 - $1,499,999</td>
-                    <td>$6,000 annually</td>
-                </tr>
-                <tr>
-                    <td>$1,500,000 - $2,999,999</td>
-                    <td>$8,000 annually</td>
-                </tr>
-                <tr>
-                    <td>$3,000,000 - $5,999,999</td>
-                    <td>$10,000 annually</td>
-                </tr>
-                <tr>
-                    <td>More than $6,000,000</td>
-                    <td>$12,000 annually</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+
+<p>
+
+<a href="/assets/lever_press_pledge_agreement_phase-2.pdf">View the Lever Press member agreement</a>
+
+</p>     </div>     <div class="col-md-5 order-md-1">         <table class="table table-bordered">             <caption class="scala-sans">Requested contribution rates are based on an institution's most current materials expenditure as reported to IPEDS</caption>             <thead class="scala-sans">                 <tr>                     <th scope="col">IPEDS Expenditure</th>                     <th scope="col">Contribution Rate</th>                 </tr>             </thead>             <tbody>                 <tr>                     <td>Less than $300,000</td>                     <td>$500 annually</td>                 </tr>                 <tr>                     <td>$300,000 - $499,999</td>                     <td>$2,000 annually</td>                 </tr>                 <tr>                     <td>$500,000 - $749,999</td>                     <td>$4,000 annually</td>                 </tr>                 <tr>                     <td>$750,000 - $1,499,999</td>                     <td>$6,000 annually</td>                 </tr>                 <tr>                     <td>$1,500,000 - $2,999,999</td>                     <td>$8,000 annually</td>                 </tr>                 <tr>                     <td>$3,000,000 - $5,999,999</td>                     <td>$10,000 annually</td>                 </tr>                 <tr>                     <td>More than $6,000,000</td>                     <td>$12,000 annually</td>                 </tr>             </tbody>         </table>     </div>
+
 </div>
 <hr class="featurette-divider">
 <div class="row featurette">
