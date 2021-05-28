@@ -7,7 +7,7 @@ authorLastname: Byrd
 author: Curtis Byrd and Rihana S. Mason
 cover: assets/byrd_cover_front_oa.jpg
 description: >-
-  *Academic Pipeline Programs* describes best practices of successful academic
+  Curtis Byrd and Rihana S. Mason describe best practices of successful academic
   government and privately funded pre-collegiate, collegiate, graduate, and
   postdoctoral/faculty development pipeline programs.
 orderOnPage: 1
