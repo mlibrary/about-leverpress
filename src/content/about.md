@@ -149,6 +149,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Middlebury College
 * Morehouse College
 * Morehouse School of Medicine
+* Norwich University
 * Oberlin College
 * Pitzer College
 * Pomona College
