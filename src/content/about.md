@@ -32,6 +32,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Darin Hayton, Haverford College (Chair)
 * Katherine Hite, Vassar College
 * Jason Mittell, Middlebury College
+* Hai-Dang Phan, Grinnell College
 * Brett Rogers, University of Puget Sound
 * Lisa Trivedi, Hamilton College
 
@@ -50,12 +51,10 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Mark Christel, Librarian of the College, Grinnell College (Chair)
 * Dalia Corkrum, College Librarian, Penrose Library, Whitman College (Treasurer)
 * Martin Garnar, Library Director, Frost Library, Amherst College
-* Irene Herold, Librarian of the College, The College of Wooster
 * Anne Houston, Dean of Libraries, Skillman Library, Lafayette College
 * Frances Maloy, College Librarian, Schaffer Library, Union College
 * Craig Milberg, University Librarian, Hatfield Library, Willamette University (Secretary)
 * Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
-* Deborah Prosser, Director of Olin Library, Rollins College
 * Mike Roy, Dean of the Library, Middlebury College
 * Bradley Schaffner, College Librarian, Gould Library, Carleton College
 * Peggy Seiden, College Librarian, Swarthmore College Libraries, Swarthmore College
