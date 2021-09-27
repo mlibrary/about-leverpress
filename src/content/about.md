@@ -51,7 +51,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Mark Christel, Librarian of the College, Grinnell College (Chair)
 * Dalia Corkrum, College Librarian, Penrose Library, Whitman College (Treasurer)
 * Martin Garnar, Library Director, Frost Library, Amherst College
-* Anne Houston, Dean of Libraries, Skillman Library, Lafayette College
+* Anne Houston, Dean of Libraries, Skillman Library, Lafayette College (Vice Chair/Chair-elect)
 * Frances Maloy, College Librarian, Schaffer Library, Union College
 * Craig Milberg, University Librarian, Hatfield Library, Willamette University (Secretary)
 * Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
