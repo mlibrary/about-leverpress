@@ -170,6 +170,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * University of Idaho
 * University of Puget Sound
 * University of San Francisco
+* University of Vermont
 * Ursinus College
 * Vassar College
 * Washington and Lee University
