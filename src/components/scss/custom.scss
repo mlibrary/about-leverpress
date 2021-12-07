@@ -53,6 +53,14 @@ $lever-brand-color: #003352;
 $lever-accent-color: #78B3E0;
 $lever-black-80: #342f2e;
 
+:focus {
+  outline: 3px solid #00AFEC;
+  outline-offset: 0;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
+}
+
 // links
 p {
   a {
