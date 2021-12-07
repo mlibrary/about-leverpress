@@ -32,7 +32,7 @@ const Footer = () => {
             </p>  
           </div>
           <div className="col-md-3">
-            <h5>Our Partners</h5>
+            <div className="footer-head scala-sans">Our Partners</div>
             <ul className="list-unstyled text-small">
               <li><a href="https://acpress.amherst.edu/" className="text-light">Amherst College Press</a></li>
               <li><a href="http://www.oberlingroup.org/" className="text-light">Oberlin Group</a></li>
@@ -40,7 +40,7 @@ const Footer = () => {
             </ul>
           </div>
           <div className="col-md-3">
-            <h5>Peer Review</h5>
+            <div className="footer-head scala-sans">Peer Review</div>
             <ul className="list-unstyled text-small">
               <li><a href="/peerreview" className="text-light">Our Commitments and Guidelines</a></li>
             </ul>

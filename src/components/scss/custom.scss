@@ -192,6 +192,12 @@ p {
   }
 }
 
+.event-card-container {
+  h3 {
+    font-size: 1.25rem;
+  }
+}
+
 // video
 .video-embed {
   margin-bottom: 1rem;
@@ -220,7 +226,7 @@ p {
       line-height: 1.5;
     }
 
-    h4 {
+    time {
       font-size: .9em;
       margin-top: .2em !important;
     }
@@ -350,6 +356,13 @@ p.social {
         fill: $lever-accent-color;
       }
     }
+  }
+
+  .footer-head {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    margin-bottom: .5rem;
   }
 
 }
