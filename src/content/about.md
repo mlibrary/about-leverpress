@@ -48,16 +48,18 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Current Oversight Committee members:**
 
-* Mark Christel, Librarian of the College, Grinnell College (Chair)
-* Dalia Corkrum, College Librarian, Penrose Library, Whitman College (Treasurer)
+* Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
+* Marta Brunner, College Librarian, Lucy Scribner Library, Skidmore College
+* Susan Fliss, Dean of Libraries, Neilson Library, Smith College
 * Martin Garnar, Library Director, Frost Library, Amherst College
-* Anne Houston, Dean of Libraries, Skillman Library, Lafayette College (Vice Chair/Chair-elect)
+* Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
+* Anne Houston, Dean of Libraries, Skillman Library, Lafayette College (Chair)
+* Rebecca Lubas, Dean of Libraries, Brooks Library, Central Washington University
 * Frances Maloy, College Librarian, Schaffer Library, Union College
-* Craig Milberg, University Librarian, Hatfield Library, Willamette University (Secretary)
+* Craig Milberg, University Librarian, Hatfield Library, Willamette University (Treasurer)
 * Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
-* Mike Roy, Dean of the Library, Middlebury College
 * Bradley Schaffner, College Librarian, Gould Library, Carleton College
-* Peggy Seiden, College Librarian, Swarthmore College Libraries, Swarthmore College
+* Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University
 
 **Standing**
 
@@ -112,44 +114,32 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 
 <h2 id="institutions">Our Supporting Institutions</h2>
 
-* Adrian College
-* Agnes Scott College
-* Allegheny College
 * Amherst College
 * Atlanta University Center Consortium
-* Bard College
 * Berea College
 * Bowdoin College
 * Carleton College
 * Central Washington University
-* Claremont Graduate University
+* Claremont Graduate Institution
 * Claremont McKenna College
 * Clark Atlanta University
-* Coe College
 * The College of Wooster
-* College of Saint Benedict / Saint John's University
+* The College of Saint Benedict / Saint John's University
 * Davidson College
 * Denison University
 * DePauw University
-* Earlham College
-* Furman University
 * Grinnell College
 * Hamilton College
 * Harvey Mudd College
-* Haverford College
 * Hollins University
 * Iowa State University
 * Keck Graduate Institute
-* Kenyon College
-* Knox College
 * Lafayette College
-* Lake Forest College
 * Macalester College
 * Middlebury College
 * Morehouse College
 * Morehouse School of Medicine
 * Norwich University
-* Oberlin College
 * Penn State University
 * Pitzer College
 * Pomona College
@@ -157,12 +147,9 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Rollins College
 * Santa Clara University
 * Scripps College
-* Sewanee: The University of the South
 * Skidmore College
-* St. Lawrence University
 * Smith College
 * Spelman College
-* St. Olaf College
 * Susquehanna University
 * Swarthmore College
 * Trinity University
@@ -170,7 +157,6 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * University of California, Los Angeles Library
 * University of Idaho
 * University of Puget Sound
-* University of Richmond
 * University of San Francisco
 * University of Vermont
 * Ursinus College
