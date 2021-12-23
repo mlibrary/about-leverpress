@@ -2,7 +2,7 @@
 templateKey: book
 title: What Kind of Island in What Kind of Sea
 authorLastname: Hamilton
-author: Franz Fühmann with Elizabeth C. Hamilton and Dietmar Riemann
+author: 'Franz Fühmann and Dietmar Riemann, translated by Elizabeth C. Hamilton'
 cover: assets/hamilton-front-f.jpg
 description: >-
   Elizabeth C. Hamilton's new English translation of Franz Fühmann and Dietmar
