@@ -39,7 +39,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Standing**
 
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
-* Mark Christel, Oversight Committee Chair, ex officio
+* Anne Houston, Oversight Committee Chair, ex officio
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 
 <h2 id="oversight">Oversight Committee</h2>
