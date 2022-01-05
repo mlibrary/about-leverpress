@@ -122,7 +122,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Bowdoin College
 * Carleton College
 * Central Washington University
-* Claremont Graduate Institution
+* Claremont Graduate University
 * Claremont McKenna College
 * Clark Atlanta University
 * The College of Wooster
