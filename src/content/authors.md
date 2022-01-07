@@ -14,7 +14,7 @@ If you’d like to get a sense of what we ask for in a proposal, as well as prev
 
 When you’re ready, [submit a proposal to Lever Press at info@leverpress.org](mailto:info@leverpress.org)
 
-<a href="/assets/lever-press-author-contract.pdf">Author publishing agreement</a>
+<a href="assets/lever-press-author-contract_2021.pdf">Author publishing agreement</a>
 
 Have questions? Want guidance before proceeding with a proposal? Write to us at info@leverpress.org
 
