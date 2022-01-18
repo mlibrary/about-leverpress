@@ -39,6 +39,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Standing**
 
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
+* Sean Guynes, Acquiring Editor, Lever Press
 * Anne Houston, Oversight Committee Chair, ex officio
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 
@@ -64,6 +65,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 **Standing**
 
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
+* Sean Guynes, Acquiring Editor, Lever Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
 <h2 id="operations">Operations Group</h2>
@@ -72,10 +74,10 @@ The Lever Press Operations Group is essentially the production backbone of Lever
 
 * Beth Bouloukos, Director, Amherst College Press and Lever Press
 * Hannah Brooks-Motl, Assistant Acquisitions Editor, Amherst College Press & Lever Press
+* Sean Guynes, Acquiring Editor, Lever Press
 * Jason Colman, Director, Michigan Publishing Services
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 * Terri Geitgey, Program Manager, Lever Press and Publishing Services Librarian, Michigan Publishing Services
-* Sean Guynes, Acquiring Editor, Michigan Publishing Services
 * Amanda Karby, Senior Digital Publishing Coordinator, Michigan Publishing Services
 * Kristen Twardowski, Director of Sales, Marketing, and Outreach, University of Michigan Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
