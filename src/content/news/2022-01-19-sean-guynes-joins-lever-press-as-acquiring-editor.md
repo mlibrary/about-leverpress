@@ -1,7 +1,9 @@
 ---
 templateKey: news
 title: Sean Guynes Joins Lever Press as Acquiring Editor
-summary: 'Welcoming Sean Guynes to Lever Press as Acquiring Editor '
+summary: >-
+  Welcoming Sean Guynes to Lever Press as an Acquisitions Leader with a
+  Commitment to Justice, Inclusion, and Access 
 date: 2022-01-19T13:28:00.000Z
 ---
 <!--StartFragment-->
