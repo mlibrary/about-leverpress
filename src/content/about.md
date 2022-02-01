@@ -51,15 +51,16 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 * Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
 * Marta Brunner, College Librarian, Lucy Scribner Library, Skidmore College
+* Mark Christel, Librarian of the College, Grinnell College (past chair ex officio)
 * Susan Fliss, Dean of Libraries, Neilson Library, Smith College
 * Martin Garnar, Library Director, Frost Library, Amherst College
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
 * Anne Houston, Dean of Libraries, Skillman Library, Lafayette College (Chair)
 * Rebecca Lubas, Dean of Libraries, Brooks Library, Central Washington University
-* Frances Maloy, College Librarian, Schaffer Library, Union College
+* Frances Maloy, College Librarian, Schaffer Library, Union College (Vice Chair/Chair-elect)
 * Craig Milberg, University Librarian, Hatfield Library, Willamette University (Treasurer)
 * Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
-* Bradley Schaffner, College Librarian, Gould Library, Carleton College
+* Bradley Schaffner, College Librarian, Gould Library, Carleton College (Secretary)
 * Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University
 
 **Standing**
