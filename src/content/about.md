@@ -139,6 +139,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Hollins University
 * Iowa State University
 * Keck Graduate Institute
+* Knox College
 * Lafayette College
 * Macalester College
 * Middlebury College
