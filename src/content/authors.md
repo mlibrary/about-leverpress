@@ -4,19 +4,11 @@ title: Publish With Us
 ---
 ## Authors
 
-We’re interested in proposals both for individual projects and for series of works consistent with our theme and focus. Please consult our editorial program below to read about the areas of work of particular interest to our editors.
+We’re interested in proposals both for individual projects and for series of works consistent with our theme and focus. To submit a proposal, please consider the guidelines below:
 
-If you’d like to get a sense of what we ask for in a proposal, as well as preview the author agreement, you may download the templates to review:
+* [Lever Press Proposal Guidelines](https://drive.google.com/file/d/13P_zJiOjWtdjsF6L6wWgmGabECWLosaf/view?usp=sharing)
 
-<a href="/assets/lever-press-individual-project-proposal-template-publicly-accessible-.pdf">Individual project proposal template</a>
-
-* (Please note that the principal editor of a proposed series must be affiliated with a Lever Press participating institution)
-
-When you’re ready, [submit a proposal to Lever Press at info@leverpress.org](mailto:info@leverpress.org)
-
-<a href="assets/lever-press-author-contract_2021.pdf">Author publishing agreement</a>
-
-Have questions? Want guidance before proceeding with a proposal? Write to us at info@leverpress.org
+When you’re ready, [](mailto:info@leverpress.org)please submit a proposal directly to the acquiring editor, Sean Guynes, at sean@leverpress.org. We are also have to field any question and offer guidance prior to your submission. Reach out to the editor directly or, for more general inquiries, contact info@leverpress.org.
 
 ## The Lever Press Editorial Program
 
@@ -24,7 +16,7 @@ Lever Press is a publisher of pathbreaking scholarship. Supported by a consortiu
 
 * To be a press aligned with the ethos and mission of liberal arts colleges;
 * To be a peer-reviewed, open access press that charges no fees to either authors or their institutions; and
-* To publish rich media digital books simultaneously available in print. 
+* To publish media-rich, digitally native books simultaneously available in print. 
 
 We seek out, identify, evaluate, and advocate for transformative scholarship that
 
@@ -34,11 +26,11 @@ We seek out, identify, evaluate, and advocate for transformative scholarship tha
 
 This century has been marked by the tension between human progress and optimism on the one hand and increasingly complex global crises on the other hand. Creating the conditions for thriving communities, colleges, and universities in the coming decades requires moving beyond traditional disciplinary boundaries and finding ways to think and work together across divergent methodologies, perspectives, contexts—even, sometimes, fundamental commitments. Accordingly, Lever Press seeks proposals that bring diverse perspectives to bear upon pressing issues of social, moral, political, and scientific concern. 
 
- Such projects might be single-authored monographs; they might also involve interdisciplinary groups of scholars bringing a variety of perspectives to bear on a given question; discussions among scholars of contending, even irreconcilable, viewpoints, modeling civil discourse; or a constructive approach to a question from a discipline not ordinarily thought to be the obvious starting point. 
+Such projects might be single-authored monographs; they might also involve interdisciplinary groups of scholars bringing a variety of perspectives to bear on a given question; discussions among scholars of contending, even irreconcilable, viewpoints, modeling civil discourse; or a constructive approach to a question from a discipline not ordinarily thought to be the obvious starting point. 
 
-Our works are published on [Fulcrum](https://www.fulcrum.org/), which provides a platform allowing narrative to be richly integrated with associated data (images, videos, audio files, visualizations, etc.), optimized for long-term preservation and accessibility. 
+Our works are published digitally on [Fulcrum](https://www.fulcrum.org/), which provides a platform allowing narrative to be richly integrated with associated data (images, videos, audio files, visualizations, etc.), optimized for long-term preservation and accessibility. 
 
-## Existing series
+## Existing Series
 
  *ASIANetwork Books*, series editors Erin McCarthy and Lisa Trivedi 
 
@@ -56,18 +48,6 @@ Combining the possibilities of digital scholarship with the long-standing streng
 
 The Re-Editions series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. Quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.   
 
-## Areas of Interest
-
-*Teaching, Learning, and Leading in Liberal Arts Colleges* 
-
-Liberal arts colleges have played a distinctive, leadership role in the development of American higher education. Lever Press seeks to publish work that highlights excellence in the scholarship of teaching and learning and strategies that enable transformational student development. We will also seek contributions from academic leadership reflecting on the present and future state of liberal arts education, providing a forum for both constructive self-reflection and leadership for policy makers, administrators, trustees, graduates, and others who care about sustaining and improving upon the liberal arts college tradition.
-
-__
-
-*Archives and Special Collections*
-
-The Helen Hartness Flanders Ballad Archive at Middlebury College and the Kuna Indian or Burmese works housed in the Denison Museum are just two of many examples of the remarkable materials held by many liberal arts colleges. Lever Press welcomes interdisciplinary studies of a specific collection, and encourages thematic studies across institutional collections that promote collaboration and illustrate our connections. Of particular interest are as-yet unexplored narratives of communities, movements, and populations whose voices have been marginalized and excluded.
-
 ## For Current Authors
 
 The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. Please download these documents for your own use and reference.
@@ -76,5 +56,6 @@ The following resources, accessible via Google Drive, are for authors preparing 
 * [Lever Press Project Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
 * [Lever Press Subvention Statement](https://docs.google.com/document/d/10M3LG2QOULWTDSjLCMEEw83LfIsfeAtem1i5_371z0Y/edit?usp=sharing)
 * [Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
-* [Contributor's Agreement](https://docs.google.com/document/d/1Svqoo0-W3tKqlP-F8usmIrlIrc6l6kpUE2FTC0FX7-4/edit)
+* [Author Agreement](https://docs.google.com/document/d/1cibX0n8DlZxxS-GWhCN92PunZxmfEkdjOesJC-Bn--o/edit?usp=sharing)
+* [Contributor Agreement](https://docs.google.com/document/d/1YOX8uQ-SpZFEjl-w5C_wSX_B-j062eNBxqZrDJVEEzI/edit?usp=sharing)
 * [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
