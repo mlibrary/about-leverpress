@@ -6,7 +6,7 @@ title: Publish With Us
 
 We’re interested in proposals both for individual projects and for series of works consistent with our theme and focus. To submit a proposal, please consider the guidelines below:
 
-* [Lever Press Proposal Guidelines](https://drive.google.com/file/d/13P_zJiOjWtdjsF6L6wWgmGabECWLosaf/view?usp=sharing)
+* [Lever Press Proposal Guidelines](https://drive.google.com/file/d/14lAmS6Fxp0njzSyVLqIMqsq9YhPuH8of/view?usp=sharing)
 
 When you’re ready, [](mailto:info@leverpress.org)please submit a proposal directly to the acquiring editor, Sean Guynes, at sean@leverpress.org. We are also have to field any question and offer guidance prior to your submission. Reach out to the editor directly or, for more general inquiries, contact info@leverpress.org.
 
