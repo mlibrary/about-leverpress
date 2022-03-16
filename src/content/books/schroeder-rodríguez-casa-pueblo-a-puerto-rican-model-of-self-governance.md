@@ -5,7 +5,7 @@ authorLastname: Schroeder Rodríguez
 author: >-
   Alexis Massol González with translation by Ashwin Ravikumar and Paul Schroeder
   Rodríguez
-cover: assets/casa-pueblo-front.jpg
+cover: assets/9781643150345-perfect-f.jpg
 description: >-
   This collective translation of Casa Pueblo founder Alexis Massol González's
   original work was undertaken in the spirit of the organization and offers a
