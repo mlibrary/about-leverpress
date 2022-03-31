@@ -22,7 +22,7 @@ Unlike other Open Access initiatives, Lever Press is a press governed by its par
 
 <h2 id="editorial">Editorial Board</h2>
 
-The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press. The Board consists of faculty nominated from Lever Press pledging institutions and selected by the Oversight Committee. The Chair of the Oversight Committee holds an ex officio position on the Board and two representatives from Michigan Publishing and Amherst College Press hold non-voting positions. The Board meets monthly by teleconference and in person at least once per year.
+The Editorial Board is responsible for overseeing the acquisition, review, and development process through which individual titles have progressed, and to assure by its imprimatur both the scholarly quality of a work and its alignment with the editorial program of the Lever Press. The Board consists of faculty nominated from Lever Press pledging institutions and selected by the Oversight Committee. The Chair of the Oversight Committee holds an ex officio position on the Board and two representatives from Michigan Publishing hold non-voting positions. The Board meets monthly by teleconference and in person at least once per year.
 
 **Current Editorial Board members:**
 
@@ -30,7 +30,6 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Richard Benson, Spelman College
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
-* Katherine Hite, Vassar College
 * Jason Mittell, Middlebury College
 * Hai-Dang Phan, Grinnell College
 * Brett Rogers, University of Puget Sound
@@ -38,14 +37,13 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 **Standing**
 
-* Beth Bouloukos, Director, Amherst College Press and Lever Press
 * Sean Guynes, Acquiring Editor, Lever Press
 * Anne Houston, Oversight Committee Chair, ex officio
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 
 <h2 id="oversight">Oversight Committee</h2>
 
-The Oversight Committee is responsible for overall strategic guidance of the Lever Press. The Committee consists of representatives nominated from and elected by Lever Press pledging institutions, and two representatives from Amherst College Press and Michigan Publishing. The committee meets monthly by teleconference and in person at least once per year.
+The Oversight Committee is responsible for overall strategic guidance of the Lever Press. The Committee consists of representatives nominated from and elected by Lever Press pledging institutions, and two representatives from  Michigan Publishing. The committee meets monthly by teleconference and in person at least once per year.
 
 **Current Oversight Committee members:**
 
@@ -65,16 +63,13 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Standing**
 
-* Beth Bouloukos, Director, Amherst College Press and Lever Press
 * Sean Guynes, Acquiring Editor, Lever Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
 <h2 id="operations">Operations Group</h2>
 
-The Lever Press Operations Group is essentially the production backbone of Lever Press. It consists of staff at Amherst College Press and Michigan Publishing with a key role in acquiring, developing, and producing Lever Press titles, or in the administration of this initiative. The current Operations Group consists of:
+The Lever Press Operations Group is essentially the production backbone of Lever Press. It consists of staff at Michigan Publishing with a key role in acquiring, developing, and producing Lever Press titles, or in the administration of this initiative. The current Operations Group consists of:
 
-* Beth Bouloukos, Director, Amherst College Press and Lever Press
-* Hannah Brooks-Motl, Assistant Acquisitions Editor, Amherst College Press & Lever Press
 * Sean Guynes, Acquiring Editor, Lever Press
 * Jason Colman, Director, Michigan Publishing Services
 * Elizabeth Demers, Editorial Director, University of Michigan Press
