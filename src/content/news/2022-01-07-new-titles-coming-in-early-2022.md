@@ -1,6 +1,6 @@
 ---
 templateKey: news
-title: New Titles Coming in Early 2022!
+title: New Titles Coming in 2022!
 summary: >-
   Lever Press is excited to announce several new titles which have either been
   released very recently or will publish in early 2022
