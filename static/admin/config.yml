@@ -125,7 +125,7 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: videographicbooks-page }
           - { name: title, label: Videographic Books }
           - { name: body, label: Body, widget: markdown }
-        - file: "src/content/reeditions.md"
+      - file: "src/content/reeditions.md"
         name: reeditions
         label: Re-Editions
         fields:
