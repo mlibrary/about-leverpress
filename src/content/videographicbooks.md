@@ -6,8 +6,8 @@ title: Videographic Books
 
 *Series editor:* Jason Mittell (Middlebury College)
 
-<br>
-Combining the possibilities of digital scholarship with the long-standing strengths of the print monograph, this series strives to publish works that convey ideas and expand knowledge via the digital rhetoric of videographic criticism. \*Videographic Books\* will resemble traditional print books as accessed via an online e-reader, but use embedded video and audio to convey ideas through the distinct form of \[videographic criticism](https://sites.middlebury.edu/videoworkshop/what-is-videographic-criticism/). The published works will explore a wide-range of topics and approaches concerning film, television, videogames, and other media, but be united through a commitment to born-digital publishing as structured through the stable, archivable, and library-optimized open-access Fulcrum platform, and the use of audiovisual media as core components of intellectual expression, not just illustrations or examples.
+
+Combining the possibilities of digital scholarship with the long-standing strengths of the print monograph, this series strives to publish works that convey ideas and expand knowledge via the digital rhetoric of videographic criticism. *Videographic Books* will resemble traditional print books as accessed via an online e-reader, but use embedded video and audio to convey ideas through the distinct form of [videographic criticism](https://sites.middlebury.edu/videoworkshop/what-is-videographic-criticism/). The published works will explore a wide-range of topics and approaches concerning film, television, videogames, and other media, but be united through a commitment to born-digital publishing as structured through the stable, archivable, and library-optimized open-access Fulcrum platform, and the use of audiovisual media as core components of intellectual expression, not just illustrations or examples.
 
 #### **About the Series**
 
@@ -21,4 +21,4 @@ This series is open to featuring projects that consist of a mix of original and 
 
 #### **Publish with *Videographic Books***
 
-If you have a project that might be a good fit for the Videographic Books series, please reach out to the series editor, [Jason Mittell](https://www.middlebury.edu/academics/fmmc/faculty/node/2031) (jmittell@middlebury.edu), and to Lever Press's acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
+If you have a project that might be a good fit for the *Videographic Books* series, please reach out to the series editor, [Jason Mittell](https://www.middlebury.edu/academics/fmmc/faculty/node/2031) (jmittell@middlebury.edu), and to Lever Press's acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
