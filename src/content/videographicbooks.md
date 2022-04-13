@@ -2,7 +2,7 @@
 templateKey: videographicbooks-page
 title: Videographic Books
 ---
-## Videographic Books: Film and Media Scholarship in Sound and Image
+### Videographic Books: Film and Media Scholarship in Sound and Image
 
 *Series editor:* Jason Mittell (Middlebury College)
 
