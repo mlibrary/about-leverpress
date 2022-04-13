@@ -20,4 +20,4 @@ This series is open to featuring projects that consist of a mix of original and 
 
 **Publish with *Videographic Books***
 
-If you have a project that might be a good fit for the Videographic Books series, please reach out to the series editor, Jason Mittell (jmittell@middlebury.edu), and to Lever Press's acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
+If you have a project that might be a good fit for the Videographic Books series, please reach out to the series editor, [Jason Mittell](https://www.middlebury.edu/academics/fmmc/faculty/node/2031) (jmittell@middlebury.edu), and to Lever Press's acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
