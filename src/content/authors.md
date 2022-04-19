@@ -14,7 +14,7 @@ To submit a proposal, please consider the guidelines below:
 
 * [Lever Press Proposal Guidelines](https://drive.google.com/file/d/14lAmS6Fxp0njzSyVLqIMqsq9YhPuH8of/view?usp=sharing)
 
-When you’re ready, [](mailto:info@leverpress.org)please submit a proposal directly to the acquiring editor, Sean Guynes, at sean@leverpress.org. We are also have to field any question and offer guidance prior to your submission. Reach out to the editor directly or, for more general inquiries, contact info@leverpress.org.
+When you’re ready, [](mailto:info@leverpress.org)please submit a proposal directly to the acquiring editor, Sean Guynes, at sean@leverpress.org. We are also happy to field any questions and offer guidance prior to your submission. Reach out to the editor directly or, for more general inquiries, contact info@leverpress.org.
 
 ## The Lever Press Editorial Program
 
@@ -42,7 +42,7 @@ Our works are published digitally on [Fulcrum](https://www.fulcrum.org/), which 
 
 This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the ASIANetwork Books series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While ASIANetwork Booksassists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia. 
 
-***Multimodal Monographs***, series editor Jason Mittell
+***Videographic Books***, series editor Jason Mittell
 
 Combining the possibilities of digital scholarship with the long-standing strengths of the print monograph, this series strives to publish works that *convey ideas and expand knowledge via digital rhetorics*. Multimodal Monographs will resemble traditional print books as accessed via an online e-reader, but use embedded media forms such as video, audio, and high-resolution images to convey ideas that could not be sufficiently expressed in static print. The published works will explore a wide-range of topics and approaches, but be united through a commitment to born-digital publishing as structured through the stable, archivable, and library-optimized open-access Fulcrum platform, and the use of media assets as core components of intellectual expression, not just illustrations or examples.
 
