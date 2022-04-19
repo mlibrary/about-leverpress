@@ -4,7 +4,7 @@ title: Publish With Us
 ---
 ## Authors
 
-We’re interested in proposals both for individual projects and for series of works consistent with focus, scope, and goals as an open access publisher. 
+We’re interested in proposals both for individual projects and for series of works consistent with our focus, scope, and goals as an open access publisher. 
 
 We are particularly interested in work that fits our emerging lists in scholarship on the ancient world, media and popular culture, music and musicology, education, and histories of Africa, Asia, Europe, and the United States. We are excited about and open to transdisciplinary projects that forge new connections and lay a groundwork for future scholarship.
 
@@ -40,11 +40,11 @@ Our works are published digitally on [Fulcrum](https://www.fulcrum.org/), which 
 
 ***ASIANetwork Books***, series editors Erin McCarthy and Lisa Trivedi 
 
-This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the ASIANetwork Books series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While ASIANetwork Booksassists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia. 
+This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the *ASIANetwork Books* series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While *ASIANetwork Books* assists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia. 
 
 ***Videographic Books***, series editor Jason Mittell
 
-Combining the possibilities of digital scholarship with the long-standing strengths of the print monograph, this series strives to publish works that *convey ideas and expand knowledge via digital rhetorics*. Multimodal Monographs will resemble traditional print books as accessed via an online e-reader, but use embedded media forms such as video, audio, and high-resolution images to convey ideas that could not be sufficiently expressed in static print. The published works will explore a wide-range of topics and approaches, but be united through a commitment to born-digital publishing as structured through the stable, archivable, and library-optimized open-access Fulcrum platform, and the use of media assets as core components of intellectual expression, not just illustrations or examples.
+Combining the possibilities of digital scholarship with the long-standing strengths of the print monograph, this series strives to publish works that convey ideas and expand knowledge via digital rhetorics. *Videographic Books* will resemble traditional print books as accessed via an online e-reader, but use embedded media forms such as video, audio, and high-resolution images to convey ideas that could not be sufficiently expressed in static print. The published works will explore a wide-range of topics and approaches, but be united through a commitment to born-digital publishing as structured through the stable, archivable, and library-optimized open-access Fulcrum platform, and the use of media assets as core components of intellectual expression, not just illustrations or examples.
 
 ***Open Access Musicology***, series editors: Daniel Barolsky (Editor) and Louis Epstein (Associate Editor)
 
@@ -52,7 +52,7 @@ Combining the possibilities of digital scholarship with the long-standing streng
 
 ***Re-Editions***, series editor Michelle Burnham 
 
-The Re-Editions series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. Quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.   
+The *Re-Editions* series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. These are quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.   
 
 ## For Current Authors
 
