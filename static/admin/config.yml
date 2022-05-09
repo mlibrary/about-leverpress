@@ -132,6 +132,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: reeditions-page }
           - { name: title, label: Re-Editions }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/historiesofstem.md"
+        name: historiesofstem
+        label: Histories of STEM
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: historiesofstem-page }
+          - { name: title, label: Histories of STEM }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/peerreview.md"
         name: peerReview
         label: "Peer Review"
