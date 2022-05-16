@@ -158,6 +158,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Union College
 * University of California, Los Angeles Library
 * University of Idaho
+* University of Northern Colorado
 * University of Puget Sound
 * University of San Francisco
 * University of Vermont
