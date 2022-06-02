@@ -2,7 +2,7 @@
 templateKey: series-page
 title: Series
 ---
-### ASIANetwork Books
+### [ASIANetwork Books](https://www.leverpress.org/asianetwork/)
 
 *Series editors:* Erin McCarthy (St. Lawrence University) and Lisa Trivedi (Hamilton College)
 
