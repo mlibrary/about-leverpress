@@ -8,11 +8,11 @@ We’re interested in proposals both for individual projects and for series of w
 
 We are particularly interested in work that fits our emerging lists in scholarship on the ancient world, media and popular culture, music and musicology, education, and histories of Africa, Asia, Europe, and the United States. We are excited about and open to transdisciplinary projects that forge new connections and lay a groundwork for future scholarship.
 
-As an open access publisher, we value what broader awareness of scholarship on questions of power and social location can contribute to both disciplinary conversations and public discourse, and we are thus actively interested in work on race, ethnicity, gender, sexuality, and disability.
+As an open access publisher, we value what broader awareness of scholarship on questions of power and social location can contribute to both disciplinary conversations and public discourse, and we are thus actively interested in work on race, ethnicity, gender, sexuality, and disability. To see some of our commitments in action, you can browse [our current series](https://www.leverpress.org/series/), which are accepting proposals.
 
 To submit a proposal, please consider the guidelines below:
 
-* [Lever Press Proposal Guidelines](https://drive.google.com/file/d/14lAmS6Fxp0njzSyVLqIMqsq9YhPuH8of/view?usp=sharing)
+* **[Lever Press Proposal Guidelines](https://drive.google.com/file/d/14lAmS6Fxp0njzSyVLqIMqsq9YhPuH8of/view?usp=sharing)**
 
 When you’re ready, [](mailto:info@leverpress.org)please submit a proposal directly to the acquiring editor, Sean Guynes, at sean@leverpress.org. We are also happy to field any questions and offer guidance prior to your submission. Reach out to the editor directly or, for more general inquiries, contact info@leverpress.org.
 
@@ -35,24 +35,6 @@ This century has been marked by the tension between human progress and optimism 
 Such projects might be single-authored monographs; they might also involve interdisciplinary groups of scholars bringing a variety of perspectives to bear on a given question; discussions among scholars of contending, even irreconcilable, viewpoints, modeling civil discourse; or a constructive approach to a question from a discipline not ordinarily thought to be the obvious starting point. 
 
 Our works are published digitally on [Fulcrum](https://www.fulcrum.org/), which provides a platform allowing narrative to be richly integrated with associated data (images, videos, audio files, visualizations, etc.), optimized for long-term preservation and accessibility. 
-
-## Existing Series
-
-***ASIANetwork Books***, series editors Erin McCarthy and Lisa Trivedi 
-
-This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the *ASIANetwork Books* series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While *ASIANetwork Books* assists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia. 
-
-***Videographic Books***, series editor Jason Mittell
-
-Combining the possibilities of digital scholarship with the long-standing strengths of the print monograph, this series strives to publish works that convey ideas and expand knowledge via digital rhetorics. *Videographic Books* will resemble traditional print books as accessed via an online e-reader, but use embedded media forms such as video, audio, and high-resolution images to convey ideas that could not be sufficiently expressed in static print. The published works will explore a wide-range of topics and approaches, but be united through a commitment to born-digital publishing as structured through the stable, archivable, and library-optimized open-access Fulcrum platform, and the use of media assets as core components of intellectual expression, not just illustrations or examples.
-
-***Open Access Musicology***, series editors: Daniel Barolsky (Editor) and Louis Epstein (Associate Editor)
-
-*Open Access Musicology* is a free collection of essays, written in an accessible style and with a focus on modes of inquiry rather than content coverage. Authors draw from their experience as scholars but also as teachers. They have been asked to describe why they became musicologists in the first place and how their individual paths led to the topics they explore and the questions they pose. Like most scholarly literature, the essays have all been reviewed by experts in the field. Unlike all scholarly literature, the essays have also been reviewed by students at a variety of institutions for clarity and relevance. The topics introduce and explore a variety of subjects, practices, and methods but, above all, seek to stimulate classroom discussion on music history’s relevance to performers, listeners, and citizens.
-
-***Re-Editions***, series editor Michelle Burnham 
-
-The *Re-Editions* series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. These are quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.   
 
 ## For Current Authors
 
