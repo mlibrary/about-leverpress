@@ -1,14 +1,14 @@
 ---
 templateKey: news
 title: >-
-  Forthcoming from Lever Press: A Newly Translated, Digitally Rich, Bilingual
-  Pedagogical Edition of La Princesse de Clèves (1678)
+  Forthcoming from Lever Press: A New, Digital, Bilingual Pedagogical Edition of
+  La Princesse de Clèves (1678)
 summary: >-
-  <br>This summer, Lever Press will publish a newly translated, digitally rich,
-  bilingual pedagogical edition of the classic 17th-century French novel.<br>
+  This summer, Lever Press will publish a newly translated, digitally rich,
+  bilingual pedagogical edition of the classic 17th-century French novel.
 date: 2022-06-16T17:00:00.000Z
 ---
-## La Princesse de Clèves *by Lafayette: A New Translation and Bilingual Pedagogical Edition for the Digital Age*
+## <br>La Princesse de Clèves *by Lafayette: A New Translation and Bilingual Pedagogical Edition for the Digital Age*
 
 **\
 Edited by​ ​Hélène E. Bilis, Jean-Vincent Blanchard, David Harrison, and Hélène Visentin**
