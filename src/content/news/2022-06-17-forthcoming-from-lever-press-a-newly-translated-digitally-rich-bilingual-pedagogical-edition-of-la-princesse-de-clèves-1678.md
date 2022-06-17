@@ -1,8 +1,8 @@
 ---
 templateKey: news
 title: >-
-  Forthcoming from Lever Press: A New, Digital, Bilingual Pedagogical Edition of
-  La Princesse de Clèves (1678)
+  Forthcoming from Lever Press: A Digital Bilingual Pedagogical Edition of La
+  Princesse de Clèves (1678)
 summary: >-
   This summer, Lever Press will publish a newly translated, digitally rich,
   bilingual pedagogical edition of the classic 17th-century French novel.
