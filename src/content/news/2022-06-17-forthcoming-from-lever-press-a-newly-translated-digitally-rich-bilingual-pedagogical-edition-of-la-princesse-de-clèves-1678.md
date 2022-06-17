@@ -6,7 +6,7 @@ title: >-
 summary: >-
   This summer, Lever Press will publish a newly translated, digitally rich,
   bilingual pedagogical edition of the classic 17th-century French novel.
-date: 2022-06-17T17:00:00.000Z
+date: 2022-06-16T17:00:00.000Z
 ---
 # La Princesse de Clèves *by Lafayette: A New Translation and Bilingual Pedagogical Edition for the Digital Age*
 
