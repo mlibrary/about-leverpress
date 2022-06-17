@@ -17,7 +17,7 @@ Edited by​ ​Hélène E. Bilis, Jean-Vincent Blanchard, David Harrison, and H
 
 ![Cover for "La Princesse de Clèves by Lafayette: A New Translation and Bilingual Pedagogical Edition for the Digital Age," featuring a map of Paris, portrait of the author, image of a palace ballroom, and a picture of the Louvre.](assets/bilis-cover-final.jpg)
 
-### **<br>Book Description**
+#### **<br>Book Description**
 
 *La Princesse de Clèves*, written in 1678 by Marie-Madeleine Pioche de La Vergne, comtesse de Lafayette, is frequently considered the first modern French novel and a key text in the history of European literature. The artistic complexity of *La Princesse de Clèves* calls for making the work available to English-speakers and undergraduates in a new edition: one that immerses readers in the cultural and intellectual worlds of Lafayette, with direct access to period documents, portraits, maps, dictionary definitions, and journalistic debates; one that outlines contemporary polemics and scholarship with video interviews of Lafayette scholars; one that invites new readers and fresh discoveries by using the analytical tools of the Digital Humanities.
 
@@ -25,7 +25,7 @@ This new edition and translation foregrounds French literary and linguistic cont
 
 The pedagogy of modern languages, cultures, and literatures is undergoing profound shifts on American campuses. The ways that students read, conduct research, and share ideas have been transformed by digital technologies. The digital interface and accompanying approaches encourage a return to the fundamentals of close reading practices as the value of slow reading is emphasized, while also encouraging an awareness of the alternative modes of reading (“distant,” bilingual, collaborative, non-linear) in which one can engage. In a world in which learning can suddenly and unexpectedly shift to an all-remote format, the importance of digital texts—especially carefully edited classic works—has become increasingly clear and should be central to discussions regarding the shape of the humanities today. The edition aims to use these transformations to engage students in a creative and collaborative encounter with Lafayette’s early-modern French classic in an easily navigable format. Such an encounter will broaden students’ understanding of the Digital Humanities, which in North America has often tended toward monolingualism, to promote their sense of participation in a global, multilingual inquiry. This new edition of Lafayette’s celebrated novel provides new lenses for investigation with the goal of speaking the common language of humanistic inquiry while also highlighting the specificities of French language and culture.
 
-### <br>Editors
+#### <br>Editors
 
 ​​Hélène E. Bilis is Associate Professor of French Studies at Wellesley College. She is the author of *Passing Judgment: The Politics and Poetics of Sovereignty in French Tragedy from Hardy to Racine* (Toronto UP, 2016). She has co-edited *L’Éloquence du Silence: dramaturgie du non-dit sur la scène théâtrale des 17e et 18e siècles* (Classiques Garnier, 2014) and *Options for Teaching French Neoclassical Tragedy* (MLA, 2021). Bilis is the Chief Editor for H-France Forum and Campus Director for Wellesley’s longstanding study abroad program in Aix-en-Provence.
 
