@@ -23,7 +23,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-6">
             <a href="/" className="text-light mb-2 scala-sans"><img src="/assets/LeverLogo-PMS292.svg" alt="" height="100" width="auto" className="block" /> Lever Press</a>
-            <small className="text-light d-block">Amherst, MA</small>      
+            <small className="text-light d-block">Ann Arbor, MI</small>      
             <small className="d-block"><a className="text-light" href="mailto:info@leverpress.org">info@leverpress.org</a></small>      
             <p className="social">
               <a href="https://www.facebook.com/LeverPress/"><svg width="24px" height="24px" viewBox="0 0 24 24" className="social-link fb" aria-hidden="false"><title>Facebook</title><path d="M20.9,2H3.1A1.1,1.1,0,0,0,2,3.1V20.9A1.1,1.1,0,0,0,3.1,22h9.58V14.25h-2.6v-3h2.6V9a3.64,3.64,0,0,1,3.88-4,20.26,20.26,0,0,1,2.33.12v2.7h-1.6c-1.25,0-1.49.59-1.49,1.47v1.92h3l-.39,3H15.8V22h5.1A1.1,1.1,0,0,0,22,20.9V3.1A1.1,1.1,0,0,0,20.9,2Z"></path></svg></a>
@@ -34,8 +34,6 @@ const Footer = () => {
           <div className="col-md-3">
             <div className="footer-head scala-sans">Our Partners</div>
             <ul className="list-unstyled text-small">
-              <li><a href="https://acpress.amherst.edu/" className="text-light">Amherst College Press</a></li>
-              <li><a href="http://www.oberlingroup.org/" className="text-light">Oberlin Group</a></li>
               <li><a href="https://www.publishing.umich.edu" className="text-light">Michigan Publishing</a></li>
             </ul>
           </div>
