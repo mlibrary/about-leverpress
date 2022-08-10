@@ -32,8 +32,8 @@ if (process.env.BRANCH === "preview") {
         name: 'gitlab',
         repo: 'michigan-publishing/about-leverpress',
         branch: 'master',
-        auth_type: 'implicit',
-        app_id: '03d3fe1c9a36d44c83ea5d1f0382ac41333bd88052587631ae9fa15ce6b15123',
+        auth_type: 'pkce',
+        app_id: 'ad213442cfb08f91d9bcaa799572927a0d52a4e1e673c6a2395e4e5009dd2248',
         api_root: 'https://gitlab.umich.edu/api/v4',
         base_url: 'https://gitlab.umich.edu',
         auth_endpoint: 'oauth/authorize'
