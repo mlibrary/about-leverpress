@@ -16,7 +16,7 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 *Open Access Musicology* is a free collection of essays, written in an accessible style and with a focus on modes of inquiry rather than content coverage. Our authors draw from their experience as scholars but also as teachers. They have been asked to describe why they became musicologists in the first place and how their individual paths led to the topics they explore and the questions they pose. Like most scholarly literature, the essays have all been reviewed by experts in the field. Unlike all scholarly literature, the essays have also been reviewed by students at a variety of institutions for clarity and relevance.<br> <br>
 
-### Re-Editions: Literary and Cultural Texts Recovered for the Classroom
+### [Re-Editions: Literary and Cultural Texts Recovered for the Classroom](https://www.leverpress.org/reeditions/)
 
 *Series editor:* Michelle Burnham (Santa Clara University)
 
