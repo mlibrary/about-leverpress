@@ -20,7 +20,7 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 *Series editor:* Michelle Burnham (Santa Clara University)
 
-The *Re-Editions* series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. Quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.<br> <br>
+The *Re-Editions* series publishes lost, forgotten, or neglected literary and cultural texts, recovering marginalized voices and perspectives in new scholarly editions designed for use in undergraduate classrooms and beyond. Editions in the series will make previously overlooked or long out-of-print works–recovered from physical or digital archives, special collections, and the dustbins of history–newly available in digital editions for students, scholars, and the public. The series aims to recover important and field-reshaping texts from a range of historical periods, geographical regions, and genres, with the goal of making canons and curricula across disciplines more diverse, global, and inclusive.<br> <br>
 
 ### [Videographic Books: Film and Media Scholarship in Sound and Image](https://www.leverpress.org/videographicbooks/)
 
