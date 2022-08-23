@@ -1,7 +1,7 @@
 ---
 templateKey: news
-title: "Women Making History: Revolutionary Feminist Postcard Art From Helaine
-  Victoria Press"
+title: "Forthcoming from Lever Press: Revolutionary Feminist Postcard Art From
+  Helaine Victoria Press"
 summary: Coming this winter 2022 from Lever Press, a richly-illustrated
   narrative of two young women who learned to print, established a letterpress
   print shop in the Indiana countryside, and published the first women’s history
