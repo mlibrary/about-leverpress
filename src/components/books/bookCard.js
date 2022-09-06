@@ -20,7 +20,7 @@ const Book = ({cover, book}) => {
         </div>
         <div className="col-md-8">
           <div className="card-body">
-            <h3 className="card-title">{title}</h3>
+          <h3 className="card-title" dangerouslySetInnerHTML={{ __html: title }}></h3>
             <p className="card-subtitle text-muted h6">{author}</p>
             <p className="card-text">{description}</p>
             <a className="card-link btn btn-secondary btn-lg" role="button" href={readLink}>Read free online</a>

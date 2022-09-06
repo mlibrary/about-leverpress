@@ -1,6 +1,6 @@
 ---
 templateKey: book
-title: "La Princesse de Clèves by Lafayette: A New Translation and Bilingual
+title: "<i>La Princesse de Clèves</i> by Lafayette: A New Translation and Bilingual
   Pedagogical Edition for the Digital Age"
 authorLastname: Bilis
 author: Edited by Hélène E. Bilis, Jean-Vincent Blanchard, David Harrison, and
