@@ -13,5 +13,5 @@ description: This new volume, enriched by translator’s notes, provides a
   teaching and exploring the text in twenty-first century courses.
 orderOnPage: 1
 readLink: https://doi.org/10.3998/mpub.12629286
-buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150253&PRESS=lever
+buyLink: no_buy_link
 ---
