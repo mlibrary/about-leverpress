@@ -26,14 +26,11 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 **Current Editorial Board members:**
 
-* Carrie Baker, Smith College
 * Richard Benson, Spelman College
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
 * Jason Mittell, Middlebury College
 * Hai-Dang Phan, Grinnell College
-* Brett Rogers, University of Puget Sound
-* Lisa Trivedi, Hamilton College
 
 **Standing**
 
@@ -54,7 +51,6 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Martin Garnar, Library Director, Frost Library, Amherst College
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
 * Anne Houston, Dean of Libraries, Skillman Library, Lafayette College (Chair)
-* Rebecca Lubas, Dean of Libraries, Brooks Library, Central Washington University
 * Frances Maloy, College Librarian, Schaffer Library, Union College (Vice Chair/Chair-elect)
 * Craig Milberg, University Librarian, Hatfield Library, Willamette University (Treasurer)
 * Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
