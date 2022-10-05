@@ -17,7 +17,7 @@ Edited by​ ​Hélène E. Bilis, Jean-Vincent Blanchard, David Harrison, and H
 
 #### **<br>**
 
-> **T﻿he new bilingual pedagogical edition of *La Princesse de Clèves* can be read for free on the Fulcrum e-reader: https://doi.org/10.3998/mpub.12629286.<br>**
+> **T﻿he new bilingual pedagogical edition of *La Princesse de Clèves* can be read for free on the Fulcrum e-reader: https://doi.org/10.3998/mpub.12629286 <br>**
 
 *La Princesse de Clèves*, written in 1678 by Marie-Madeleine Pioche de La Vergne, comtesse de Lafayette, is frequently considered the first modern French novel and a key text in the history of European literature. The artistic complexity of *La Princesse de Clèves* calls for making the work available to English-speakers and undergraduates in a new edition: one that immerses readers in the cultural and intellectual worlds of Lafayette, with direct access to period documents, portraits, maps, dictionary definitions, and journalistic debates; one that outlines contemporary polemics and scholarship with video interviews of Lafayette scholars; one that invites new readers and fresh discoveries by using the analytical tools of the Digital Humanities.
 
