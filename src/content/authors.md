@@ -43,7 +43,7 @@ The following resources, accessible via Google Drive, are for authors preparing 
 * [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1R5nmG9-FS6X8yA6vMtkjTcjxZfHfHgg2HS4G4deYIKg/edit)
 * [Lever Press Project Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
 * [Lever Press Subvention Statement](https://docs.google.com/document/d/10M3LG2QOULWTDSjLCMEEw83LfIsfeAtem1i5_371z0Y/edit?usp=sharing)
-* l﻿ever press [Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
+* [Pre-Production Checklist](https://docs.google.com/document/d/1xrmpYIThlb7aF60rwwmlkrpVjnELPgn6UAopuKIv514/edit?usp=sharing)
 * [Author Agreement](https://docs.google.com/document/d/1cibX0n8DlZxxS-GWhCN92PunZxmfEkdjOesJC-Bn--o/edit?usp=sharing)
 * [Contributor Agreement](https://docs.google.com/document/d/1YOX8uQ-SpZFEjl-w5C_wSX_B-j062eNBxqZrDJVEEzI/edit?usp=sharing)
 * [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
