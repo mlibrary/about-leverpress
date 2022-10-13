@@ -45,6 +45,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 **Current Oversight Committee members:**
 
 * Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
+* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Iowa State University
 * Marta Brunner, College Librarian, Lucy Scribner Library, Skidmore College
 * Mark Christel, Librarian of the College, Grinnell College (past chair ex officio)
 * Susan Fliss, Dean of Libraries, Neilson Library, Smith College
@@ -70,7 +71,7 @@ The Lever Press Operations Group is essentially the production backbone of Lever
 * Jason Colman, Director, Michigan Publishing Services
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 * Terri Geitgey, Program Manager, Lever Press and Publishing Services Librarian, Michigan Publishing Services
-* Amanda Karby, Senior Digital Publishing Coordinator, Michigan Publishing Services
+* Jamie Jones, Publishing Marketing Manager, University of Michigan Press
 * Carl Lavigne, Digital Publishing Coordinator, Michigan Publishing Services
 * Kristen Twardowski, Director of Sales, Marketing, and Outreach, University of Michigan Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
