@@ -6,7 +6,7 @@ date: 2022-10-14T17:49:15.304Z
 ---
 <br>
 
-<a href="assets/lp-catalog-2022_final.pdf">View the digital 2022 Lever Press Catalog</a>
+<a href="/assets/lp-catalog-2022_final.pdf">View the digital 2022 Lever Press Catalog</a>
 
 <br>
 
