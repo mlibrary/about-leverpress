@@ -139,6 +139,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Morehouse College
 * Morehouse School of Medicine
 * Norwich University
+* Occidental College
 * Penn State University
 * Pitzer College
 * Pomona College
@@ -157,6 +158,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * University of Idaho
 * University of Northern Colorado
 * University of Puget Sound
+* University of Rhode Island
 * University of San Francisco
 * University of Vermont
 * Ursinus College
