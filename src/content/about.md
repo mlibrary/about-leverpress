@@ -29,6 +29,9 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Richard Benson, University of Pittsburgh
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
+* Bethany Hicok, Williams College
+* Kathryn Lesh, Union College
+* Angelo Mercado, Grinnell College
 * Jason Mittell, Middlebury College
 * Hai-Dang Phan, Grinnell College
 
