@@ -131,6 +131,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * DePauw University
 * Grinnell College
 * Hamilton College
+* Hampshire College
 * Harvey Mudd College
 * Hollins University
 * Iowa State University
