@@ -38,7 +38,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Standing**
 
 * Sean Guynes, Acquiring Editor, Lever Press
-* Anne Houston, Oversight Committee Chair, ex officio
+* Frances Maloy, Oversight Committee Chair, ex officio
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 
 <h2 id="oversight">Oversight Committee</h2>
@@ -48,16 +48,15 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 **Current Oversight Committee members:**
 
 * Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
-* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Iowa State University
-* Marta Brunner, College Librarian, Lucy Scribner Library, Skidmore College
-* Mark Christel, Librarian of the College, Grinnell College (past chair ex officio)
+* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University
 * Susan Fliss, Dean of Libraries, Neilson Library, Smith College
-* Martin Garnar, Library Director, Frost Library, Amherst College
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
-* Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Chair)
-* F﻿rances Maloy, College Librarian, Schaffer Library, Union College (Vice Chair/Chair-elect)
+* Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College 
+* F﻿rances Maloy, College Librarian, Schaffer Library, Union College (Chair)
 * Craig Milberg, University Librarian, Hatfield Library, Willamette University (Treasurer)
 * Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
+* Kevin Mulroy, College Librarian, Mary Norton Clapp Library, Occidental College
+* Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University
 * Bradley Schaffner, College Librarian, Gould Library, Carleton College (Secretary)
 * Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University
 
