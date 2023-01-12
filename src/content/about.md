@@ -69,12 +69,14 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 The Lever Press Operations Group is essentially the production backbone of Lever Press. It consists of staff at Michigan Publishing with a key role in acquiring, developing, and producing Lever Press titles, or in the administration of this initiative. The current Operations Group consists of:
 
-* Sean Guynes, Acquiring Editor, Lever Press
 * Jason Colman, Director, Michigan Publishing Services
 * Elizabeth Demers, Editorial Director, University of Michigan Press
 * Terri Geitgey, Program Manager, Lever Press and Publishing Services Librarian, Michigan Publishing Services
+* Sean Guynes, Acquiring Editor, Lever Press
 * Jamie Jones, Publishing Marketing Manager, University of Michigan Press
+* Sharla Lair, Sr. Strategist, Open Access & Scholarly Communication Initiatives, Lyrasis
 * Carl Lavigne, Digital Publishing Coordinator, Michigan Publishing Services
+* Kelsey Mrjoian, Library Relations Manager, University of Michigan Press
 * Kristen Twardowski, Director of Sales, Marketing, and Outreach, University of Michigan Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
