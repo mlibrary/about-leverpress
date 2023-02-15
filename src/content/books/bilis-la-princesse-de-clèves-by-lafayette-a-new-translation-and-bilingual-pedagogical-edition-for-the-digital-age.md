@@ -11,7 +11,7 @@ description: This new volume, enriched by translator’s notes, provides a
   to foreground French literary and linguistic content alongside a rich variety
   of pedagogical dossiers with a wide range of resources and approaches for
   teaching and exploring the text in twenty-first century courses.
-orderOnPage: 2
+orderOnPage: 3
 readLink: https://doi.org/10.3998/mpub.12629286
 buyLink: noBuyLink
 ---
