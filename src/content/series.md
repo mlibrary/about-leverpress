@@ -22,6 +22,12 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 The *Re-Editions* series publishes lost, forgotten, or neglected literary and cultural texts, recovering marginalized voices and perspectives in new scholarly editions designed for use in undergraduate classrooms and beyond. Editions in the series will make previously overlooked or long out-of-print works–recovered from physical or digital archives, special collections, and the dustbins of history–newly available in digital editions for students, scholars, and the public. The series aims to recover important and field-reshaping texts from a range of historical periods, geographical regions, and genres, with the goal of making canons and curricula across disciplines more diverse, global, and inclusive.<br> <br>
 
+### [R﻿efractions](https://www.leverpress.org/historiesofstem/)
+
+*Series editor:* Darin Hayton (Haverford College) and Babak Ashrafi (Consortium for History of Science, Technology and Medicine)
+
+*Refractions* focuses on historical and contemporary issues in the History of Science, Technology and Medicine, broadly understood. Volumes in the series are edited collections, each of which should offer perspectives from a variety of humanities and social sciences, which may include, history, sociology, anthropology, literature, gender studies. Content will emerge from a robust process of discussion and collaboration among the contributors, and may take the form of text, audio or video essays, debates, roundtables or other media and formats. Any novel contributions to scholarship should be written in a way that will be accessible to non-specialist audiences. We especially welcome analyses and expositions of scholarship that should be part of the broader public conversations.<br> <br>
+
 ### [Videographic Books: Film and Media Scholarship in Sound and Image](https://www.leverpress.org/videographicbooks/)
 
 *Series editor:* Jason Mittell (Middlebury College)
