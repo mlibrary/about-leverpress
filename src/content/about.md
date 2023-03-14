@@ -191,4 +191,4 @@ After finalizing our choice, the Task Force has met regularly with the Amherst/M
 
 Note that while the initial agreement is between the publishing team and the Oberlin Group, participation is not limited to Oberlin Group members, and libraries committing to our work stand as equals in the governance of the Press.
 
-We’ve also developed the document that <a href="/assets/lever_press_pledge_agreement_final20150923-1.pdf">participating libraries will be asked to sign</a> in joining the Lever Press initiative as stakeholders.
+We’ve also developed the document that participating libraries will be asked to sign in joining the Lever Press initiative as stakeholders.
