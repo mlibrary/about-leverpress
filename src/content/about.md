@@ -48,7 +48,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 **Current Oversight Committee members:**
 
 * Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
-* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University
+* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Vice Chair/Chair-elect)
 * Susan Fliss, Dean of Libraries, Neilson Library, Smith College
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College 
