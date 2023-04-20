@@ -3,7 +3,7 @@ templateKey: book
 title: "Like a Captive Bird: Gender and Virtue in Plutarch"
 authorLastname: Warren
 author: Lunette Warren
-cover: assets/9781643150390.jpg
+cover: assets/warren_cover_front_final.png
 description: Lunette Warren analyzes Plutarch’s ideas about women and gender in
   Moralia and Lives. The book examines the divergences between real and ideal,
   the aims and methods of moral philosophy and psychagogic practice as they
