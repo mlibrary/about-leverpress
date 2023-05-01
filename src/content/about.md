@@ -18,7 +18,7 @@ title: About Lever Press
 
 Unlike other Open Access initiatives, Lever Press is a press governed by its participating members. An Editorial Board, composed of faculty from participating institutions, oversees the editorial and review process for our titles; an elected Oversight Committee, composed of representatives of participating institutions, directs the execution of Lever’s business plan. Lever Press is a member of the [Association of University Presses](http://www.aupresses.org/).
 
-<a href="assets/lever-initiative-bylaws-2022_phase2_final_amended_4_2023.pdf">Lever Initiative Bylaws</a>
+<a href="https://www.leverpress.org/assets/lever-initiative-bylaws-2022_phase2_final_amended_4_2023.pdf">Lever Initiative Bylaws</a>
 
 <h2 id="editorial">Editorial Board</h2>
 
