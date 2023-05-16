@@ -2,7 +2,7 @@
 templateKey: book
 title: "Public Feminisms: From Academy to Community"
 authorLastname: Baker
-author: Edited by Carrie Baker & Aviva Dove-Viebahn
+author: Edited by Carrie N. Baker & Aviva Dove-Viebahn
 cover: assets/9781643150437.jpg
 description: In this collection, a diverse range of feminist scholar-activists
   write about the dynamic and varied methods they use to reach beyond
