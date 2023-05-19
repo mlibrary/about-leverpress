@@ -46,4 +46,4 @@ The following resources, accessible via Google Drive, are for authors preparing 
 * [L﻿ever Press Pre-Production Checklist](https://docs.google.com/document/d/1xrmpYIThlb7aF60rwwmlkrpVjnELPgn6UAopuKIv514/edit?usp=sharing)
 * [Author Agreement](https://docs.google.com/document/d/1cibX0n8DlZxxS-GWhCN92PunZxmfEkdjOesJC-Bn--o/edit?usp=sharing)
 * [Contributor Agreement](https://docs.google.com/document/d/1YOX8uQ-SpZFEjl-w5C_wSX_B-j062eNBxqZrDJVEEzI/edit?usp=sharing)
-* [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
+* Permissions Requests for [Media](https://docs.google.com/document/d/1SrdvkD52RgpU-huDlYao0J_uahn6Q-DucB3fzGleFY4/edit?usp=sharing), [Text](https://docs.google.com/document/d/1zWETdnUdj6VLDKfkmKWB0QLum0IjhY731RblHE7pCeI/edit?usp=sharing), and [Picture/Video Release](https://docs.google.com/document/d/1GhpwXJHY3HJPxdEF0i_WZ-WGDgLumC5VR303nSWy48c/edit?usp=sharing)
