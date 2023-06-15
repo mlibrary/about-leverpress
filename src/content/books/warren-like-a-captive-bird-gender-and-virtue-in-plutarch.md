@@ -9,7 +9,7 @@ description: Lunette Warren analyzes Plutarch’s ideas about women and gender i
   the aims and methods of moral philosophy and psychagogic practice as they
   relate to identity formation, and Plutarch’s theoretical philosophy and
   metaphysics.
-orderOnPage: 2
+orderOnPage: 3
 readLink: https://doi.org/10.3998/mpub.12668327
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-64315-039-0&PRESS=lever
 ---
