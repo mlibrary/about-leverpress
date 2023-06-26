@@ -9,14 +9,14 @@ summary: Coming this winter 2022 from Lever Press, a richly-illustrated
   consciousness across the U.S.
 date: 2022-08-23T16:20:36.942Z
 ---
-## <br>*Women Making History: Revolutionary Feminist Postcard Art From Helaine Victoria Press*
+## <br>*Women Making History: The Revolutionary Feminist Postcard Art of Helaine Victoria Press*
 
 **\
 Julia M. Allen and Jocelyn H. Cohen**
 
 **<br>**
 
-![Cover for the book "Women Making History: Revolutionary Feminist Postcard Art From Helaine Victoria Press," featuring a light blue background and images of women from three postcards.](assets/allen-and-cohen-cover-final.jpg)
+![Cover for the book "Women Making History: Revolutionary Feminist Postcard Art From Helaine Victoria Press," featuring a light blue background and images of women from three postcards.](assets/9781643150352.jpg)
 
 #### **<br>Book Description**
 
