@@ -6,6 +6,8 @@ title: ASIANetwork Books
 
 *Series editors:* Erin McCarthy (St. Lawrence University) and Lisa Trivedi (Hamilton College)
 
+<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f%5Bseries_sim%5D%5B%5D=ASIANetwork+Books&locale=en">Read ASIANetwork Books</a>
+
 <br>*ASIANetwork Books* strives to publish high-quality, original monographs, edited collections, and translations that embody a rigorous liberal arts approach to Asian Studies. A collaboration with [ASIANetwork](https://asianetwork.org/), a consortium of Asian Studies faculty at 160 colleges, the series seeks to fill a space between works that address the critical pedagogical strategies of the Asian Studies classroom and works of specialized scholarship that engage a broad readership outside higher education. Manuscripts published in the *ASIANetwork Books* series, no matter how narrowly focused, are expected to raise broad questions of interest for the public and demonstrate classroom utility for Asian Studies.
 
 #### **About the Series**
