@@ -2,7 +2,7 @@
 templateKey: reeditions-page
 title: Re-Editions
 ---
-### Re-Editions: Literary and Cultural Texts, Recovered for the Classroom
+### Re-Editions: Literary and Cultural Texts Recovered for the Classroom
 
 *Series editor:* Michelle Burnham (Santa Clara University)
 
