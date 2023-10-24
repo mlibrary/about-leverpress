@@ -36,7 +36,8 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 **Standing**
 
-* Sean Guynes, Acquiring Editor, Lever Press
+* Sara Cohen, Editorial Director, University of Michigan Press
+* S﻿ean Guynes, Acquiring Editor, Lever Press
 * Frances Maloy, Oversight Committee Chair, ex officio
 
 <h2 id="oversight">Oversight Committee</h2>
