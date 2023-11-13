@@ -74,7 +74,7 @@ The Lever Press Operations Group is essentially the production backbone of Lever
 * Jamie Jones, Director, Sales, Marketing and Outreach, University of Michigan Press
 * Sharla Lair, Sr. Strategist, Open Access & Scholarly Communication Initiatives, Lyrasis
 * Kelsey Mrjoian, Library Relations Manager, University of Michigan Press
-* K﻿atie Rokakis, Senior Digital Publishing Coordinator
+* K﻿atie Rokakis, Senior Digital Publishing Coordinator, Michigan Publishing Services
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
 <h2 id="values">Our Values</h2>
