@@ -38,7 +38,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 * Sara Cohen, Editorial Director, University of Michigan Press
 * S﻿ean Guynes, Acquiring Editor, Lever Press
-* Frances Maloy, Oversight Committee Chair, ex officio
+* Curtis Brundy, Oversight Committee Chair, ex officio
 
 <h2 id="oversight">Oversight Committee</h2>
 
@@ -47,16 +47,15 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 **Current Oversight Committee members:**
 
 * Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
-* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Vice Chair/Chair-elect)
+* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Chair)
+* Mark Christel, Librarian of the College, Grinnell College
+* Nancy Falciani-White, Library Director, Randolph-Macon College
 * Susan Fliss, Dean of Libraries, Neilson Library, Smith College
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College 
-* F﻿rances Maloy, College Librarian, Schaffer Library, Union College (Chair)
-* Craig Milberg, University Librarian, Hatfield Library, Willamette University (Treasurer)
-* Jonathan Miller, Director of Libraries, Sawyer Library, Williams College
+* F﻿rances Maloy, College Librarian, Schaffer Library, Union College (past chair)
 * Kevin Mulroy, College Librarian, Mary Norton Clapp Library, Occidental College
 * Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University
-* Bradley Schaffner, College Librarian, Gould Library, Carleton College (Secretary)
 * Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University
 
 **Standing**
