@@ -49,14 +49,14 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
 * Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Chair)
 * Mark Christel, Librarian of the College, Grinnell College
-* Nancy Falciani-White, Library Director, Randolph-Macon College
+* Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
 * Susan Fliss, Dean of Libraries, Neilson Library, Smith College
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College 
-* F﻿rances Maloy, College Librarian, Schaffer Library, Union College (past chair)
+* F﻿rances Maloy, College Librarian, Schaffer Library, Union College (Past Chair)
 * Kevin Mulroy, College Librarian, Mary Norton Clapp Library, Occidental College
 * Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University
-* Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University
+* Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Vice Chair/Chair-elect)
 
 **Standing**
 
