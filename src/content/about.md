@@ -27,11 +27,14 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Current Editorial Board members:**
 
 * Richard Benson, University of Pittsburgh
+* Kathryne Corbin, Haverford College
 * Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
 * Bethany Hicok, Williams College
 * Kathryn Lesh, Union College
 * Angelo Mercado, Grinnell College
+* Jonson Miller, Drexel College
+* Fernando Nascimento, Bowdoin College
 * Hai-Dang Phan, Grinnell College
 
 **Standing**
