@@ -33,7 +33,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 * Bethany Hicok, Williams College
 * Kathryn Lesh, Union College
 * Angelo Mercado, Grinnell College
-* Jonson Miller, Drexel College
+* Jonson Miller, Drexel University
 * Fernando Nascimento, Bowdoin College
 * Hai-Dang Phan, Grinnell College
 
