@@ -121,6 +121,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Bowdoin College
 * Carleton College
 * Central Washington University
+* C﻿laremont Colleges
 * Claremont Graduate University
 * Claremont McKenna College
 * Clark Atlanta University
@@ -165,7 +166,6 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * University of Rhode Island
 * University of San Francisco
 * University of Vermont
-* Ursinus College
 * Vassar College
 * Washington and Lee University
 * Whitman College
