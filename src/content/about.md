@@ -55,7 +55,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
 * Susan Fliss, Dean of Libraries, Neilson Library, Smith College
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
-* Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College 
+* Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Treasurer)
 * F﻿rances Maloy, College Librarian, Schaffer Library, Union College (Past Chair)
 * Kevin Mulroy, College Librarian, Mary Norton Clapp Library, Occidental College
 * Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University
