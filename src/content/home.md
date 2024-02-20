@@ -22,9 +22,9 @@ videoSection:
   heading: Why publish with Lever Press?
 catalogSection:
   heading: Lever Press Seasonal Catalog
-  catalogImage: assets/lp-spring-2024-page-001.jpg
+  catalogImage: /assets/lp-spring-2024-page-001.jpg
   catalogPdf: <a class="btn btn-primary"
-    href="/assets/lp-catalog-2022_final.pdf">Explore our Catalog</a>
+    href="/assets/lp-spring-2024.pdf">Explore our Catalog</a>
 mapSection:
   description: Learn about our impact with real-time mapping of views and
     downloads of our published content that occurred over the previous four
