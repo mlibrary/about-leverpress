@@ -9,7 +9,7 @@ description: This volume expands the disciplinary, topical, and geographical
   theoretical methods as well as historical ones. The editors have gathered
   essays that touch on music from the 16th century to the present, from Europe,
   South America, and Asia.
-orderOnPage: 4
+orderOnPage: 0
 readLink: https://doi.org/10.3998/mpub.12714424
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-64315-049-9&PRESS=lever
 ---
