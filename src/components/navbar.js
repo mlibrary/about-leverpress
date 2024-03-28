@@ -70,12 +70,7 @@ const Navbar = () => {
               <Link to="/news" className="nav-link text-dark">
                 News
               </Link>
-            </li>
-            <li>
-              <Link to="/events" className="nav-link text-dark">
-                Events
-              </Link>
-            </li>
+            </li>            
           </ul>
         </div>
       </div>

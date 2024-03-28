@@ -8,7 +8,6 @@ import BookList from "../components/books/bookList"
 import Tagline from "../components/tagline"
 import Newsletter from "../components/newsletter"
 import NewsList from "../components/news/newsList"
-import EventList from "../components/events/eventList"
 import Video from "../components/video"
 import MapImage from "../components/mapImage"
 import Catalog from "../components/catalog"
@@ -106,31 +105,6 @@ query {
       }
     }
   }
-  events: allMarkdownRemark (
-    filter: {
-      frontmatter: { templateKey: { eq: "event" } }
-    },
-    sort: {
-      fields: frontmatter___date,
-      order: ASC
-    },
-    limit: 6
-  ) {
-    edges {
-      node {
-        id
-        fields{
-          slug
-        }
-        html
-        frontmatter {
-          title
-          summary
-          date(formatString:"MMMM Do, YYYY")
-        }
-      }
-    }
-  }
 }
 `
 
@@ -142,7 +116,6 @@ const IndexPage = ({data}) => {
   const catalog = data.home.frontmatter.catalogSection
   const books = data.books.edges
   const news = data.news.edges
-  const events = data.events.edges
 
   return (
     <Layout>
@@ -217,7 +190,7 @@ const IndexPage = ({data}) => {
         </section>
         <section className="news-events-container container">
           <div className="row">
-            <div className="news-container col-md-6">
+            <div className="news-container col-md-12">
               <NewsList news={news} />
               <div className="row mt-4">
                 <div className="col-md-12">
@@ -226,17 +199,7 @@ const IndexPage = ({data}) => {
                   </p>
                 </div>
               </div>
-            </div>
-            <div className="events-container col-md-6">
-              <EventList events={events} />
-              <div className="row mt-4">
-                <div className="col-md-12">
-                  <p className="text-right">
-                    <Link to="/events">Read all Events</Link>
-                  </p>
-                </div>
-              </div>
-            </div>
+            </div>            
           </div>
         </section>
     </Layout>
