@@ -70,7 +70,12 @@ const Navbar = () => {
               <Link to="/news" className="nav-link text-dark">
                 News
               </Link>
-            </li>            
+            </li>
+            <li>
+              <Link to="/events" className="nav-link text-dark">
+                Events
+              </Link>
+            </li>
           </ul>
         </div>
       </div>

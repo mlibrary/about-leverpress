@@ -195,7 +195,7 @@ const IndexPage = ({data}) => {
               <div className="row mt-4">
                 <div className="col-md-12">
                   <p className="text-right">
-                    <Link to="/news">Read all News</Link>
+                    <Link to="/news" className="btn btn-secondary">Read all News</Link>
                   </p>
                 </div>
               </div>
