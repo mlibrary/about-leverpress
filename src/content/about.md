@@ -159,6 +159,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Trinity University
 * Union College
 * University of California, Los Angeles Library
+* University of Delaware
 * University of Idaho
 * University of Northern Colorado
 * University of Puget Sound
