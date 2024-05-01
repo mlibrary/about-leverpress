@@ -27,6 +27,12 @@ const Impact = ({data}) => {
             <iframe title="Lever Press Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=123826825"></iframe>
           </div>
         </div>
+        <div className="google-data-studio">
+          <ReactMarkdown source={googleDataStudioDescription} />
+          <div className="embed-responsive embed-responsive-1by1">
+            <iframe title="Lever Press Usage Report" className="embed-responsive-item" width="600" height="890" src="https://lookerstudio.google.com/embed/reporting/d7863fe2-201e-4c9c-8df7-88bf6e5a37b0/page/imr4C" frameborder="0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>          
+          </div>
+        </div>
       </div>
     </Layout>
   )

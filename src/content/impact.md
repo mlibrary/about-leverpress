@@ -11,7 +11,6 @@ googleDataStudioDescription: >-
   ## Book Usage
 
 
-  The Google Analytics report shows basic usage data including users, sessions,
-  pageviews, popular titles, and user location.
+  This report is created by the Book Analytics Dashboard project and represents usage across a number of different platforms.
 ---
 
