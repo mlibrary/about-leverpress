@@ -1,6 +1,7 @@
 ---
 templateKey: book
-title: "Twilight Zone Reflections: An Introduction to the Philosophical Imagination"
+title: "<i>Twilight Zone</i> Reflections: An Introduction to the Philosophical
+  Imagination"
 authorLastname: Traiger
 author: Saul Traiger
 cover: assets/traiger_cover_front_05.jpg
