@@ -27,7 +27,6 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Current Editorial Board members:**
 
 * Kathryne Corbin, Haverford College
-* Mary Crone-Odekon, Skidmore College (Vice Chair)
 * Darin Hayton, Haverford College (Chair)
 * Bethany Hicok, Williams College
 * Kathryn Lesh, Union College
@@ -56,7 +55,6 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Treasurer)
 * F﻿rances Maloy, College Librarian, Schaffer Library, Union College (Past Chair)
-* Kevin Mulroy, College Librarian, Mary Norton Clapp Library, Occidental College
 * Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University
 * Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Vice Chair/Chair-elect)
 
