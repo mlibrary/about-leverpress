@@ -39,6 +39,18 @@ collections:
       - { name: orderOnPage, label: "Order on Front Page", widget: number }
       - { name: readLink, label: "Read Link" }
       - { name: buyLink, label: "Buy Link" }
+  - name: stories
+    label: Stories
+    folder: src/content/stories
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: story }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: storyImage, label: "Story Image", widget: image }
+      - { name: body, label: Body, widget: markdown }
+      - { name: date, label: Published, widget: datetime }
   - name: pages
     label: Pages
     files:
@@ -161,3 +173,10 @@ collections:
           - { name: title, label: Impact }
           - { name: readershipMapDescription, label: "Readership Map Description", widget: markdown }
           - { name: googleDataStudioDescription, label: "Google Data Studio Description", widget: markdown }
+      - file: "src/content/stories.md"
+        name: stories
+        label: Stories
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: stories-page }
+          - { name: title, label: Stories }
+          - { name: body, label: Body, widget: markdown }
