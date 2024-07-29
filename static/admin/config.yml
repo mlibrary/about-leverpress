@@ -139,6 +139,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: historiesofstem-page }
           - { name: title, label: Histories of STEM }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/filmminutes.md"
+        name: filmminutes
+        label: film|minutes
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: filmminutes-page }
+          - { name: title, label: film|minutes }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/peerreview.md"
         name: peerReview
         label: "Peer Review"
