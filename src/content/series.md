@@ -10,6 +10,13 @@ title: Series
 
 This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the *ASIANetwork* series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While the *ASIANetwork* Series assists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia.<br> <br>
 
+### [film|minutes](https://www.leverpress.org/filmminutes/)
+
+*Series editor:* Bernd Herzogenrath (Goethe Universität Frankfurt am Main)
+
+\
+*film|minutes* is a book series in the short monograph format, with each volume of c. 25,000–40,000 words focused on one particular film. Volumes in the series cut up films into segments of exactly one minute and transform each minute into a fruitful, innovative tool for thinking with the film. Each volume works rigorously with the concept of “the minute” as a non-cinematic scale/quantity and a means to look awry, to zoom in on (dis)orderly fragments that do not necessarily respect the confinements of (good) cinematic form or meaning. As a critical practice, the focus on minutes causes disruptions and displacement that create novel connections and perspectives that help us uncover hidden traces and make it possible to see each film anew.<br> <br>
+
 ### Open Access Musicology
 
 *Series editors:* Daniel Barolsky (Beloit College) and Louis Epstein (St. Olaf College)
