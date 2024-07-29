@@ -32,7 +32,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // not a generated page.
   pages = results.data.allMarkdownRemark.edges.filter(edge => {
     if (edge.node.frontmatter.templateKey === "book" ||
-        edge.node.frontmatter.templateKey === "home-page") {
+        edge.node.frontmatter.templateKey === "home-page" ||
+        edge.node.frontmatter.templateKey === "stories-page") {
       return false
     } else {
       return edge
