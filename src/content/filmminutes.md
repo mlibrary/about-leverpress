@@ -18,6 +18,4 @@ Each book in *film|minutes* will focus on a single film and consist of as many s
 
 #### **Publish with *film|minutes***
 
-tFragment-->
-
-**If you have a project that might be a good fit for the film|minutes series, please reach out to the series editor, Bernd Herzogenrath ([herzogenrath@em.uni-frankfurt.de](mailto:herzogenrath@em.uni-frankfurt.de)), and to Lever Press’s acquiring editor, Sean Guynes ([sean@leverpress.org](mailto:sean@leverpress.org)), to describe your project.**
+If you have a project that might be a good fit for the *film|minutes* series, please reach out to the series editor, Bernd Herzogenrath (herzogenrath@em.uni-frankfurt.de), and to Lever Press’s acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
