@@ -8,7 +8,7 @@ const Story = ({data}) => {
   const { html } = data.markdownRemark
   const { title, summary} = data.markdownRemark.frontmatter
   //const storyImage = data.markdownRemark.fields.storyImage
-  console.log(data.markdownRemark.fields.storyImage)
+  //console.log(data.markdownRemark.fields.storyImage)
 
   return (
     <Layout>
