@@ -5,8 +5,8 @@ title: Join Us
 <div class="row featurette">
     <div class="col-md-7">
         <h2 class="featurette-heading">Who we are</h2>
-        <p class="lead"><span class="intro scala-sans text-primary">Lever Press arose</span> from an initiative of the Oberlin Group of Libraries that explored how liberal arts colleges could offer new and compelling alternatives to existing models of scholarly publishing.</p>
-        <p>We seek out, identify, evaluate, and advocate for transformative scholarship that spurs creative dialogue within and between traditional fields of inquiry, emphasizes disciplinary innovation, draws upon new models of collaborative research, and strives to reach the broadest audience possible.</p>
+        <p class="lead"><span class="intro scala-sans text-primary">Lever Press</span> is a membership-based university press that aims to produce the highest quality scholarship in an economically sustainable model, embody and reflect the values of the liberal arts, and lead the way in establishing best practices for born-digital, peer reviewed, open access monograph publishing.</p>
+        <!-- <p>We seek out, identify, evaluate, and advocate for transformative scholarship that spurs creative dialogue within and between traditional fields of inquiry, emphasizes disciplinary innovation, draws upon new models of collaborative research, and strives to reach the broadest audience possible.</p> -->
     </div>
     <div class="col-md-5">
         <div class="video-embed embed-responsive embed-responsive-16by9">
@@ -18,9 +18,10 @@ title: Join Us
 <div class="row featurette">
     <div class="col-md-7 order-md-2">
         <h2 class="featurette-heading">The Membership Model</h2>
-        <p class="lead">Publishing high-quality scholarship is costly. No one disputes this.</p>
-        <p>Lever Press is premised on the idea that it’s better to pay once for a work and create an open access result than to cover costs through a system demanding repeated payments—for purchasing, for copying, for long-term preservation, etc. This “pay-in-the-middle” membership model replaces paying at the consumer end or the producer end. Both of those models end up driving, not addressing, the growing inequality in access to scholarly information.</p>
-        <p>Libraries that provide support for Lever Press become part of the conversation shaping both the editorial program and objectives of the press and the principles by which we do our work.</p>
+        <p>Lever’s funding model is designed to share the costs of running Lever Press equitably among our members. Our annual budget includes expenditures for acquisitions, book production, and overhead including staff salaries (including annual raises for staff), outreach, marketing and member management. We also receive in-kind support from the University of Michigan Press, but member pledges reflect almost all of the actual total costs of running an open access press; Lever is not subsidized by the University of Michigan Press or by an existing scholarly press.</p>
+        <p>Members make 3-year pledges to support Lever, with contribution rates based on an institution's most current materials expenditure as reported to IPEDS. Here are the pledge levels for the 2025-2027 pledge cycle:</p>
+        <p>Each member’s annual cost will not exceed the amount committed to in their 3-year pledge, but may be less. Our primary goal for the 2025-2027 cycle is to increase membership and reduce member costs.</p>
+
 
 <p>
 
@@ -33,16 +34,38 @@ title: Join Us
 <div class="row featurette">
     <div class="col-md-7">
         <h2 class="featurette-heading">Benefits of Membership</h2>
-        <h3 class="join-h3 text-primary">Agency &amp; Advocacy for the Liberal Arts</h3>
-        <p>Lever is more than a subscription to a monograph series. It is membership in an advocacy collective that amplifies the voice of the liberal arts ethos to ensure a future for academic publishing and scholarly communications that aligns with this mission and vision. </p>
-        <h3 class="join-h3 text-primary">Diversity, Equity, &amp; Inclusion</h3>
-        <p>Lever membership is an investment in a more just scholarly ecosystem. Membership in Lever and Platinum OA is an equalizer, ensuring that institutions supporting the liberal arts ethos have a voice in the future of scholarly communications and academic publishing. All liberal arts supporting institutions, regardless of resources and budget, have the opportunity to benefit from Lever membership and to have a voice in Lever governance.</p>
-        <h3 class="join-h3 text-primary">Shared Governance</h3>
-        <p>Lever Press is governed by our members. Faculty in any discipline can serve on the Editorial Board and in various editorial roles, and library leaders serve on the governing board.</p>
+        <h3 class="join-h3 text-primary">Lever Benefits Scholars</h3>
+        <p class="lead font-italic">Equity at every level</p>
+        <h4 class="text-uppercase join-h4">Support for Authors</h4>
+        <p>With no APCs, there are no barriers for an author to publish with Lever Press, and a $1,000 honorarium sets the standard in the industry. </p>
+        <h4 class="text-uppercase join-h4">Access and Equity</h4>
+        <p>By paying our editorial board and peer reviewers, we are democratizing the scholarly communication system.</p>
+        <h4 class="text-uppercase join-h4">Diamond Open Access</h4>
+        <p>We don’t just unlock books, we produce open books from the start of the publishing process.</p>
+        <h3 class="join-h3 text-primary pt-4">Lever Benefits the Classroom</h3>
+        <p class="lead font-italic">Better resources make better teachers</p>
+        <h4 class="text-uppercase join-h4">Savings for all</h4>
+        <p>We publish books that are intended to be used in the classroom, and the Open Access editions come with zero costs to the student or teacher.</p>
+        <h4 class="text-uppercase join-h4">Collaborating with students</h4>
+        <p>Our student-contributed  titles include <a href="https://doi.org/10.3998/mpub.12063224"><i>Open Access Musicology</i></a> and <a href="https://doi.org/10.3998/mpub.12159971"><i>Women of Trachis</i></a>.</p>
+        <h4 class="text-uppercase join-h4">Innovation in Teaching</h4>
+        <p>We publish books that offer alternative pedagogical approaches, like <a href="https://doi.org/10.3998/mpub.12682117"><i>Public Feminisms: From Academy to Community</i></a> and <a href="https://doi.org/10.3998/mpub.12216775"><i>Academic Pipeline Programs: Diversifying Pathways from the Bachelor's to the Professoriate</i></a>.</p>
+        <h3 class="join-h3 text-primary pt-4">Lever Benefits Libraries</h3>
+        <p class="lead font-italic">Value for your values</p>
+        <h4 class="text-uppercase join-h4">Your university press</h4>
+        <p>You’re not just supporting a university press, you ARE the press. Join our Oversight Committee—nominations are now open—and make your voice heard.</p>
+        <h4 class="text-uppercase join-h4">Measurable impact</h4>
+        <p>We capture quantitative and qualitative impact data. We’ve seen over 170,000 book uses across 172 countries and have received hundreds of positive reviews of our publishing program from readers all over the world since 2020.</p>
     </div>
     <div class="col-md-5">
-        <img class="img-fluid" src="/assets/join-us-image-4.jpg" alt="Three students work in the field with their professor, examining plants specimens."/>
-        <img class="img-fluid" src="/assets/join-us-image-1.jpg" alt="A group of four students work collaboratively on a project."/>
+        <figure>
+            <a class="d-block" href="/assets/lever-2024-trifold.pdf"><img class="img-fluid mb-1" src="/assets/lever-2024-trifold.png" alt="Photograph of trifold brochure and its cover open on table."/></a>
+            <figcaption class="scala-sans">Download a membership brochure</figcaption>
+        </figure>
+        <figure>
+            <img class="img-fluid mb-1" src="/assets/lever-oversight-2024.jpg" alt="Group photograph of Lever Press Oversight Committee's 14 members."/>
+            <figcaption class="scala-sans">Lever Press Oversight Committee - May 2024</figcaption>
+        </figure>
     </div>
 </div>
 <hr class="featurette-divider">
@@ -70,21 +93,21 @@ title: Join Us
     <div class="col-md-7 order-md-2">
         <h2 class="featurette-heading">Testimonials</h2>
         <blockquote class="blockquote">
-        <p class="mb-0">The reality is that someone has to pay for the development and distribution of an OA publisher’s content, and that has typically fallen on individual scholars and their institutions. The new Lever Press OA endeavor, with its innovative cost-sharing model, may have a profound impact on shifting that reality.</p>
-        <footer class="blockquote-footer">Susan Wadsworth-Booth, <cite title="University Press Forum, 2016, Choice Magazine">University Press Forum, 2016, Choice Magazine</cite>
+        <p class="mb-0">“We are very proud to be able to support Lever Press. We increasingly see supporting diversity and transformation in academic publishing as part of our mission, we see this as the natural successor of collection building, so we are very happy when we can find places to invest this money."</p>
+        <footer class="blockquote-footer">Peter Barr, Head of Content & Collections, Western Bank Library, University of Sheffield</cite>
         </footer>
         </blockquote>
         <blockquote class="blockquote">
-        <p class="mb-0">Lever Press’ editorial board’s stated goal is to publish work that carries with it a liberal arts ethos — not a pretentious snobbishness, but a commitment to producing scholarship with the potential to make a tangible impact, and to making sure that scholarship is shared with anybody who wants to read it.</p>
-        <footer class="blockquote-footer">Oberlin Review Editorial Board</footer>
+        <p class="mb-0">“My colleagues and I—all from liberal arts colleges—want to make this rich, 17th-century French novel accessible to a new generation of students and faculty working in the digital humanities. In keeping with the ethos of Lever Press, the edition is completely free, so it can be used by as wide a variety of readers as possible.”</p>
+        <footer class="blockquote-footer">David Harrison, co-editor of the award-winning <a href="https://doi.org/10.3998/mpub.12629286"><i>La Princesse de Clèves by Lafayette: A New Translation and Bilingual Pedagogical Edition for the Digital Age</i></a></footer>
         </blockquote>
         <blockquote class="blockquote">
         <p class="mb-0">Lever Press advances the value of liberal arts and the value of an open access press, as central to equity and inclusion. Lever Press is an equalizer.</p> 
-        <footer class="blockquote-footer">Alexia Hudson-Ward, Azariah Smith Root Director of Libraries, Oberlin College</footer>
+        <footer class="blockquote-footer">Alexia Hudson-Ward, Associate Director of Research, Learning, and Strategic Partnerships - MIT Libraries</footer>
         </blockquote>
         <blockquote class="blockquote">
-        <p class="mb-0">The scholarly publishing landscape needs more experiments like this, and I think many presses will benefit from the path that Lever carves out.</p>
-        <footer class="blockquote-footer">Kathleen Fitzpatrick, author of <cite><a href="https://jhupbooks.press.jhu.edu/title/generous-thinking">Generous Thinking</a></cite>, in an interview in <cite>Inside Higher Ed</cite>
+        <p class="mb-0">"I'm a PhD student on health leave. I have wanted to keep up with developments in the field and it has been difficult without access. Free resources like this are a lifeline! Thank you!"</p>
+        <footer class="blockquote-footer">Lever Press reader</cite>
         </footer>
         </blockquote>
     </div>
@@ -94,6 +117,7 @@ title: Join Us
     </div>
 </div>
 <div class="row cta-bottom featurette justify-content-md-center">
+    <h2 class="mb-4">Have questions? Please connect with us at info@leverpress.org</h2>
     <div class="col-md-4 text-center">
         <div className="join-cta text-center">
             <a class="btn btn-primary btn-lg" href="https://forms.gle/3kDMmHqjVC3a7w358" role="button">Make a Membership Pledge »</a>

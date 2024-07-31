@@ -13,8 +13,8 @@ const Join = ({data}) => {
       <div className="jumbotron join-jumbo">
         <div className="container">
           <Title title={title}/>
-          <p className="join-tag lead">Changing the status quo in scholarly communications</p>
-          <p>With the support of more than 50 liberal arts institutions, we publish peer-reviewed, born digital, open access monographs at no cost to our authors or their academic institutions.</p>
+          <p className="join-tag lead">A better kind of open</p>
+          <p>With the support of more than 50 liberal arts institutions, Lever Press publishes peer-reviewed, born digital, open access monographs at no cost to our authors or their academic institutions.</p>
             <div className="join-cta">
               <a class="btn btn-primary btn-lg" href="https://forms.gle/3kDMmHqjVC3a7w358" role="button">Make a Membership Pledge »</a>
             </div>
