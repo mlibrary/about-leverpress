@@ -47,9 +47,9 @@ title: Join Us
         <h4 class="text-uppercase join-h4">Savings for all</h4>
         <p>We publish books that are intended to be used in the classroom, and the Open Access editions come with zero costs to the student or teacher.</p>
         <h4 class="text-uppercase join-h4">Collaborating with students</h4>
-        <p>Our student-contributed  titles include <a href="https://doi.org/10.3998/mpub.12063224"><i>Open Access Musicology</i></a> and <a href="https://doi.org/10.3998/mpub.12159971"><i>Women of Trachis</i></a>.</p>
+        <p>Our student-contributed  titles include <a href="https://www.fulcrum.org/concern/monographs/bv73c232s"><i>Open Access Musicology</i></a> and <a href="https://www.fulcrum.org/concern/monographs/rb68xf022"><i>Women of Trachis</i></a>.</p>
         <h4 class="text-uppercase join-h4">Innovation in Teaching</h4>
-        <p>We publish books that offer alternative pedagogical approaches, like <a href="https://doi.org/10.3998/mpub.12682117"><i>Public Feminisms: From Academy to Community</i></a> and <a href="https://doi.org/10.3998/mpub.12216775"><i>Academic Pipeline Programs: Diversifying Pathways from the Bachelor's to the Professoriate</i></a>.</p>
+        <p>We publish books that offer alternative pedagogical approaches, like <a href="https://www.fulcrum.org/concern/monographs/h128nh254"><i>Public Feminisms: From Academy to Community</i></a> and <a href="https://doi.org/10.3998/mpub.12216775"><i>Academic Pipeline Programs: Diversifying Pathways from the Bachelor's to the Professoriate</i></a>.</p>
         <h3 class="join-h3 text-primary pt-4">Lever Benefits Libraries</h3>
         <p class="lead font-italic">Value for your values</p>
         <h4 class="text-uppercase join-h4">Your university press</h4>
