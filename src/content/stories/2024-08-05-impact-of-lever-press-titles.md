@@ -16,15 +16,11 @@ By embodying these values, the press would be “responsive to the needs of read
 
 Nine years in, and about to begin its third membership phase, Lever Press continues to publish open access, born-digital peer reviewed scholarship that benefits authors and scholars, teachers and students, and libraries and their institutions. [[Lever Press book catalog](https://www.fulcrum.org/leverpress)]
 
- 
-
 #### Quantitative Data
 
 Lever’s titles are hosted on the Fulcrum platform and distributed to a number of book indexers, discovery services, and aggregator platforms including JSTOR Open Access eBooks, MUSE Open, and OAPEN and its Directory of Open Access Books. Publishers can run reports from each vendor to gather data about usage of their titles—how many times a title was viewed, downloaded, and for some vendors, from what country or territory. Gathering data from many separate sources can be a tedious undertaking, but was recently made easier by the introduction of the [Book Analytics Dashboard](https://www.leverpress.org/impact). This dashboard gathers in one place usage data from multiple sources, including downloads from OAPEN and Fulcrum as well as Crossref Event data (which captures online mentions or discussion of a title such as on social media, Wikipedia, blogs, news articles and the like). JSTOR data is not yet included but will be added soon.
 
 From March of 2020 through May of 2024, the Book Analytics Dashboard shows that Lever titles have been accessed more than 55,000 times, downloaded over 48,000 times, had nearly 7,000 online mentions, and reached 172 countries and territories. When we add in the data from Lever title usage in JSTOR Open Access eBooks and MUSE Open, the numbers are even more impressive—Lever’s titles have been accessed globally more than 170,000 times, from Afghanistan to Zimbabwe and many locations in between.
-
- 
 
 #### Qualitative Data
 
@@ -38,8 +34,6 @@ The survey allows users to voluntarily respond to any or all of these questions:
 * Is there anything else you would like to tell us or think we should know about how you found or are using the ebook, or about yourself?
 
 There is also an option for respondents to indicate their willingness to be contacted to answer some follow-up questions via email.
-
-
 
 #### What Users Are Saying
 
@@ -57,8 +51,6 @@ A look at the survey feedback illustrates how Lever is being responsive to the n
 
 “I am a mathematical music theory teacher completing a PhD interested in the work provided here, particularly music history.” (*[Open Access Musicology, Volume One](https://doi.org/10.3998/mpub.12063224)*)
 
- 
-
 ##### Responsive to needs in the classroom
 
 “It appears to be related to pedagogy which is of interest to me, as are open access resources, especially those that can be used with an undergraduate population.” (*[Open Access Musicology, Volume One](https://doi.org/10.3998/mpub.12063224)*)
@@ -69,11 +61,7 @@ A look at the survey feedback illustrates how Lever is being responsive to the n
 
 “Teach undergraduate music history and want to open up other options to my students for class readings.” (*[Open Access Musicology, Volume One](https://doi.org/10.3998/mpub.12063224)*)
 
-“I am faculty and a dean in the humanities, so I am always looking for ways to help my faculty shift their perspective and better communicate what we do to our campus and the community.” (*[Extraordinary Partnerships: How the Arts and Humanities are Transforming America](https://doi.org/10.3998/mpub.11649046)*)
-
 “My 6th graders are researching and teaching about some artists in the Harlem Renaissance, and I wanted to find folks who could connect with my students and share their wisdom and expertise.” (*[South End Shout: Boston’s Forgotten Music Scene in the Jazz Age](https://doi.org/10.3998/mpub.12735924)*)
-
- 
 
 ##### Responsive to needs of libraries and their institutions
 
@@ -85,7 +73,7 @@ A look at the survey feedback illustrates how Lever is being responsive to the n
 
 “Plan to use the book as a resource with bibliographic instruction classes, will be added to a LibGuide as well.” (*[Transforming the Authority of the Archive: Undergraduate Pedagogy and Critical Digital Archives](https://doi.org/10.3998/mpub.12752519)*)
 
- 
+“I am faculty and a dean in the humanities, so I am always looking for ways to help my faculty shift their perspective and better communicate what we do to our campus and the community.” (*[Extraordinary Partnerships: How the Arts and Humanities are Transforming America](https://doi.org/10.3998/mpub.11649046)*)
 
 ##### Responsive to needs of all readers
 
@@ -104,8 +92,6 @@ A look at the survey feedback illustrates how Lever is being responsive to the n
 “I'm a queer person myself and it means the world to me to have work that represents the community and the wonderful spectrum of people in it. Even if the perspectives might be different from mine. There is nothing more important to humanity than stepping into another person's shoes!” (*[Queer Compassion in 15 Comics](https://doi.org/10.3998/mpub.12912046)*)
 
 “Please keep producing robust OA works! It's been so frustrating to see publishers create works with the label OA that are not actually accessible…We yearn for a reading experience that doesn't tax us for being disabled. THANK YOU for leading the efforts to make an accessible reading experience more possible.” (*[What Kind of Island in What Kind of Sea](https://doi.org/10.3998/mpub.12467134)*)
-
-
 
 #### Conclusion
 
