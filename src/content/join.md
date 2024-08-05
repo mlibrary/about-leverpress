@@ -18,10 +18,9 @@ title: Join Us
 <div class="row featurette">
     <div class="col-md-7 order-md-2">
         <h2 class="featurette-heading">The Membership Model</h2>
-        <p>Lever’s funding model is designed to share the costs of running Lever Press equitably among our members. Our annual budget includes expenditures for acquisitions, book production, and overhead including staff salaries (including annual raises for staff), outreach, marketing and member management. We also receive in-kind support from the University of Michigan Press, but member pledges reflect almost all of the actual total costs of running an open access press; Lever is not subsidized by the University of Michigan Press or by an existing scholarly press.</p>
+        <p>Lever’s funding model is designed to share the costs of running Lever Press equitably among our members. Our annual budget includes expenditures for acquisitions, book production, and overhead including staff salaries (including annual raises for staff), outreach, marketing and member management. We also receive in-kind support from Michigan Publishing, but member pledges reflect almost all of the actual total costs of running an open access press; Lever is not subsidized by Michigan or by an existing scholarly press.</p>
         <p>Members make 3-year pledges to support Lever, with contribution rates based on an institution's most current materials expenditure as reported to IPEDS. Here are the pledge levels for the 2025-2027 pledge cycle:</p>
         <p>Each member’s annual cost will not exceed the amount committed to in their 3-year pledge, but may be less. Our primary goal for the 2025-2027 cycle is to increase membership and reduce member costs.</p>
-
 
 <p>
 
