@@ -3,7 +3,7 @@ templateKey: story
 title: Why Authors Publish with Lever Press
 summary: A look at the factors that distinguish Lever Press and make it
   appealing to authors.
-storyImage: assets/1.png
+storyImage: /assets/1.png
 date: 2024-07-29T08:55:26.820Z
 ---
 Lever Press was formed in 2015 as a response to the lack of [diamond/platinum OA](https://oabooks-toolkit.org/lifecycle/article/13868103-green-gold-diamond-different-models-for-open-access-books) publishing options among non-profit academic presses. Lever Press was driven by the vision of OA-supporting librarians at liberal arts colleges across the U.S. who, individually, could not financially support a press—but, together, they could fund a press as a consortium. 

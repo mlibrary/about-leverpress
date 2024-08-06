@@ -25,13 +25,13 @@ const Impact = ({data}) => {
       <div className="container page-container">
         <Title title={title} />
         
-        {/* <section className="cards-container">
+        <section className="cards-container">
           <h2 className="mb-4">Stories of Impact</h2>
           <StoryList stories={stories} />
           <Link to="/stories" className="btn btn-secondary mt-4 float-right">
               Read More Stories
           </Link>
-        </section> */}
+        </section>
         
         <section>
           <div className="readership-map">
@@ -67,7 +67,7 @@ export const query = graphql`
           id
           fields {
             slug
-          #  storyImage
+            storyImage
           }
           frontmatter {
             title

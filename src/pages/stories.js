@@ -13,7 +13,7 @@ const Stories = ({data}) => {
   return (
     <Layout>
       <SEO title="Stories" />
-      <div className="container">
+      <div className="container page-container">
       <div className="row">
         <div className="col-md-12">
           <Title title={title} />
@@ -53,7 +53,7 @@ query {
         id
         fields {
           slug
-        #  storyImage
+          storyImage
         }
         frontmatter {
           title

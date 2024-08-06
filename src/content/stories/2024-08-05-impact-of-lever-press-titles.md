@@ -5,7 +5,7 @@ summary: Usage statistics for Lever Press titles combined with reader feedback
   illustrate the ways the press is living its values and being responsive to the
   needs of authors, scholars, teachers and students, and libraries and their
   institutions.
-storyImage: assets/2.png
+storyImage: /assets/2.png
 date: 2024-08-05T19:24:47.078Z
 ---
 #### Lever’s Values and Commitments

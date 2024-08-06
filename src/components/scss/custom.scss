@@ -256,6 +256,82 @@ p {
   }
 }
 
+// stories
+.stories {
+  padding-top: 2rem;
+}
+
+// cards
+
+.cards-container {
+  padding-bottom: 3rem;
+
+  .card-list {
+    justify-content: space-evenly;
+
+    a:hover {
+      text-decoration: none;
+      box-shadow: 0 2px 8px 0 rgba(0,0,0,.2);
+    }
+  }
+  
+  .card {
+    border-radius: 0;
+    padding-right: 0;
+    padding-left: 0;
+
+    picture,
+    source {
+      line-height: 0;
+    };
+    .card-body {
+      justify-content: space-around;
+      margin: 0 !important;
+      flex-wrap: nowrap;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+      margin-top: 0;
+    }
+
+    .card-img {
+      border-radius: 0;
+      max-height: 300px;
+    }
+
+    .card-text {
+      font-size: .9rem;
+      color: #333;
+    }
+
+    .cover-only-img {
+      min-width: 200px;
+    }
+  }
+}
+
+b, strong {
+  font-weight: 700;
+}
+
+.card-img-main {
+  padding-bottom: 3rem;
+  width: 100%;
+  border-radius: calc(.25rem - 1px);
+}
+
+.summary {
+  font-size: 1.3rem;
+  @include scala-sans;
+}
+
+blockquote {
+  @include scala-sans;
+  margin: 0 4rem 1rem;
+}
+
+
 // join
 
 .join-us {
