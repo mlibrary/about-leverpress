@@ -24,7 +24,7 @@ title: Join Us
 
 <p>
 
-<a href="/assets/lever_press_pledge_agreement_phase-2.pdf">View the Lever Press member agreement</a>
+<a href="assets/lever-press-pledge-agreement_phase3.pdf">View the Lever Press member agreement</a>
 
 </p>     </div>     <div class="col-md-5 order-md-1">         <table class="table table-bordered">             <caption class="scala-sans">Requested contribution rates are based on an institution's most current materials expenditure as reported to IPEDS</caption>             <thead class="scala-sans">                 <tr>                     <th scope="col">IPEDS Expenditure</th>                     <th scope="col">Contribution Rate</th>                 </tr>             </thead>             <tbody>                 <tr>                     <td>Less than $300,000</td>                     <td>$500 annually</td>                 </tr>                 <tr>                     <td>$300,000 - $499,999</td>                     <td>$2,000 annually</td>                 </tr>                 <tr>                     <td>$500,000 - $749,999</td>                     <td>$4,000 annually</td>                 </tr>                 <tr>                     <td>$750,000 - $1,499,999</td>                     <td>$6,000 annually</td>                 </tr>                 <tr>                     <td>$1,500,000 - $2,999,999</td>                     <td>$8,000 annually</td>                 </tr>                 <tr>                     <td>$3,000,000 - $5,999,999</td>                     <td>$10,000 annually</td>                 </tr>                 <tr>                     <td>More than $6,000,000</td>                     <td>$12,000 annually</td>                 </tr>             </tbody>         </table>     </div>
 
