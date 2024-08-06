@@ -6,6 +6,8 @@ summary: A look at the factors that distinguish Lever Press and make it
 storyImage: /assets/1.png
 date: 2024-07-29T08:55:26.820Z
 ---
+<br/>
+
 Lever Press was formed in 2015 as a response to the lack of [diamond/platinum OA](https://oabooks-toolkit.org/lifecycle/article/13868103-green-gold-diamond-different-models-for-open-access-books) publishing options among non-profit academic presses. Lever Press was driven by the vision of OA-supporting librarians at liberal arts colleges across the U.S. who, individually, could not financially support a press—but, together, they could fund a press as a consortium. 
 
 Enter Lever Press’s c. 50 supporters from the U.S. and U.K. who, over the past 8 years, have pooled money and given their time (through elected service on the Oversight Committee) to run a groundbreaking, fully operational diamond OA publisher, with production, marketing, and editorial work carried out in partnership with Amherst College Press and Michigan Publishing. 
