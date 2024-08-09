@@ -3,31 +3,102 @@ templateKey: join-page
 title: Join Us
 ---
 <div class="row featurette">
-    <div class="col-md-7">
-        <h2 class="featurette-heading">Who we are</h2>
-        <p class="lead"><span class="intro scala-sans text-primary">Lever Press</span> is a membership-based university press that aims to produce the highest quality scholarship in an economically sustainable model, embody and reflect the values of the liberal arts, and lead the way in establishing best practices for born-digital, peer reviewed, open access monograph publishing.</p>
-        <!-- <p>We seek out, identify, evaluate, and advocate for transformative scholarship that spurs creative dialogue within and between traditional fields of inquiry, emphasizes disciplinary innovation, draws upon new models of collaborative research, and strives to reach the broadest audience possible.</p> -->
-    </div>
-    <div class="col-md-5">
-        <div class="video-embed embed-responsive embed-responsive-16by9">
-            <iframe title="Why Lever Press?" width="560" height="315" src="https://www.youtube.com/embed/GtPgw52VSUU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-       </div>
-    </div>
-</div>
-<hr class="featurette-divider">
-<div class="row featurette">
-    <div class="col-md-7 order-md-2">
+    <div class="col-md-5 order-md-2">
         <h2 class="featurette-heading">The Membership Model</h2>
         <p>Lever’s funding model is designed to share the costs of running Lever Press equitably among our members. Our annual budget includes expenditures for acquisitions, book production, and overhead including staff salaries (including annual raises for staff), outreach, marketing and member management. We also receive in-kind support from Michigan Publishing, but member pledges reflect almost all of the actual total costs of running an open access press; Lever is not subsidized by Michigan or by an existing scholarly press.</p>
-        <p>Members make 3-year pledges to support Lever, with contribution rates based on an institution's most current materials expenditure as reported to IPEDS. Here are the pledge levels for the 2025-2027 pledge cycle:</p>
-        <p>Each member’s annual cost will not exceed the amount committed to in their 3-year pledge, but may be less. Our primary goal for the 2025-2027 cycle is to increase membership and reduce member costs.</p>
-
-<p>
-
-<a href="assets/lever-press-pledge-agreement_phase3.pdf">View the Lever Press member agreement</a>
-
-</p>     </div>     <div class="col-md-5 order-md-1">         <table class="table table-bordered">             <caption class="scala-sans">Requested contribution rates are based on an institution's most current materials expenditure as reported to IPEDS</caption>             <thead class="scala-sans">                 <tr>                     <th scope="col">IPEDS Expenditure</th>                     <th scope="col">Contribution Rate</th>                 </tr>             </thead>             <tbody>                 <tr>                     <td>Less than $300,000</td>                     <td>$500 annually</td>                 </tr>                 <tr>                     <td>$300,000 - $499,999</td>                     <td>$2,000 annually</td>                 </tr>                 <tr>                     <td>$500,000 - $749,999</td>                     <td>$4,000 annually</td>                 </tr>                 <tr>                     <td>$750,000 - $1,499,999</td>                     <td>$6,000 annually</td>                 </tr>                 <tr>                     <td>$1,500,000 - $2,999,999</td>                     <td>$8,000 annually</td>                 </tr>                 <tr>                     <td>$3,000,000 - $5,999,999</td>                     <td>$10,000 annually</td>                 </tr>                 <tr>                     <td>More than $6,000,000</td>                     <td>$12,000 annually</td>                 </tr>             </tbody>         </table>     </div>
-
+        <p>Members make 3-year pledges to support Lever, a membership term that we believe is short enough to not burden members with a lengthy financial commitment yet long enough to provide us with a stable, foreseeable budget to keep operations running smoothly and to anticipate the number of publishing contracts we can commit to for the next several years.</p>
+        <p>Each member’s annual cost will not exceed the amount committed to in their 3-year pledge, but may be less. It is anticipated that a net membership gain during the pledge cycle will lead to reduced annual cost allocations for all members in years 2 and 3 depending on the total budget needed for those years.
+        </p>
+        <p>The budget is developed by the Oversight Committee each August for the following calendar year, and announced to the membership in September along with each member’s contribution for the coming year. After a brief period of time for member comment, the budget is approved by the Oversight Committee. The Oversight Committee is composed of member representatives, and all members have the opportunity to run for election to the Oversight Committee and are encouraged to provide input into the budgeting process.
+        </p>
+        <p><a href="assets/lever-press-pledge-agreement_phase3.pdf">View the Lever Press member agreement</a></p>
+    </div>
+    <div class="col-md-7 order-md-1">
+        <table class="table table-bordered">             
+            <caption class="scala-sans"><span class="lead text-dark">2025-2027 U.S. members pledge levels</span><br>
+            <span>For U.S. libraries, 2025-2027 contribution rates are based on an institution’s most current annual library collections budget. Pledge levels have not increased since 2022.</span>
+            </caption>             
+            <thead class="scala-sans">
+                <tr>
+                    <th scope="col">Annual Library Collections Budget</th>
+                    <th scope="col">Contribution Rate</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Less than $300,000</td>
+                    <td>$500 annually</td>
+                </tr>
+                <tr>
+                    <td>$300,000 - $499,999</td>
+                    <td>$2,000 annually</td>
+                </tr>
+                <tr>
+                    <td>$500,000 - $749,999</td>
+                    <td>$4,000 annually</td>
+                </tr>
+                <tr>
+                    <td>$750,000 - $1,499,999</td> 
+                    <td>$6,000 annually</td>
+                </tr>
+                <tr>
+                    <td>$1,500,000 - $2,999,999</td>
+                    <td>$8,000 annually</td>
+                </tr> 
+                <tr>
+                    <td>$3,000,000 - $5,999,999</td>
+                    <td>$10,000 annually</td>
+                </tr>
+                <tr>
+                    <td>More than $6,000,000</td>
+                    <td>$12,000 annually</td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="table table-bordered">             
+            <caption class="scala-sans"><span class="lead text-dark">2025-2027 International members pledge levels</span>            
+            </caption>             
+            <thead class="scala-sans">
+                <tr>
+                    <th scope="col">Tier</th>
+                    <th scope="col">High Income</th>
+                    <th scope="col">Upper Middle Income</th>
+                    <th scope="col">Lower Middle Income</th>
+                    <th scope="col">Low Income</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">Doctoral</th>
+                    <td>$6,000</td>
+                    <td>$3,600</td>
+                    <td>$1,500</td>
+                    <td>$600</td>
+                </tr>
+                <tr>
+                    <th scope="row">Master's</th>
+                    <td>$4,000</td>
+                    <td>$2,400</td>
+                    <td>$1,000</td>
+                    <td>$400</td>
+                </tr>
+                <tr>
+                    <th scope="row">Baccalaureate</th>
+                    <td>$2,000</td>
+                    <td>$1,200</td>
+                    <td>$500</td>
+                    <td>$200</td>
+                </tr>
+                <tr>
+                    <th scope="row">Associates</th>
+                    <td>$500</td>
+                    <td>$300</td>
+                    <td>$125</td>
+                    <td>$50</td>
+                </tr>                
+            </tbody>
+        </table>
+    </div>
 </div>
 <hr class="featurette-divider">
 <div class="row featurette">
@@ -116,10 +187,5 @@ title: Join Us
     </div>
 </div>
 <div class="row cta-bottom featurette justify-content-md-center">
-    <h2 class="mb-4">Have questions? Please connect with us at info@leverpress.org</h2>
-    <div class="col-md-4 text-center">
-        <div className="join-cta text-center">
-            <a class="btn btn-primary btn-lg" href="https://forms.gle/3kDMmHqjVC3a7w358" role="button">Make a Membership Pledge »</a>
-        </div>
-    </div>
+    <h2 class="mb-4">Have questions? Please connect with us at info@leverpress.org</h2>    
 </div>
