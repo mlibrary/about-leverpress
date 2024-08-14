@@ -10,7 +10,7 @@ description: "Twilight Zone Reflections is the first book of its kind to explore
   introduction to the field of philosophy and as a complete guide to the
   philosophical issues illustrated throughout the original 1959–64 television
   series. "
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://doi.org/10.3998/mpub.14374928
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-64315-062-8&PRESS=lever
 ---
