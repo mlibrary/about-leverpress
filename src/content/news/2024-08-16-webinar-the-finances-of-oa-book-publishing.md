@@ -21,7 +21,7 @@ By the end of the webinar:
 * You will be able to describe how the funding model and budget of an open access press supports its staff, authors, editorial board, and peer reviewers.
 * You will be able to recognize how Lever Press may be distinctive or similar to other open access publishers.
 
-#### Presenters:﻿
+##### Presenters:﻿
 
 **Curtis Brundy**, Associate University Librarian for Scholarly Communication and Collections, Iowa State University; Lever Press Oversight Committee Chair
 
