@@ -158,12 +158,19 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: filmminutes-page }
           - { name: title, label: film|minutes }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/cinemasofasia.md"
+        name: cinemasofasia
+        label: Cinemas of Asia
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: cinemasofasia-page }
+          - { name: title, label: Cinemas of Asia }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/peerreview.md"
         name: peerReview
         label: "Peer Review"
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
-          - { name: title, label: Series }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: peerreview-page }
+          - { name: title, label: Peer Review }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/impact.md"
         name: impact
