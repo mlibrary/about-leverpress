@@ -4,7 +4,7 @@ title: "<i>Twilight Zone</i> Reflections: An Introduction to the Philosophical
   Imagination"
 authorLastname: Traiger
 author: Saul Traiger
-cover: assets/traiger_cover_front_05.jpg
+cover: assets/9781643150628.jpg
 description: "Twilight Zone Reflections is the first book of its kind to explore
   the entirety of The Twilight Zone (1959–1964) as a series. It acts as both an
   introduction to the field of philosophy and as a complete guide to the
