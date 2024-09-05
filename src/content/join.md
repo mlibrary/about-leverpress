@@ -16,7 +16,7 @@ title: Join Us
     <div class="col-md-7 order-md-1">
         <table class="table table-bordered">             
             <caption class="scala-sans"><span class="lead text-dark">2025-2027 U.S. members pledge levels</span><br>
-            <span>For U.S. libraries, 2025-2027 contribution rates are based on an institution’s most current annual library collections budget. Pledge levels have not increased since 2022.</span>
+            <span>For U.S. libraries, 2025-2027 contribution rates are based on an institution’s most current materials expenditures. Pledge levels have not increased since 2022.</span>
             </caption>             
             <thead class="scala-sans">
                 <tr>
@@ -188,4 +188,4 @@ title: Join Us
 </div>
 <div class="row cta-bottom featurette justify-content-md-center">
     <h2 class="mb-4">Have questions? Please connect with us at info@leverpress.org</h2>    
-</div>
+</div>aterials
