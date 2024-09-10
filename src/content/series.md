@@ -10,6 +10,12 @@ title: Series
 
 This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the *ASIANetwork* series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While the *ASIANetwork* Series assists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia.<br> <br>
 
+### [](https://www.leverpress.org/filmminutes/)[C﻿inemas of Asia](https://www.leverpress.org/cinemasofasia/)
+
+*Series editor:* Mridula Nath Chakraborty, Andrew David Jackson and Jason Jones (Monash University)
+
+*Cinemas of Asia* is the first series devoted to the cinemas of South, Southeast, East, and Central Asia and global Asian diasporas. Each short-format volume of 30,000-40,000 words provides a critical analysis and interpretation of a single movie. The series aims to capture the diversity of Asian cinema for fans, lovers, and students of Asian film. Each volume is accessible, informative, written in an engaging style, and open to non-experts, academics, students, and cinephiles. All the books tell a story about why a particular film is worthy of consideration and how it is viewed within its context country.<br> <br>
+
 ### [film|minutes](https://www.leverpress.org/filmminutes/)
 
 *Series editor:* Bernd Herzogenrath (Goethe Universität Frankfurt am Main)
