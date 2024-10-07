@@ -18,4 +18,4 @@ Each book is between 30,000 and 40,000 words, consists of a set of thematic chap
 
 #### **Publish with *Cinemas of Asia***
 
-If you have a project that might be a good fit for *Cinemas of Asia*, please reach out to the series editors, Mridula Nath Chakraborty, Andrew David Jackson, and Jason Jones (series email address TBA), and to Lever Press's acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
+If you have a project that might be a good fit for *Cinemas of Asia*, please reach out to series editor Andrew David Jackson (andy.jackson@monash.edu), and to Lever Press's acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
