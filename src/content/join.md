@@ -188,4 +188,4 @@ title: Join Us
 </div>
 <div class="row cta-bottom featurette justify-content-md-center">
     <h2 class="mb-4">Have questions? Please connect with us at info@leverpress.org</h2>    
-</div>aterials
+</div>
