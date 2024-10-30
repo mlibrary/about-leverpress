@@ -156,6 +156,7 @@ title: Join Us
                 <li>Rich media digital books published on sustainable and durable digital platform, simultaneously available in print</li>
             </ol>
         </p>
+        <p class="lead text-center">To see more reasons to support Lever, download <a target="_blank" href="/assets/making-the-case-for-lever-press.pdf"><i>Making the Case for Lever Press</i></a>.</p>
     </div>
 </div>
 <hr class="featurette-divider">
