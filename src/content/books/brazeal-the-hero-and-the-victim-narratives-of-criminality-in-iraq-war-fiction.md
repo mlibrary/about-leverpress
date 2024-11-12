@@ -10,7 +10,7 @@ description: "Two decades after the US invasion of Iraq in 2003, a canon of
   history. Iraq War fiction reflects the troubled emergence of a new narrative
   in the long history of war fiction: the story of the ordinary soldier as a
   wrongdoer or even criminal."
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://doi.org/10.3998/mpub.14432099
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-64315-066-6&PRESS=lever
 ---
