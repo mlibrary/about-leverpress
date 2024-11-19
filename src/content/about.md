@@ -154,7 +154,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Spelman College
 * Susquehanna University
 * Swarthmore College
-* T﻿ilburg University, The Netherlands
+* T﻿ilburg University
 * Trinity University
 * Union College
 * University of California, Los Angeles Library
