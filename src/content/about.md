@@ -27,19 +27,17 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Current Editorial Board members:**
 
 * Kathryne Corbin, Haverford College
-* Darin Hayton, Haverford College (Chair)
-* Bethany Hicok, Williams College
+* Bethany Hicok, Williams College (Chair)
 * Kathryn Lesh, Union College
 * Angelo Mercado, Grinnell College
 * Jonson Miller, Drexel University
 * Fernando Nascimento, Bowdoin College
-* Hai-Dang Phan, Grinnell College
 
 **Standing**
 
 * Sara Cohen, Editorial Director, University of Michigan Press
 * S﻿ean Guynes, Acquiring Editor, Lever Press
-* Curtis Brundy, Oversight Committee Chair, ex officio
+* Luke Vilelle, Oversight Committee Chair, ex officio
 
 <h2 id="oversight">Oversight Committee</h2>
 
@@ -47,16 +45,12 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Current Oversight Committee members:**
 
-* Andrew Ashton, Director of the Libraries, Thompson Library, Vassar College
-* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Chair)
+* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Past Chair)
 * Mark Christel, Librarian of the College, Grinnell College
 * Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
-* Susan Fliss, Dean of Libraries, Neilson Library, Smith College
-* Bryn Geffert, Dean of Libraries, Howe Library, University of Vermont
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Treasurer)
-* F﻿rances Maloy, College Librarian, Schaffer Library, Union College (Past Chair)
-* Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University
-* Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Vice Chair/Chair-elect)
+* Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University (Vice Treasurer)
+* Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Chair)
 
 **Standing**
 
@@ -110,20 +104,19 @@ Lever Press is committed to the highest standards of peer review in evaluating t
 
 Lever Press titles are made available under Creative Commons (CC) licenses to maximize opportunities for reuse. The particular CC license chosen is up to the author. As well as being delivered [through the Fulcrum platform](https://www.fulcrum.org/leverpress), Lever Press titles are delivered to a range of book indexers, library discovery services, and platforms including [JSTOR Open](https://www.jstor.org/publisher/leverpress), [Muse Open](https://muse.jhu.edu/search?action=browse&limit=publisher_id:314), Open Research Library, and OAPEN. MARC records are available for free download under a CC0 license [from this location](https://ftp.fulcrum.org/Lever_Press/). See how Lever Press titles receive usage all over the world [on the Readership Map](https://www.leverpress.org/impact/).
 
-<h2 id="institutions">Our Supporting Institutions</h2>
+<h2 id="institutions">Our Supporting Institutions (as of January 2025)</h2>
 
 * Amherst College
-* Atlanta University Center Consortium
+* B﻿ard College
+* B﻿ennington College
 * Berea College
+* B﻿oston College
 * Bowdoin College
 * Carleton College
-* Central Washington University
 * C﻿laremont Colleges
 * Claremont Graduate University
 * Claremont McKenna College
-* Clark Atlanta University
-* The College of Wooster
-* The College of Saint Benedict / Saint John's University
+* C﻿olby College
 * Davidson College
 * Denison University
 * DePauw University
@@ -131,6 +124,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Hamilton College
 * Hampshire College
 * Harvey Mudd College
+* H﻿averford College
 * Hollins University
 * Iowa State University
 * Keck Graduate Institute
@@ -138,39 +132,26 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Lafayette College
 * Macalester College
 * Middlebury College
-* Morehouse College
-* Morehouse School of Medicine
 * Norwich University
-* Occidental College
-* Penn State University
 * Pitzer College
 * Pomona College
 * Randolph-Macon College
 * Rollins College
 * Santa Clara University
 * Scripps College
-* Skidmore College
 * Smith College
-* Spelman College
-* Susquehanna University
 * Swarthmore College
 * T﻿ilburg University
 * Trinity University
 * Union College
-* University of California, Los Angeles Library
-* University of Delaware
-* University of Idaho
-* University of Northern Colorado
-* University of Puget Sound
+* U﻿niversity at Buffalo (SUNY)
 * University of Rhode Island
-* University of San Francisco
 * U﻿niversity of Sheffield
+* U﻿niversity of Texas at Austin
 * University of Vermont
 * Vassar College
 * Washington and Lee University
 * Whitman College
-* Whittier College
-* Willamette University
 * Williams College
 
 <h2 id="historical-docs">Historical Documents</h2>
