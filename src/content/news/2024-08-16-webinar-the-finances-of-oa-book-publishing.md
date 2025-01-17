@@ -5,6 +5,8 @@ summary: "Join us for a webinar: The Finances of Open Access Book Publishing: A
   Lever Press Case Study"
 date: 2024-08-16T14:24:39.927Z
 ---
+#### **\*T﻿he webinar recording can be found [here](https://drive.google.com/file/d/1cScbFmMBKtzyvFDrMsGAaG8HSDHewbcP/view).***
+
 #### **Join us for a Webinar**
 
 ### ***The Finances of Open Access Book Publishing: A Lever Press Case Study***
