@@ -13,8 +13,6 @@ date: 2024-08-16T14:24:39.927Z
 
 Tuesday, September 3rd 2:00-3:00pm (US Eastern Time) 
 
-<a class="btn btn-secondary" href="https://umich.zoom.us/webinar/register/WN_v53sFA5NRmGyW_5aLlViJQ#/">Register Here</a>
-
 When you provide financial support for an open access publisher, your institution's money may be used in a wide variety of ways (to pay staff, to pay authors and peer-reviewers, to maintain digital platforms, etc.). Join Lever Press to take a deep dive into the transparent budget and funding model of an open access book publisher and improve your understanding so that you can make better OA investment decisions on behalf of your library.
 
 By the end of the webinar:
