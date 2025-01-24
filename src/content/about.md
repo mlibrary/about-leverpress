@@ -26,7 +26,10 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 **Current Editorial Board members:**
 
+* Mackenzie Cooley, Hamilton College
 * Kathryne Corbin, Haverford College
+* Aviva Dove-Viebahn, Arizona State University
+* V﻿incent Haddad, Central State University
 * Bethany Hicok, Williams College (Chair)
 * Kathryn Lesh, Union College
 * Angelo Mercado, Grinnell College
