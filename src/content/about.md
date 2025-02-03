@@ -51,9 +51,13 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Past Chair)
 * Mark Christel, Librarian of the College, Grinnell College
 * Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
+* Lisa Forrest, The Leland M. Park Director of the Davidson College Library, Davidson College
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Treasurer)
 * Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University (Vice Treasurer)
+* Kevin Smith, Director of the Colby Libraries, Colby College
+* Stephen Sturgeon, Head Librarian, Collections, Boston College
 * Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Chair)
+* Rachel Walton, Head of Library Digital Strategies & Scholarly Communication, Rollins College
 
 **Standing**
 
