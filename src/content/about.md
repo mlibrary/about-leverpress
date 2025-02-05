@@ -160,6 +160,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Washington and Lee University
 * Whitman College
 * Williams College
+* Y﻿ale University
 
 <h2 id="historical-docs">Historical Documents</h2>
 
