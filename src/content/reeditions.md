@@ -28,7 +28,7 @@ If you have a project that might be a good fit for the *Re-Editions* series, ple
 
 Jesse Alemán, University of New Mexico
 
-Manu Samriti Chander, Rutgers University-Newark
+Manu Samriti Chander, Georgetown University
 
 Lara Langer Cohen, Swarthmore College
 
@@ -36,7 +36,7 @@ Brigitte Fielder, University of Wisconsin-Madison
 
 Travis Chi Wing Lau, Kenyon College
 
-Rachel Mesch, Yeshiva University
+Rachel Mesch, Boston University
 
 Robbie Richardson, Princeton University
 
