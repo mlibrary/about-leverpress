@@ -53,7 +53,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 * Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
 * Lisa Forrest, The Leland M. Park Director of the Davidson College Library, Davidson College
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Treasurer)
-* Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University (Vice Treasurer)
+* Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University (Vice Chair)
 * Kevin Smith, Director of the Colby Libraries, Colby College
 * Stephen Sturgeon, Head Librarian, Collections, Boston College
 * Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Chair)
