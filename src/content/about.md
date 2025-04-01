@@ -48,7 +48,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Current Oversight Committee members:**
 
-* Curtis Brundy, Associate University Librarian for Scholarly Communication and Collections, Parks Library, Iowa State University (Past Chair)
+* Curtis Brundy, Dean of University Libraries, University of Massachusetts Amherst (Past Chair)
 * Mark Christel, Librarian of the College, Grinnell College
 * Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
 * Lisa Forrest, The Leland M. Park Director of the Davidson College Library, Davidson College
