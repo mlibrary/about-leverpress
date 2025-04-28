@@ -165,6 +165,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: cinemasofasia-page }
           - { name: title, label: Cinemas of Asia }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/sfeh.md"
+        name: sciencefiction
+        label: Science Fiction and the Environmental Humanities
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: sciencefiction-page }
+          - { name: title, label: Science Fiction and the Environmental Humanities }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/peerreview.md"
         name: peerReview
         label: "Peer Review"
