@@ -4,7 +4,7 @@ title: Re-Editions
 ---
 ### Re-Editions: Literary and Cultural Texts Recovered for the Classroom
 
-*Series editor:* Michelle Burnham (Santa Clara University)
+*Series editor:* Michelle Burnham and Kirstyn Leuner (Santa Clara University)
 
 <br>The *Re-Editions* series publishes lost, forgotten, or neglected literary and cultural texts, recovering marginalized voices and perspectives in new scholarly editions designed for use in undergraduate classrooms and beyond. Editions in the series will make previously overlooked or long out-of-print works–recovered from physical or digital archives, special collections, and the dustbins of history–newly available in digital editions for students, scholars, and the public. The series aims to recover important and field-reshaping texts from a range of historical periods, geographical regions, and genres, with the goal of making canons and curricula across disciplines more diverse, global, and inclusive.
 
