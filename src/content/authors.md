@@ -40,9 +40,8 @@ Our works are published digitally on [Fulcrum](https://www.fulcrum.org/), which 
 
 The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. Please download these documents for your own use and reference.
 
-* [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1R5nmG9-FS6X8yA6vMtkjTcjxZfHfHgg2HS4G4deYIKg/edit)
-* [Lever Press Project Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
-* [Lever Press Subvention Statement](https://docs.google.com/document/d/10M3LG2QOULWTDSjLCMEEw83LfIsfeAtem1i5_371z0Y/edit?usp=sharing)
+* [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1ophHc6i5g4KiEfBgyarmZozhbciXcL7Gj0kAQaWqUVs/edit?usp=sharing)
+* [Lever Press Project Metadata Template](https://docs.google.com/spreadsheets/d/1jKLjnjHYnfJnsJocYyAtD2cx3vXTXqCvadCwm8WFOIY/edit?usp=sharing)
 * [L﻿ever Press Pre-Production Checklist](https://docs.google.com/document/d/1xrmpYIThlb7aF60rwwmlkrpVjnELPgn6UAopuKIv514/edit?usp=sharing)
 * [Author Agreement](https://docs.google.com/document/d/1cibX0n8DlZxxS-GWhCN92PunZxmfEkdjOesJC-Bn--o/edit?usp=sharing)
 * [Contributor Agreement](https://docs.google.com/document/d/1YOX8uQ-SpZFEjl-w5C_wSX_B-j062eNBxqZrDJVEEzI/edit?usp=sharing)
