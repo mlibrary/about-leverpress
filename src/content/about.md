@@ -38,9 +38,9 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 **Standing**
 
-* Sara Cohen, Editorial Director, University of Michigan Press
-* S﻿ean Guynes, Acquiring Editor, Lever Press
+* S﻿ean Guynes, Senior Acquiring Editor, Lever Press
 * Luke Vilelle, Oversight Committee Chair, ex officio
+* Sara Cohen, Editorial Director, University of Michigan Press
 
 <h2 id="oversight">Oversight Committee</h2>
 
@@ -61,7 +61,7 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Standing**
 
-* Sean Guynes, Acquiring Editor, Lever Press
+* Sean Guynes, Senior Acquiring Editor, Lever Press
 * Charles Watkinson, AUL for Publishing and Director of the University of Michigan Press
 
 <h2 id="operations">Operations Group</h2>
