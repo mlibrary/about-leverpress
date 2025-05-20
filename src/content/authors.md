@@ -14,7 +14,7 @@ To submit a proposal, please consider the guidelines below:
 
 * **[Lever Press Proposal Guidelines](https://drive.google.com/file/d/14lAmS6Fxp0njzSyVLqIMqsq9YhPuH8of/view?usp=sharing)**
 
-When you’re ready, [](mailto:info@leverpress.org)please submit a proposal directly to the senior acquiring editor, Sean Guynes, at sean@leverpress.org. We are also happy to field any questions and offer guidance prior to your submission. Reach out to the editor directly or, for more general inquiries, contact info@leverpress.org.
+When you’re ready, [](mailto:info@leverpress.org)**please submit a proposal directly to the senior acquiring editor, Sean Guynes, at sean@leverpress.org**. We are also happy to field any questions and offer guidance prior to your submission. Reach out to the editor directly or, for more general inquiries, contact info@leverpress.org.
 
 ## The Lever Press Editorial Program
 
