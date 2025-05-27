@@ -11,7 +11,7 @@ description: Gleanings from the Field argues that addressing food security is
   quality of life. However, promoting food security entails navigating intricate
   trade-offs, such as balancing economic interests in food supply with
   environmental concerns.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/st74ct512?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-64315-072-7&PRESS=lever
 ---
