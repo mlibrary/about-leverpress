@@ -6,7 +6,7 @@ title: Series
 
 *Series editors:* Erin McCarthy (St. Lawrence University) and Lisa Trivedi (Hamilton College)
 
-<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f%5Bseries_sim%5D%5B%5D=ASIANetwork+Books&locale=en">Read ASIANetwork Books</a>
+<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f%5Bseries_sim%5D%5B%5D=ASIANetwork+Books&locale=en">Read <i>ASIANetwork Books</i></a>
 
 This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the *ASIANetwork* series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While the *ASIANetwork* Series assists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia.<br> <br>
 
@@ -26,13 +26,15 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 *Series editors:* Daniel Barolsky (Beloit College) and Louis Epstein (St. Olaf College)
 
-<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f%5Bseries_sim%5D%5B%5D=Open+Access+Musicology&locale=en">Read Open Access Musicology</a>
+<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f%5Bseries_sim%5D%5B%5D=Open+Access+Musicology&locale=en">Read <i>Open Access Musicology</i></a>
 
 *Open Access Musicology* is a free collection of essays, written in an accessible style and with a focus on modes of inquiry rather than content coverage. Our authors draw from their experience as scholars but also as teachers. They have been asked to describe why they became musicologists in the first place and how their individual paths led to the topics they explore and the questions they pose. Like most scholarly literature, the essays have all been reviewed by experts in the field. Unlike all scholarly literature, the essays have also been reviewed by students at a variety of institutions for clarity and relevance.<br> <br>
 
 ### [Re-Editions: Literary and Cultural Texts Recovered for the Classroom](https://www.leverpress.org/reeditions/)
 
 *Series editor:* Michelle Burnham and Kirstyn Leuner (Santa Clara University)
+
+<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f%5Bseries_sim%5D%5B%5D=Re-Editions%3A+Literary+and+Cultural+Texts+Recovered+for+the+Classroom&locale=en">Read <i>Re-Editions</i></a>
 
 The *Re-Editions* series publishes lost, forgotten, or neglected literary and cultural texts, recovering marginalized voices and perspectives in new scholarly editions designed for use in undergraduate classrooms and beyond. Editions in the series will make previously overlooked or long out-of-print works–recovered from physical or digital archives, special collections, and the dustbins of history–newly available in digital editions for students, scholars, and the public. The series aims to recover important and field-reshaping texts from a range of historical periods, geographical regions, and genres, with the goal of making canons and curricula across disciplines more diverse, global, and inclusive.<br> <br>
 
