@@ -10,7 +10,7 @@ description: "In Ordering Tang China: Cultural Memory, Emperor Taizong and the
   Essentials for Bringing about Order from Assembled Texts (Qunshu zhiyao 群書治要),
   a rulership anthology that became renowned for its model of governance in
   ancient and early modern East Asia. "
-orderOnPage: 4
+orderOnPage: 5
 readLink: https://doi.org/10.3998/mpub.14467609
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-64315-070-3&PRESS=lever
 ---
