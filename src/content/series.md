@@ -16,6 +16,12 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 *Cinemas of Asia* is the first series devoted to the cinemas of South, Southeast, East, and Central Asia and global Asian diasporas. Each short-format volume of 30,000-40,000 words provides a critical analysis and interpretation of a single movie. The series aims to capture the diversity of Asian cinema for fans, lovers, and students of Asian film. Each volume is accessible, informative, written in an engaging style, and open to non-experts, academics, students, and cinephiles. All the books tell a story about why a particular film is worthy of consideration and how it is viewed within its context country.<br> <br>
 
+### [](https://www.leverpress.org/sfeh/)[E﻿coSpeculations: Science Fiction and the Environmental Humanities](https://www.leverpress.org/sfeh/)[](https://www.leverpress.org/sfeh/)
+
+*Series editor:* Sarah Lohmann (ETH Zurich) and Chris Pak (Swansea University)
+
+*EcoSpeculations: Science Fiction and the Environmental Humanities* publishes critical new scholarship on science fiction within the context of the Environmental Humanities. Volumes in the series address the conceptual, historic, political, and formal dimensions of the mode/genre's engagement with environmental and climate change, gender, human-animal relationships, plant studies, science and technology, and more.<br> <br>
+
 ### [film|minutes](https://www.leverpress.org/filmminutes/)
 
 *Series editor:* Bernd Herzogenrath (Goethe Universität Frankfurt am Main)
