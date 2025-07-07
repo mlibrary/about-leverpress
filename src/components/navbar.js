@@ -21,7 +21,7 @@ const Navbar = () => {
   }
 
   return (
-    <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light border-bottom">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light border-bottom">
       <div className="container">
         <a href="/" className="navbar-brand">
           <img src="/assets/LeverLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>Lever Press</h1>

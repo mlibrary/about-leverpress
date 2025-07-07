@@ -1,5 +1,6 @@
 import React from 'react'
 import {graphql, useStaticQuery} from 'gatsby'
+import {Link} from "gatsby"
 
 export const titleQuery = graphql`
 {
@@ -39,12 +40,21 @@ const Footer = () => {
             </p>  
           </div>
           <div className="col-md-3">
+            <ul className="list-unstyled text-small footer-link-list">
+              <li><Link to="/about" className="text-light">About</Link></li>
+              <li><a href="https://www.fulcrum.org/leverpress" className="text-light">Books</a></li>
+              <li><Link to="/series" className="text-light">Series</Link></li>
+              <li><Link to="/authors" className="text-light">Publish With Us</Link></li>
+              <li><Link to="/join" className="text-light">Join Us</Link></li>
+              <li><Link to="/impact" className="text-light">Impact</Link></li>
+              <li><Link to="/news" className="text-light">News</Link></li>
+            </ul>
+          </div>
+          <div className="col-md-3">
             <div className="footer-head scala-sans">Our Partners</div>
             <ul className="list-unstyled text-small">
               <li><a href="https://www.publishing.umich.edu" className="text-light">Michigan Publishing</a></li>
             </ul>
-          </div>
-          <div className="col-md-3">
             <div className="footer-head scala-sans">Peer Review</div>
             <ul className="list-unstyled text-small">
               <li><a href="/peerreview" className="text-light">Our Commitments and Guidelines</a></li>
