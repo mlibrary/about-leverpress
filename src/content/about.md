@@ -147,6 +147,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Santa Clara University
 * Scripps College
 * Smith College
+* S﻿usquehanna University
 * Swarthmore College
 * T﻿ilburg University
 * Trinity University
