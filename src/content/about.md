@@ -153,6 +153,7 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Trinity University
 * Union College
 * U﻿niversity at Buffalo (SUNY)
+* U﻿niversity of Delaware
 * University of Rhode Island
 * U﻿niversity of Sheffield
 * U﻿niversity of Texas at Austin
