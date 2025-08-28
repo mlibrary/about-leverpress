@@ -16,6 +16,8 @@ Academic books about films more often than not are subordinate analyses that (mi
 
 Each book in *film|minutes* will focus on a single film and consist of as many short, critical vignettes of c. 300 words as the number of minutes of the film’s length. Films considered for inclusion in the series can come from any period in the history of global cinemas and may range across genres and production categories: from blockbuster Hollywood films to art-/grindhouse features, Bollywood musicals to South Korean dramas, 1970s exploitation to early silent film, indie auteur cinema to tentpole franchise entries—and everything in between. The average length of a manuscript about a typical c. ninety-minute film is expected to be c. 25,000 words, with the length of each volume tied to the length of the film under consideration.
 
+This series was inspired by the critical approach taken by Michael Baute and Volker Pantenburg in *93 Minutentexte: The Night of the Hunter* (Brinkmann und Bose Verlag, 2006).
+
 #### **Publish with *film|minutes***
 
 If you have a project that might be a good fit for the *film|minutes* series, please reach out to the series editor, Bernd Herzogenrath (herzogenrath@em.uni-frankfurt.de), and to Lever Press’s acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
