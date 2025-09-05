@@ -10,7 +10,7 @@ As the scholarly publishing landscape evolves, the number of open access publish
 
 While the specifics of these guidelines or rubrics vary according to each library’s own unique communities and goals, there are some broad categories of importance to most all academic libraries based on shared values and commitments. To assist libraries with their evaluations, we’ve listed some of these categories below along with Lever’s responses. Click the section to expand and see details.
 
-<small><em><sup><span id="note-1">*</span></sup> For example, the OA Investments Evaluation Rubric created by the University of Florida Libraries Open Access Committee, shared under a CC-BY-SA license ([https://doi.org/10.17605/OSF.IO/RYHFU](https://doi.org/10.17605/OSF.IO/RYHFU)); see [Lever’s responses](https://www.leverpress.org/assets/oa-investment-criteria-and-lever-press.pdf).</em></small>
+<small><em><sup><span id="note-1">*</span></sup> For example, the OA Investments Evaluation Rubric created by the University of Florida Libraries Open Access Committee, shared under a CC-BY-SA license ([https://doi.org/10.17605/OSF.IO/RYHFU](https://doi.org/10.17605/OSF.IO/RYHFU)); see [Lever’s responses](/assets/oa-investment-criteria-and-lever-press.pdf).</em></small>
 
 
 <div class="accordion" id="accordionExample">
@@ -26,7 +26,7 @@ While the specifics of these guidelines or rubrics vary according to each librar
       <div class="card-body">
         <p>Lever Press is a born-digital, fully open access scholarly press whose operating costs are funded by the academic library members who support and govern it. As a diamond OA publisher, there is never a charge to authors or their institutions to publish with Lever, and its books are free to read and download by anyone anywhere with an internet connection.</p>
         <p>Among OA initiatives, Lever Press is unique in that it is governed by an oversight committee composed of representatives nominated from and elected by its member libraries; as such, academic libraries don’t just support Lever Press, they are the press. When libraries invest in Lever Press, they invest in themselves and those they serve. To put it another way, consider “value for values”--Lever Press embodies the values and commitments shared by the member libraries who provide Lever’s financial and leadership support.</p>
-        <p>As noted in <a href="https://www.leverpress.org/assets/making-the-case-for-lever-press.pdf">Making the Case for Lever Press</a>, “We [academic libraries] have an obligation to craft models of scholarly publishing that align with our values, models that both benefit those who need access to information and those who produce the research. Lever Press does both.”</p>
+        <p>As noted in <a href="/assets/making-the-case-for-lever-press.pdf">Making the Case for Lever Press</a>, “We [academic libraries] have an obligation to craft models of scholarly publishing that align with our values, models that both benefit those who need access to information and those who produce the research. Lever Press does both.”</p>
         <p>Lever’s stated values are:</p>
         <ul>
             <li class="mb-1">leadership and the courage to push existing boundaries</li>
@@ -35,14 +35,14 @@ While the specifics of these guidelines or rubrics vary according to each librar
             <li class="mb-1">building community among our members and beyond</li>
             <li class="mb-1">continuous learning</li>
         </ul>
-        <p>(Lever Press <a href="https://www.leverpress.org/about/#values">Our Values</a>)
+        <p>(Lever Press <a href="/about/#values">Our Values</a>)
         <p>Lever seeks out, identifies, evaluates, and advocates for transformative scholarship that</p>
         <ul>
             <li class="mb-1">Emerges from creative dialogue within and between traditional fields of inquiry, with an emphasis on disciplinary innovation and transformation;</li>
             <li class="mb-1">Engages with issues of social and civic importance; and</li>
             <li class="mb-1">Transcends divisions between research and teaching by drawing from new models of collaborative inquiry addressing a broad audience.</li>
         </ul>
-        <p>(<a href="https://www.leverpress.org/authors">The Lever Press Editorial Program</a>)</p>
+        <p>(<a href="/authors">The Lever Press Editorial Program</a>)</p>
       </div>
     </div>
   </div>
@@ -57,9 +57,9 @@ While the specifics of these guidelines or rubrics vary according to each librar
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo">
       <div class="card-body">
         <ul>
-            <li class="mb-1">The Lever Press funding model described on the <a href="https://www.leverpress.org/join">Join Us</a> web page is intended to share the costs of running the press equitably among its members, and anticipates that a net membership gain over the previous phase in excess of the estimated required budget will result in reduced costs for all members (i.e., the more members who join, the less it will cost for everyone)</li>
+            <li class="mb-1">The Lever Press funding model described on the <a href="/join">Join Us</a> web page is intended to share the costs of running the press equitably among its members, and anticipates that a net membership gain over the previous phase in excess of the estimated required budget will result in reduced costs for all members (i.e., the more members who join, the less it will cost for everyone)</li>
             <li class="mb-1">The membership model uses a tiered pledge fee structure based on an institution’s most current materials expenditures; annual pledge fees range from $500 to $12,000 and have not increased since 2022</li>
-            <li class="mb-1">The current Lever Press agreement is for a term of three years, and a copy of the pledge agreement is linked to on the <a href="https://www.leverpress.org/join">Join Us</a> page</li>
+            <li class="mb-1">The current Lever Press agreement is for a term of three years, and a copy of the pledge agreement is linked to on the <a href="/join">Join Us</a> page</li>
             <li class="mb-1">Lever’s current budget is $359,150 and is based on a goal of publishing 10 - 12 titles per year</li>
             <li class="mb-1">The average production direct cost per book is roughly $5,600 ($8,000 if production staff salaries are factored in)</li>
             <li class="mb-1">Lever’s revenue comes from pledge fees (currently pledged at $309,000/year); its expenses fall under the categories of Acquisitions and Editorial (currently budgeted at $20,000), Book Production (currently budgeted at $56,650), and Overhead (currently budgeted at $282,500) which includes salaries and benefits for staff members</li>
@@ -118,7 +118,7 @@ While the specifics of these guidelines or rubrics vary according to each librar
                         <li class="mb-1">titles that are both scholarly and appropriate for a general audience, e.g. <a href=https://doi.org/10.3998/mpub.12789659"><i>An Asian American Theology of Liberation</i></a>; <a href="https://doi.org/10.3998/mpub.12467264"><i>Casa Pueblo: A Puerto Rican Model of Self-Governance</i></a>; <a href="https://doi.org/10.3998/mpub.12668201"><i>Meaningful Technologies: How Digital Metaphors Change the Way We Think and Live</i></a></li>
                     </ul>
                 </li>
-                <li class="mb-1">Published titles receive professional marketing and outreach attention through email and social media announcements, submission of titles for reviews and book awards as applicable, arrangement of author interviews, and related marketing efforts. Both the emailed new title announcements to members and <a href="https://www.leverpress.org/news/2023-07-24-sharing-lever-press-books-a-guide-for-member-libraries/">Sharing Lever Press Books - A Guide for Member Libraries</a> provide ideas to help members share information about newly released titles.</li>
+                <li class="mb-1">Published titles receive professional marketing and outreach attention through email and social media announcements, submission of titles for reviews and book awards as applicable, arrangement of author interviews, and related marketing efforts. Both the emailed new title announcements to members and <a href="/news/2023-07-24-sharing-lever-press-books-a-guide-for-member-libraries/">Sharing Lever Press Books - A Guide for Member Libraries</a> provide ideas to help members share information about newly released titles.</li>
             </ul>
             <p>Some thoughts from authors on why they chose to publish with Lever Press:</p>
             <blockquote>We wanted to work with a publisher “who is aligned with our values of giving voice to people. We have noted that Lever Press seeks proposals that bring diverse perspectives to current social, moral, and political issues.” [Phillip Joy, Mount Saint Vincent University, co-editors, <a href=" https://doi.org/10.3998/mpub.12912046"><i>Queer Compassion in 15 Comics</i></a>]</blockquote>
@@ -165,7 +165,7 @@ While the specifics of these guidelines or rubrics vary according to each librar
                                 <p>Examples of how this work benefits real-world users of Lever Press titles<sup><a href="#note-2">*</a></sup>:</p>
                                 <blockquote>“Please keep producing robust OA works! It's been so frustrating to see publishers create works with the label OA that are not actually accessible…We yearn for a reading experience that doesn't tax us for being disabled. THANK YOU for leading the efforts to make an accessible reading experience more possible.” [reader of <a href=" https://doi.org/10.3998/mpub.12467134"><i>What Kind of Island in What Kind of Sea</i></a>]</blockquote>
                                 <blockquote>“It's incredibly helpful to be able to access this book electronically and for free.  I can't always get digital copies of books, which means I cannot read them with text-to-voice software that accommodates my disability.” [reader of <a href="https://doi.org/10.3998/mpub.11923682"><i>Faculty as Global Learners: Off-Campus Study at Liberal Arts Colleges</i></a>]</blockquote>
-                                <p><small><sup><a id="note-2">*</a></sup><em>Comments contributed voluntarily from readers via Fulcrum’s Free Ebook Survey. See more comments from users in <a href="https://www.leverpress.org/stories/2024-08-05-impact-of-lever-press-titles/">Impact of Lever Press Titles</a>.</em></small></p>
+                                <p><small><sup><a id="note-2">*</a></sup><em>Comments contributed voluntarily from readers via Fulcrum’s Free Ebook Survey. See more comments from users in <a href="/stories/2024-08-05-impact-of-lever-press-titles/">Impact of Lever Press Titles</a>.</em></small></p>
                             </div>
                         </div>
                     </div>
@@ -235,7 +235,7 @@ While the specifics of these guidelines or rubrics vary according to each librar
                     <li class="mb-1">The use of DOIs allows content to be reliably cited and enhances discoverability</li>
                     <li class="mb-1">Lever’s titles are hosted on the open-source publishing platform Fulcrum; usage and impact measurements are core to the platform’s design</li>
                     <li class="mb-1">Fulcrum partners with several organizations to make statistics and usage data available: Scholarly iQ, which provides COUNTER-compliant usage reporting;<a href="https://irus.jisc.ac.uk/r5/support/guides/understanding_r5/">IRUS</a>, a statistics service which aggregates COUNTER usage stats from an international collection of repositories; and the Curtin Open Knowledge Initiative’s <a href="https://openknowledge.community/projects/bad-project/">Books Analytics Service Dashboard</a> (BAS), which aggregates and displays usage information from multiple platforms including Fulcrum, JSTOR, and OAPEN; <a href="http://Altmetric.com">Altmetric.com</a> badges on the books’ catalog pages track and visualize online conversations about the works</li>
-                    <li class="mb-1">The <a href="https://www.leverpress.org/impact">Impact</a> page on Lever’s website includes Stories of Impact, a global Readership Map that replays views or downloads of Lever content over the previous 4 weeks, and book usage statistics via the Book Analytics Dashboard</li>
+                    <li class="mb-1">The <a href="/impact">Impact</a> page on Lever’s website includes Stories of Impact, a global Readership Map that replays views or downloads of Lever content over the previous 4 weeks, and book usage statistics via the Book Analytics Dashboard</li>
                 </ul>
             </div>
         </div>
