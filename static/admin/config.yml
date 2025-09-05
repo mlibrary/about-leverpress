@@ -116,6 +116,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: join-page }
           - { name: title, label: Join }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/oa-investment-criteria.md"
+        name: oainvestmentcriteria
+        label: OA Investment Criteria
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: oaInvestmentCriteria-page }
+          - { name: title, label: OA Investment Criteria }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/series.md"
         name: series
         label: Series
