@@ -13,7 +13,7 @@ description: "Today’s aesthetic strategies to compose content and identity
   subjectification. As borders, global inequality, racism, and xenophobia
   proliferate, migrants continue to enact the possibilities of something else,
   beyond being spoken about and spoken for."
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://www.fulcrum.org/concern/monographs/v979v624k?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150802&PRESS=lever
 ---
