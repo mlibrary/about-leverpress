@@ -45,7 +45,11 @@ const Footer = () => {
               <li><a href="https://www.fulcrum.org/leverpress" className="text-light">Books</a></li>
               <li><Link to="/series" className="text-light">Series</Link></li>
               <li><Link to="/authors" className="text-light">Publish With Us</Link></li>
-              <li><Link to="/join" className="text-light">Join Us</Link></li>
+              <li><Link to="/join" className="text-light">Join Us</Link>
+                <ul className="pl-3">
+                  <li className="list-unstyled"><Link to="/oa-investment-criteria" className="text-light">OA Investment Criteria</Link></li>
+                </ul>
+              </li>
               <li><Link to="/impact" className="text-light">Impact</Link></li>
               <li><Link to="/news" className="text-light">News</Link></li>
             </ul>

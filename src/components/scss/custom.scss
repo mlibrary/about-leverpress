@@ -399,6 +399,8 @@ sup a {
 }
 
 .join-jumbo {
+  margin-top: -2rem;
+
   h1, p {
     color: #f8f9fa;
   }
@@ -406,6 +408,10 @@ sup a {
     color: $lever-accent-color;
     font-size: 1.5rem;
     margin-bottom: 0;
+  }
+
+  a {
+    color: #fff;
   }
 }
 
