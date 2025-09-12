@@ -26,6 +26,8 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 *Series editor:* Bernd Herzogenrath (Goethe Universität Frankfurt am Main)
 
+<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f%5Bseries_sim%5D%5B%5D=film%7Cminutes&locale=en">Read <i>film|minutes</i></a>
+
 *film|minutes* is a book series in the short monograph format, with each volume of c. 25,000–40,000 words focused on one particular film. Volumes in the series cut up films into segments of exactly one minute and transform each minute into a fruitful, innovative tool for thinking with the film. Each volume works rigorously with the concept of “the minute” as a non-cinematic scale/quantity and a means to look awry, to zoom in on (dis)orderly fragments that do not necessarily respect the confinements of (good) cinematic form or meaning. As a critical practice, the focus on minutes causes disruptions and displacement that create novel connections and perspectives that help us uncover hidden traces and make it possible to see each film anew.<br> <br>
 
 ### Open Access Musicology
