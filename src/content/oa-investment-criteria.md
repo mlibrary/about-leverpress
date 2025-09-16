@@ -6,12 +6,9 @@ title: OA Investment Criteria and Lever Press
 
 ## Overview
 
-As the scholarly publishing landscape evolves, the number of open access publishing initiatives has grown significantly since [Lever Press](/) first launched in 2016. Faced with an increasing number of competing OA projects yet often shrinking budgets, many libraries are developing OA investment criteria<sup><a href="#note-1">*</a></sup> or guidelines to help them make the most informed decisions when considering which OA initiatives to support.
+As the scholarly publishing landscape evolves, the number of open access publishing initiatives has grown significantly since [Lever Press](/) first launched in 2016. Faced with an increasing number of competing OA projects yet often shrinking budgets, many libraries are developing OA investment criteria or guidelines to help them make the most informed decisions when considering which OA initiatives to support. Recently we reviewed and responded to the OA Investments Evaluation Rubric created by the University of Florida Libraries Open Access Committee (shared under a CC-BY-SA license at [https://doi.org/10.17605/OSF.IO/RYHFU](https://doi.org/10.17605/OSF.IO/RYHFU)) to see how well Lever Press aligned with those criteria. [Read our summarized responses](/assets/oa-investment-criteria-and-lever-press.pdf).
 
-While the specifics of these guidelines or rubrics vary according to each library’s own unique communities and goals, there are some broad categories of importance to most all academic libraries based on shared values and commitments. To assist libraries with their evaluations, we’ve listed some of these categories below along with Lever’s responses. Click the section to expand and see details.
-
-<small><em><sup><span id="note-1">*</span></sup> For example, the OA Investments Evaluation Rubric created by the University of Florida Libraries Open Access Committee, shared under a CC-BY-SA license ([https://doi.org/10.17605/OSF.IO/RYHFU](https://doi.org/10.17605/OSF.IO/RYHFU)); see [Lever’s responses](/assets/oa-investment-criteria-and-lever-press.pdf).</em></small>
-
+Inspired by the University of Florida Libraries' rubric, we created this page of expanded responses in hopes these details about how Lever Press operates will assist libraries who may be conducting their own evaluations. Click the section heading to expand and see details.
 
 <div class="accordion" id="accordionExample">
   <div class="card">
