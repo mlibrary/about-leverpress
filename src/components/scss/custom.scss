@@ -63,10 +63,14 @@ $lever-black-80: #342f2e;
 
 
 // links
-p {
+p, li {
   a {
   text-decoration: underline;
   }
+}
+
+nav li a {
+  text-decoration: none;
 }
 
 // buttons
@@ -96,8 +100,8 @@ p {
 
 // page
 .page-container {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 // cards
@@ -355,6 +359,14 @@ blockquote {
   margin: 0 4rem 1rem;
 }
 
+// oa-investment criteria
+h2 button.btn {
+  font-size: 1.2rem;
+}
+
+sup a {
+  text-decoration: none;
+}
 
 // join
 
@@ -378,6 +390,7 @@ blockquote {
 .jumbotron {
   background-color: $lever-brand-color;
   margin-bottom: 4rem;
+  border-radius: 0px;
 }
 
 .featurette-divider {
@@ -386,6 +399,8 @@ blockquote {
 }
 
 .join-jumbo {
+  margin-top: -2rem;
+
   h1, p {
     color: #f8f9fa;
   }
@@ -393,6 +408,10 @@ blockquote {
     color: $lever-accent-color;
     font-size: 1.5rem;
     margin-bottom: 0;
+  }
+
+  a {
+    color: #fff;
   }
 }
 

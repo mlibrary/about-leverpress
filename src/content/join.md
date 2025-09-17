@@ -158,7 +158,7 @@ title: Join Us
         </p>
         <p class="lead text-center">To see more reasons to support Lever, download <a href="/assets/making-the-case-for-lever-press.pdf"><i>Making the Case for Lever Press</i></a>.</p>
 
-<p class="lead text-center">To align your support with <a href="https://osf.io/ryhfu/">transparent open access criteria</a>, download this <a href="/assets/oa-investment-criteria-and-lever-press.pdf">completed OA rubric</a>.</p>
+<p class="lead text-center">To align your support with <a href="https://osf.io/ryhfu/">transparent open access criteria</a>, read our <a href="/oa-investment-criteria">OA Investment Criteria page</a> and download this <a href="/assets/oa-investment-criteria-and-lever-press.pdf">completed OA rubric</a>.</p>
     </div>
 </div>
 <hr class="featurette-divider">

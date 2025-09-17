@@ -14,7 +14,8 @@ const Join = ({data}) => {
         <div className="container">
           <Title title={title}/>
           <p className="join-tag lead">A better kind of open</p><br/>
-          <p class="lead"><span class="intro scala-sans text-light">Lever Press</span> is a membership-based university press that aims to produce the highest quality scholarship in an economically sustainable model, embody and reflect the values of the liberal arts, and lead the way in establishing best practices for born-digital, peer reviewed, open access monograph publishing at no cost to our authors or their academic institutions.</p>            
+          <p className="lead"><span className="intro scala-sans text-light">Lever Press</span> is a membership-based university press that aims to produce the highest quality scholarship in an economically sustainable model, embody and reflect the values of the liberal arts, and lead the way in establishing best practices for born-digital, peer reviewed, open access monograph publishing at no cost to our authors or their academic institutions.</p>
+          <p className="lead">Read our <a href="/oa-investment-criteria">OA Investment Criteria page</a> to learn how we align with common open access criteria.</p>            
         </div>
       </div>
       <div className="container page-container join-us">
