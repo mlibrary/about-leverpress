@@ -11,7 +11,7 @@ description: "Mingling personal narrative with historical context to engage
   tradition alongside development, the country’s newly minted democracy amidst a
   complicated history of citizenship and belonging, and the challenges the
   nation faces in a period of increasing globalization. "
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://www.fulcrum.org/concern/monographs/fn1072349?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150826&PRESS=lever
 ---
