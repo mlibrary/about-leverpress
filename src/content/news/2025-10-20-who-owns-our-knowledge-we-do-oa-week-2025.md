@@ -4,6 +4,8 @@ title: Who Owns Our Knowledge? We Do! (OA Week 2025)
 summary: Lever Press, Knowledge Ownership, and International Open Access Week 2025
 date: 2025-10-20T13:54:22.513Z
 ---
+![An image featuring multiple open locks, the OA symbol, and the text "International Open Access Week. Who owns our knowledge?"](assets/oa-week-header.png)
+
 In July of this year, Taylor & Francis announced their purchase of a university press. Amsterdam UP had technically (and quietly) become a private corporation in 2019, spinning off from the university to focus on their profit margin and licensing the university's name to maintain prestige and continuity. AUP was a major publisher of open access (OA) scholarship and widely regarded as a leading European publisher. 
 
 The news came as a surprise to many, leading to the resignation of more than two dozen series editors and advisory board members, who felt betrayed. Authors also expressed their outrage. One of my own books was published by AUP in 2017. Now our work was owned, without our input, by one of the corporate behemoths of academic publishing—a choice most of us would never have willingly made.
