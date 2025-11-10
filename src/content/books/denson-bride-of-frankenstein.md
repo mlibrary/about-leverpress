@@ -10,7 +10,7 @@ description: The inaugural volume in the film|minutes book series, this book
   analytical lenses, including descriptive, historical, and philosophical, this
   study breaks from conventional forms of film-analytical writing and offers an
   experiment in defamiliarization and looking anew.
-orderOnPage: 2
+orderOnPage: 3
 readLink: https://www.fulcrum.org/concern/monographs/sj139533j?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150840&PRESS=lever
 ---
