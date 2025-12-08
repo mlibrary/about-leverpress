@@ -10,7 +10,7 @@ description: "Knowing an Empire: Early Modern Chinese and Spanish Worlds in
   local worlds. Through a new methodology of “juxtapositional comparison,” the
   book reads the difangzhi 地方志 (local gazetteers) of China and the relaciones
   geográficas of the Spanish world in parallel."
-orderOnPage: 4
+orderOnPage: 0
 readLink: https://www.fulcrum.org/concern/monographs/8p58pg80j?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150765&PRESS=lever
 ---
