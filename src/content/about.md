@@ -27,19 +27,16 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 **Current Editorial Board members:**
 
 * Mackenzie Cooley, Hamilton College
-* Kathryne Corbin, Haverford College
+* Kathryne Corbin, Haverford College (chair)
 * Aviva Dove-Viebahn, Arizona State University
 * V﻿incent Haddad, Central State University
-* Bethany Hicok, Williams College (Chair)
-* Kathryn Lesh, Union College
-* Angelo Mercado, Grinnell College
 * Jonson Miller, Drexel University
 * Fernando Nascimento, Bowdoin College
 
 **Standing**
 
 * S﻿ean Guynes, Senior Acquiring Editor, Lever Press
-* Luke Vilelle, Oversight Committee Chair, ex officio
+* Lev Rickards, Oversight Committee Chair, ex officio
 * Sara Cohen, Editorial Director, University of Michigan Press
 
 <h2 id="oversight">Oversight Committee</h2>
@@ -48,15 +45,17 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 
 **Current Oversight Committee members:**
 
-* Curtis Brundy, Dean of University Libraries, University of Massachusetts Amherst (Past Chair)
 * Mark Christel, Librarian of the College, Grinnell College
 * Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
 * Lisa Forrest, The Leland M. Park Director of the Davidson College Library, Davidson College
+* C﻿hris Hollister, Head of Scholarly Communication, University at Buffalo (SUNY)
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Treasurer)
-* Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University (Vice Chair)
+* N﻿orm Medeiros, Librarian of the College, Haverford College
+* Lev Rickards, Assistant Dean, Collections & Scholarly Communication, Santa Clara University Library, Santa Clara University (Chair)
+* R﻿obin Sinn, Interim Associate University Librarian and Director of Collections and Open Strategies, Iowa State University
 * Kevin Smith, Director of the Colby Libraries, Colby College
 * Stephen Sturgeon, Head Librarian, Collections, Boston College
-* Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Chair)
+* Luke Vilelle, University Librarian,  Wyndham Robertson Library, Hollins University (Past Chair)
 * Rachel Walton, Head of Library Digital Strategies & Scholarly Communication, Rollins College
 
 **Standing**
