@@ -137,7 +137,6 @@ Lever Press titles are made available under Creative Commons (CC) licenses to ma
 * Knox College
 * Lafayette College
 * Macalester College
-* Middlebury College
 * Norwich University
 * Pitzer College
 * Pomona College
