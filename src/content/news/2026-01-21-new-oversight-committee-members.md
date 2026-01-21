@@ -1,0 +1,14 @@
+---
+templateKey: news
+title: New Oversight Committee Members
+summary: The Lever Press Oversight Committee welcomes three new committee members.
+date: 2026-01-21T17:18:44.328Z
+---
+The Lever Press members recently elected three member voting representatives to serve three-year terms on Lever’s Oversight Committee, the initiative’s governing body. They join the nine committee members whose terms are still in progress. We welcome the new committee members, who each have shared some thoughts about why they were interested in serving on the committee.
+
+**Christopher (Chris) Hollister, Head of Scholarly Communication, University at Buffalo Libraries** - “My interest in the Lever Press Oversight Committee has deep roots. The University at Buffalo was one of the original institutions to take part in the five-year Toward an Open Monograph Ecosystem (TOME) experiment, which sought to create a sustainable, community-driven pathway for funding the production of open access scholarly monographs. I led our university's participation, which resulted in the publication of several open access monographs in the humanities and the humanistic social sciences. This was a highly visible success story. In my view, Lever Press builds upon the successes of the TOME project, and that is why I was able to convince the senior leadership in our library system to support the press (notwithstanding challenging budgetary circumstances and a procurement process that is notoriously hostile toward open access initiatives). Growing Lever Press is important work, and I’m honored to be a part of it.”
+
+**Norm Medeiros, Librarian of the College, Haverford College Library** - "From its inception, Lever Press sought to develop a transparent business model and publishing platform that would transform scholarly publishing, not simply perpetuate the status quo. The progress Lever has made towards these goals is impressive. I am excited to contribute to advancing Lever's success in the years ahead.”
+
+**\
+Robin Sinn, Interim Associate University Librarian and Director of Collections and Open Strategies, Iowa State University Library** - “Lever Press makes long form scholarship open to all interested in learning, with no financial barriers to authors or readers. That mission aligns with the work ISU Library does to open up research to our campus community, the state, and the world. Being part of the Lever Press Oversight Committee will inform my work at the ISU University Library. I'll also bring the perspective of a large university with its own library press to the Oversight Committee. Both ISU Library and Lever Press will benefit.”
