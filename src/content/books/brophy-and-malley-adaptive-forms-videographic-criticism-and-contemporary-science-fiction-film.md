@@ -10,7 +10,7 @@ description: Adaptive Forms employs videographic essays to explore the themes,
   affinities between the genre’s expansive concerns with technological and
   social adaption, and cinema’s own evolutionary responses to technological and
   aesthetic change.
-orderOnPage: 4
+orderOnPage: 0
 readLink: https://www.fulcrum.org/concern/monographs/xs55mg584?locale=en
 buyLink: https://www.fulcrum.org/concern/monographs/xs55mg584?locale=en
 ---
