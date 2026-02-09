@@ -9,7 +9,7 @@ description: "Traditional Chinese Children’s Primers: A Sourcebook is the firs
   This selection of eleven primers, spanning over two thousand years of Chinese
   education history, remains well-known in East Asia and the global diaspora of
   Confucian-heritage cultures. "
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://www.fulcrum.org/concern/monographs/g158bm424
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150918&PRESS=lever
 ---
