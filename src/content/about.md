@@ -28,6 +28,7 @@ The Editorial Board is responsible for overseeing the acquisition, review, and d
 
 * Mackenzie Cooley, Hamilton College
 * Kathryne Corbin, Haverford College (chair)
+* Dustin Dixon, Grinnell College
 * Aviva Dove-Viebahn, Arizona State University
 * V﻿incent Haddad, Central State University
 * Jonson Miller, Drexel University
