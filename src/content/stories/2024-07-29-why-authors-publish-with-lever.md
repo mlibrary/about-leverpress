@@ -16,11 +16,11 @@ Between 2015–2021, editorial duties were initially carried out by Amherst Coll
 
 As of August 2024, Lever Press has published 33 books. Our first book, *[Promissory Notes: On the Literary Conditions of Debt](https://doi.org/10.3998/mpub.10209707)* by Robin Truth Goodman, was released in October 2018. Lever Press published 3 books in 2019, 8 books in 2020, 2 books in 2021, 3 books in 2022, and 10 books in 2023. To date, we have published 5 books in 2024 and are on track to publish 8 total this year. Lever Press’s goal is to consistently publish 10-12 books per year—a goal we are very near to reaching. 
 
-#### How are we reaching our goal of publishing 10-12 books per year?
+## How are we reaching our goal of publishing 10-12 books per year?
 
 By expanding our acquisition of books to increase the number of projects at every stage of book preparation (author drafting, peer review, author revision, editorial board consideration, and production). Since 2022, to date, Lever Press has acquired 56 projects at various stages of completion, in addition to 2 new book series (with several more under development).
 
-#### How have we accomplished an increase in acquisitions? 
+## How have we accomplished an increase in acquisitions? 
 
 Since moving editorial work to Michigan Publishing, Lever Press has had a dedicated acquisitions editor working nearly full-time (80%) on acquisitions (a shift from the 50% effort previously provided by Amherst College Press). The editor at Michigan Publishing has expanded on Lever Press’s successes prior to 2022 by focusing on:
 
@@ -30,7 +30,7 @@ Since moving editorial work to Michigan Publishing, Lever Press has had a dedica
 * working both online and in person to create awareness of what Lever Press offers to authors and how Lever Press is different from other (especially for-profit) publishers
 * working with marketing professionals at Michigan Publishing to rethink how we get our books noticed, resulting in an increase in book reviews, award nominations, and even an award win
 
-#### So why do authors decide to publish with Lever Press?
+## So why do authors decide to publish with Lever Press?
 
 A number of factors distinguish Lever Press and help authors make the decision to publish with us, including:
 
@@ -40,7 +40,7 @@ A number of factors distinguish Lever Press and help authors make the decision t
 * media-rich publication
 * author honorarium
 
-##### Diamond Open Access Publication
+### Diamond Open Access Publication
 
 When Lever Press was founded, the idea of an open access publisher that would make books available for free to everyone without charging authors (or their institutions) for publication was relatively novel. There was increasing pressure both from OA activists and institutions, such as the European Union, to make more scholarly work freely available to the public, but in 2016 very few academic publishers had embraced the idea or figured out how to make it work financially. The landscape in 2024 is radically different, with many academic publishers (both for- and non-profits) offering OA publishing options. Some of these offer diamond OA publishing, but most of them remain gold—that is, authors are required to pay a subvention for the right to publish OA. In fact, through “[corporate capture](https://www.chronicle.com/article/the-corporate-capture-of-open-access-publishing)” (largely of gold OA), OA publishing has ironically become a major source of revenue for publishers like Wiley, Springer Nature, and De Gruyter Brill.
 
@@ -50,7 +50,7 @@ Lever Press’s ethical commitment to diamond OA offers an important solution: w
 
 In short, authors want their books read *and* they shouldn’t have to pay for it. Lever Press makes that possible.
 
-##### Subject Expertise
+### Subject Expertise
 
 Authors also choose Lever Press because of our growing areas of subject expertise—or what publishers call their “lists.” Every academic publisher’s reputation is fundamentally based on the reputation of their lists, that is, how scholarly communities assess the value of a publisher’s contribution to their fields of study. With 33 books to our name, Lever Press is just getting started, but already key lists have emerged from our publications:
 
@@ -64,7 +64,7 @@ Authors also choose Lever Press because of our growing areas of subject expertis
 
 Behind the scenes, Lever Press’s acquisitions emphasize these areas of scholarship, with authors regularly citing previous publications as reasons they were interested in publishing with us. This is a reflection of (1) our editorial work, (2) our success in developing the best peer-reviewed publications that go through competitive peer review by accomplished scholars in each field (we pay competitive honoraria to our reviewers), (3) our vetting of each project by the Lever Press Editorial Board, composed of professors from funding institutions, and (4) the outreach work of our marketing professionals and our authors themselves, who advocate their books and Lever Press as a publisher.
 
-##### Pedagogical Ethos
+### Pedagogical Ethos
 
 Lever Press’s publications and ethos as a publisher are decidedly interested in books that have classroom and public educational value—an ethos inherited from our founders: liberal arts colleges.
 
@@ -91,7 +91,7 @@ Our commitment to pedagogy and publication education—to books that have value 
 
 Authors who propose projects to Lever Press are excited by the ability to publish books that will have an impact beyond their scholar-colleagues, whether in classrooms or among general readers. Lever Press considers the impact of our publications to be both academic and social, and we look to acquire projects that can do both.
 
-##### Media-Rich Publication
+### Media-Rich Publication
 
 Lever Press books are published on the Fulcrum platform, a digital books platform created by Michigan Publishing that allows our books to be read both in browser (on computers, tablets, phones) and downloaded. Most of our books are available in both EPUB and PDF formats. Digital publication allows Lever Press books to include not only the typical images, but also audiovisual material as well.
 
@@ -101,7 +101,7 @@ The Fulcrum platform allows authors to include additional, appendix material on 
 
 Authors value the opportunity to include more and richer media content in their publications, as well as to include additional online materials that enhance the value of the project. Authors also value the accessibility options Lever Press and the Fulcrum platform offer, since we require alt-text for images and transcripts for audiovisual material, while also offering authors the option to include additional valuable metadata that can help readers better understand the resources offered by each book.
 
-##### Author Honorarium
+### Author Honorarium
 
 As part of our larger commitment to ethical publishing, Lever Press also offers authors an honorarium for each project published. This is to recognize that writing or editing an academic book is both difficult work and rarely ever financially rewarded. While many presses traditionally offer small royalties on book sales, those royalties rarely amount to much. Royalties also cannot necessarily be guaranteed when a book is OA, since sales might be lower than if published as a non-OA book. There has also been a push among for-profit academic publishers, such as Palgrave Macmillan, to pay honoraria instead of royalties, thus simplifying accounting.
 
