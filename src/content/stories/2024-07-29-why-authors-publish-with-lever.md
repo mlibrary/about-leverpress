@@ -72,7 +72,7 @@ Our commitment to pedagogy and publication education—to books that have value 
 
 * books about the undergraduate classroom, such as 
 
-  * *[Culture and Content in French: Frameworks for Innovative Curricula](https://doi.org/10.3998/mpub.12217076)*[](https://doi.org/10.3998/mpub.12752519)
+  * *[Culture and Content in French: Frameworks for Innovative Curricula](https://doi.org/10.3998/mpub.12217076)*
   * *[Transforming the Authority of the Archive: Undergraduate Pedagogy and Critical Digital Archives](https://doi.org/10.3998/mpub.12752519)*
 * books about the academy and how to change it, such as:
 
