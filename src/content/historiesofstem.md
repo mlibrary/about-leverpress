@@ -2,11 +2,10 @@
 templateKey: historiesofstem-page
 title: Refractions
 ---
-### Refractions
 
 *Series editors:* Darin Hayton (Haverford College) and Babak Ashrafi (Consortium for History of Science, Technology and Medicine)
 
-#### **About the Series**
+## **About the Series**
 
 Developments in science, technology and medicine have never had greater impact, or been more contested. Scholars draw on intellectual, social, and cultural history, as well as other fields in the humanities and social sciences, to describe and analyze these developments. In doing so, they offer historical perspectives on pressing contemporary issues, and provide a platform for broader public engagement with science, technology and medicine. The goal of *Refractions* is to bring those important scholarly currents and debates to a wider audience, including scholars from other fields, college-educated adults, advanced undergraduates or beginning graduate students. 
 

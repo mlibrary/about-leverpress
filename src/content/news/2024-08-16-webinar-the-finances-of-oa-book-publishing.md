@@ -5,11 +5,9 @@ summary: "Join us for a webinar: The Finances of Open Access Book Publishing: A
   Lever Press Case Study"
 date: 2024-08-16T14:24:39.927Z
 ---
-#### **\*T﻿he webinar recording can be found [here](https://drive.google.com/file/d/1cScbFmMBKtzyvFDrMsGAaG8HSDHewbcP/view).***
+**[View the webinar recording](https://drive.google.com/file/d/1cScbFmMBKtzyvFDrMsGAaG8HSDHewbcP/view).**
 
-#### **Join us for a Webinar**
-
-### ***The Finances of Open Access Book Publishing: A Lever Press Case Study***
+## ***The Finances of Open Access Book Publishing: A Lever Press Case Study***
 
 Tuesday, September 3rd 2:00-3:00pm (US Eastern Time) 
 
@@ -21,7 +19,7 @@ By the end of the webinar:
 * You will be able to describe how the funding model and budget of an open access press supports its staff, authors, editorial board, and peer reviewers.
 * You will be able to recognize how Lever Press may be distinctive or similar to other open access publishers.
 
-##### Presenters:﻿
+### Presenters:
 
 **Curtis Brundy**, Associate University Librarian for Scholarly Communication and Collections, Iowa State University; Lever Press Oversight Committee Chair
 

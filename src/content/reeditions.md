@@ -2,7 +2,7 @@
 templateKey: reeditions-page
 title: Re-Editions
 ---
-### Re-Editions: Literary and Cultural Texts Recovered for the Classroom
+## Re-Editions: Literary and Cultural Texts Recovered for the Classroom
 
 *Series editor:* Michelle Burnham and Kirstyn Leuner (Santa Clara University)
 
@@ -10,7 +10,7 @@ title: Re-Editions
 
 <br>The *Re-Editions* series publishes lost, forgotten, or neglected literary and cultural texts, recovering marginalized voices and perspectives in new scholarly editions designed for use in undergraduate classrooms and beyond. Editions in the series will make previously overlooked or long out-of-print works–recovered from physical or digital archives, special collections, and the dustbins of history–newly available in digital editions for students, scholars, and the public. The series aims to recover important and field-reshaping texts from a range of historical periods, geographical regions, and genres, with the goal of making canons and curricula across disciplines more diverse, global, and inclusive.
 
-#### **About the Series**
+### **About the Series**
 
 The scholarly practice of literary recovery can make both quick and lasting impacts on the way that literature, culture, and history is taught in classrooms and understood by students and the public. Many texts commonly taught today (Aphra Behn, Olaudah Equiano, Susanna Rowson, Harriet Jacobs, Rebecca Harding Davis, Zora Neale Hurston, and more) were once out of print, all but forgotten before scholars reprinted and brought new attention to them. The recovery of such texts have made lasting changes to the teaching and understanding of British, American, and global literatures, cultures, and histories. The *Re-Editions* series at Lever Press is dedicated to fostering such recovery efforts across disciplines and to bringing such editions into digital existence.
 
@@ -22,11 +22,11 @@ These born-digital editions are developed to take advantage of durable features 
 
 Proposals for projects should follow [Lever Press’s guidelines](https://www.leverpress.org/authors) and should clarify how a proposed title will contribute to or change current assumptions about literary and cultural history.
 
-#### **Publish with *Re-Editions***
+### **Publish with *Re-Editions***
 
 If you have a project that might be a good fit for the *Re-Editions* series, please reach out to the series editor, Michelle Burnham (mburnham@scu.edu), and to Lever Press's acquiring editor, Sean Guynes (sean@leverpress.org), to describe your project.
 
-#### ***Re-Editions* Advisory Council**
+### ***Re-Editions* Advisory Council**
 
 Jesse Alemán, University of New Mexico
 

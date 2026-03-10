@@ -18,7 +18,7 @@ Julia M. Allen and Jocelyn H. Cohen**
 
 ![Cover for the book "Women Making History: Revolutionary Feminist Postcard Art From Helaine Victoria Press," featuring a light blue background and images of women from three postcards.](assets/9781643150352.jpg)
 
-#### **<br>Book Description**
+### **<br>Book Description**
 
 In 1973, Nancy Poore and Jocelyn Cohen established Helaine Victoria Press to publish women’s history postcards. Spurred by the energy of the second wave feminist movement, they learned how to research histories buried in old books and archives and how to print on a vintage letterpress. The press attracted more participants, closing only in 1991 in response to changing communication technologies.
 
@@ -26,7 +26,7 @@ Drawing on feminist and material rhetorics, Julia M. Allen and press co-founder 
 
 *Women Making History* shows that Helaine Victoria Press’s cards, like the movement from which they emanated, were dynamic and participatory. They were, in short, a multi-directional, open-ended, rhetorically-evolving process of transforming feminist consciousness. The print edition includes many images from the press’s records and the digital edition offers additional images plus audio and video clips from press participants.
 
-#### <br>Authors
+### <br>Authors
 
 Julia M. Allen is professor emerita of English at Sonoma State University. Her previous book, Passionate Commitments: The Lives of Anna Rochester and Grace Hutchins, State University of New York Press, 2013, won the Judy Grahn Award for Lesbian Nonfiction from the Publishing Triangle in 2014. 
 
