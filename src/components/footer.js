@@ -52,6 +52,7 @@ const Footer = () => {
               </li>
               <li><Link to="/impact" className="text-light">Impact</Link></li>
               <li><Link to="/news" className="text-light">News</Link></li>
+              <li><Link to="/accessibility" className="text-light">Accessibility</Link></li>
             </ul>
           </div>
           <div className="col-md-3">
@@ -69,7 +70,7 @@ const Footer = () => {
           <div className="col-md-6">
           <small className="text-light">© {year} <a aria-label="Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
                 <img className="d-inline" alt="Creative Commons Attribution Non-Commercial No Derivatives 4.0 International license" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" />
-              </a> · <a className="text-light" href="https://fulcrum.org/accessibility/">Accessibility</a> · <a className="text-light" href="https://fulcrum.org/preservation">Preservation</a> · <a className="text-light" href="https://fulcrum.org/privacy">Privacy</a> · <a className="text-light" href="https://fulcrum.org/terms">Terms</a></small>    
+              </a> · <a className="text-light" href="https://fulcrum.org/preservation">Preservation</a> · <a className="text-light" href="https://fulcrum.org/privacy">Privacy</a> · <a className="text-light" href="https://fulcrum.org/terms">Terms</a></small>    
           </div>
           <div className="col-md-6 text-right">
             <small className="text-white scala-sans">Powered by</small> <a href="https://fulcrum.org/"><img className="fulcrum" src="/assets/fulcrum-full-white.svg" alt="Fulcrum logo" height="20" width="auto" /></a>
