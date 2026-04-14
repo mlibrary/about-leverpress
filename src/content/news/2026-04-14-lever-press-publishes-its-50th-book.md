@@ -4,6 +4,8 @@ title: Lever Press Publishes Its 50th Book
 summary: In April 2026, Lever Press published its 50th book!
 date: 2026-04-14T15:16:53.150Z
 ---
+<p>
+
 In April 2026, Lever Press published its 50th book.
 
 James Lochtefeld’s *[God’s Own Land: Sacred Landscape, Pilgrim Economy, and Religious Change in the Ganga Himalaya](https://services.publishing.umich.edu/Books/G/God-s-Own-Land)*, the newest entry in the *ASIANetwork Books* series, is Lever’s 50th book and a major milestone in the history of our press. As an open access, peer-reviewed academic monograph by a leading figure in the field, Lochtefeld’s God’s Own Land represents Lever’s commitment to bringing groundbreaking scholarship to everyone—and to making sure authors and readers never have to pay for that availability. As an entry in the *ASIANetwork Books* series, which is a collaboration between Lever Press and [ASIANetwork](https://asianetwork.org/) (a consortium of 140 colleges working to further education about Asia), Lochtefeld’s book also demonstrates our commitment to the value of liberal arts education, teaching, and scholarship.
