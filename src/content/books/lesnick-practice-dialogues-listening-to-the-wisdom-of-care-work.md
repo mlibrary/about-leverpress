@@ -9,7 +9,7 @@ description: "Attending to the wisdom that emerges through care work, Practice
   across fields of endeavor. Written by a collective of practitioners, Practice
   Dialogues calls readers to learn from, not simply about, care work and those
   dedicated to it. "
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/s4655m085?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150970&PRESS=lever
 ---
