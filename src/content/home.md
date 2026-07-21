@@ -22,9 +22,9 @@ videoSection:
   heading: Why publish with Lever Press?
 catalogSection:
   heading: Lever Press Seasonal Catalog
-  catalogImage: /assets/spring2026cover.jpg
+  catalogImage: assets/fall26-cover.jpg
   catalogPdf: <a class="btn btn-primary"
-    href="/assets/lp-spring-2026_final.pdf">Spring 2026 Catalog</a>
+    href="assets/lever-press-fall-2026-catalog-1-.pdf">Fall 2026 Catalog</a>
 mapSection:
   description: Learn about our impact with real-time mapping of views and
     downloads of our published content that occurred over the previous four
