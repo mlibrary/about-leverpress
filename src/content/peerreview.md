@@ -1,5 +1,5 @@
 ---
-templateKey: peerReview-page
+templateKey: about-page
 title: Peer Review Commitments and Guidelines
 ---
  Lever Press is committed to the highest standards of peer review in evaluating the work it considers for publication and to communicating the nature of review to readers in a transparent fashion. As a process of independent and informed evaluation of both argument and originality of scholarly work, peer review is the principal means by which Lever assures the quality and merit of the work it publishes. For each title under consideration, our peer review process addresses three specific questions:

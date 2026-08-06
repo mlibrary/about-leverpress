@@ -36,41 +36,54 @@ const Navbar = () => {
           }
         >
           <ul className="navbar-nav float-right">
-            <li className="nav-item">
-              <Link to="/about" className="nav-link text-dark">
+            <li className="nav-item dropdown">
+              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
                 About
-              </Link>
-            </li>
-            <li>
-              <a href="https://www.fulcrum.org/leverpress" className="nav-link text-dark">
-                Books
               </a>
+              <div className="dropdown-menu">
+                <a className="dropdown-item" href="/mission">Mission</a>                
+                <a className="dropdown-item" href="/governance">Governance structure</a>
+                <a className="dropdown-item" href="/membership">Membership model</a>
+                <a className="dropdown-item" href="/impact">Impact</a>
+              </div>
             </li>
-            <li>
-              <a href="/series" className="nav-link text-dark">
-                Series
+            <li className="nav-item dropdown">
+              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
+                Catalog
               </a>
-            </li>
-            <li>
-              <Link to="/authors" className="nav-link text-dark">
-                Publish With Us
-              </Link>
-            </li>
-            <li>
-              <Link to="/join" className="nav-link text-dark">
-                Join Us
-              </Link>
-            </li>
-            <li>
-              <Link to="/impact" className="nav-link text-dark">
-                Impact
-              </Link>
-            </li>
-            <li>
-              <Link to="/news" className="nav-link text-dark">
-                News
-              </Link>
+              <div className="dropdown-menu">
+                <a className="dropdown-item" href="https://fulcrum.org/leverpress">Books</a>                
+                <a className="dropdown-item" href="/series">Series</a>
+                <a className="dropdown-item" href="/forthcoming">Forthcoming</a>
+                <a className="dropdown-item" href="/libraries">Information for libraries</a>
+              </div>
             </li>            
+            <li className="nav-item dropdown">
+              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
+                Publish With Us
+              </a>
+              <div className="dropdown-menu">
+                <a className="dropdown-item" href="/authors">For authors</a>                
+                <a className="dropdown-item" href="/peerreview">Peer review</a>
+                <a className="dropdown-item" href="/awards">Awards and prizes</a>
+                <a className="dropdown-item" href="/testimonials">Testimonials</a>
+              </div>
+            </li>
+            <li className="nav-item dropdown">
+              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
+                Support Us
+              </a>
+              <div className="dropdown-menu">
+                <a className="dropdown-item" href="/oa-investment-criteria">Investment criteria</a>                
+                <a className="dropdown-item" href="/join">Join us as a supporter</a>
+                <a className="dropdown-item" href="/supporters">Our supporters</a>
+              </div>
+            </li>
+            <li>
+              <Link to="/contact" className="nav-link text-dark">
+                Contact
+              </Link>
+            </li>                                
           </ul>
         </div>
       </div>

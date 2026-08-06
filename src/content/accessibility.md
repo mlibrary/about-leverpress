@@ -1,5 +1,5 @@
 ---
-templateKey: accessibility-page
+templateKey: about-page
 title: Accessibility
 ---
 <p class="lead">We make every reasonable effort to ensure our websites, platforms, and ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access.</p>

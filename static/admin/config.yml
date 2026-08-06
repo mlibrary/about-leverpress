@@ -102,96 +102,26 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/accessibility.md"
-        name: accessibility
-        label: Accessibility
+      - file: "src/content/mission.md"
+        name: mission
+        label: Our Mission
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: accessibility-page }
-          - { name: title, label: Accessibility }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Our Mission }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/authors.md"
-        name: authors
-        label: Authors
+      - file: "src/content/governance.md"
+        name: governance
+        label: Governance Structure
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
-          - { name: title, label: Authors }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Governance Structure }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/join.md"
-        name: join
-        label: Join
+      - file: "src/content/membership.md"
+        name: membership
+        label: Membership Model
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: join-page }
-          - { name: title, label: Join }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/oa-investment-criteria.md"
-        name: oainvestmentcriteria
-        label: OA Investment Criteria
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: oaInvestmentCriteria-page }
-          - { name: title, label: OA Investment Criteria }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/series.md"
-        name: series
-        label: Series
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
-          - { name: title, label: Series }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/asianetwork.md"
-        name: asianetwork
-        label: AsiaNetwork Books
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: asianetwork-page }
-          - { name: title, label: AsiaNetwork Books }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/videographicbooks.md"
-        name: videographicbooks
-        label: Videographic Books
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: videographicbooks-page }
-          - { name: title, label: Videographic Books }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/reeditions.md"
-        name: reeditions
-        label: Re-Editions
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: reeditions-page }
-          - { name: title, label: Re-Editions }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/historiesofstem.md"
-        name: historiesofstem
-        label: Histories of STEM
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: historiesofstem-page }
-          - { name: title, label: Histories of STEM }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/filmminutes.md"
-        name: filmminutes
-        label: film|minutes
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: filmminutes-page }
-          - { name: title, label: film|minutes }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/cinemasofasia.md"
-        name: cinemasofasia
-        label: Cinemas of Asia
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: cinemasofasia-page }
-          - { name: title, label: Cinemas of Asia }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/sfeh.md"
-        name: sciencefiction
-        label: Science Fiction and the Environmental Humanities
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: sciencefiction-page }
-          - { name: title, label: Science Fiction and the Environmental Humanities }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/peerreview.md"
-        name: peerReview
-        label: "Peer Review"
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: peerreview-page }
-          - { name: title, label: Peer Review }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Membership Model }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/impact.md"
         name: impact
@@ -207,4 +137,137 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: stories-page }
           - { name: title, label: Stories }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/accessibility.md"
+        name: accessibility
+        label: Accessibility
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Accessibility }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/series.md"
+        name: series
+        label: Series
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Series }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/asianetwork.md"
+        name: asianetwork
+        label: AsiaNetwork Books
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: AsiaNetwork Books }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/videographicbooks.md"
+        name: videographicbooks
+        label: Videographic Books
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Videographic Books }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/reeditions.md"
+        name: reeditions
+        label: Re-Editions
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Re-Editions }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/historiesofstem.md"
+        name: historiesofstem
+        label: Histories of STEM
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Histories of STEM }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/filmminutes.md"
+        name: filmminutes
+        label: film|minutes
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: film|minutes }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/cinemasofasia.md"
+        name: cinemasofasia
+        label: Cinemas of Asia
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Cinemas of Asia }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/sfeh.md"
+        name: sciencefiction
+        label: Science Fiction and the Environmental Humanities
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Science Fiction and the Environmental Humanities }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/forthcoming.md"
+        name: forthcoming
+        label: Forthcoming Titles
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Forthcoming Titles }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/libraries.md"
+        name: libraries
+        label: Information for Libraries
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Information for Libraries }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/authors.md"
+        name: authors
+        label: Authors
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Authors }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/peerreview.md"
+        name: peerReview
+        label: "Peer Review"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Peer Review }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/awards.md"
+        name: awards
+        label: Awards and Prizes
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Awards and Prizes }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/testimonials.md"
+        name: testimonials
+        label: Testimonials
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Testimonials }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/oa-investment-criteria.md"
+        name: oainvestmentcriteria
+        label: OA Investment Criteria
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: oaInvestmentCriteria-page }
+          - { name: title, label: OA Investment Criteria }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/join.md"
+        name: join
+        label: Join
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: join-page }
+          - { name: title, label: Join }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/supporters.md"
+        name: supporters
+        label: Our Supporters
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Our Supporters }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/contact.md"
+        name: contact
+        label: Contact Us
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Contact Us }
           - { name: body, label: Body, widget: markdown }

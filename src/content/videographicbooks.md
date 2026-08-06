@@ -1,5 +1,5 @@
 ---
-templateKey: videographicbooks-page
+templateKey: series-page
 title: Videographic Books
 ---
 ## Videographic Books: Film and Media Scholarship in Sound and Image

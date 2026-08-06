@@ -1,5 +1,5 @@
 ---
-templateKey: historiesofstem-page
+templateKey: series-page
 title: Refractions
 ---
 

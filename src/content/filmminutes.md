@@ -1,5 +1,5 @@
 ---
-templateKey: filmminutes-page
+templateKey: series-page
 title: film|minutes
 ---
 

@@ -1,5 +1,5 @@
 ---
-templateKey: authors-page
+templateKey: about-page
 title: Publish With Us
 ---
 ## Authors

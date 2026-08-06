@@ -1,5 +1,5 @@
 ---
-templateKey: reeditions-page
+templateKey: series-page
 title: Re-Editions
 ---
 ## Re-Editions: Literary and Cultural Texts Recovered for the Classroom

@@ -1,5 +1,5 @@
 ---
-templateKey: sciencefiction-page
+templateKey: series-page
 title: EcoSpeculations
 ---
 ## EcoSpeculations: Science Fiction and the Environmental Humanities

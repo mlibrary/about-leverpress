@@ -1,5 +1,5 @@
 ---
-templateKey: cinemasofasia-page
+templateKey: series-page
 title: Cinemas of Asia
 ---
 *Series editors:* Mridula Nath Chakraborty, Andrew David Jackson and Jason Jones (Monash University)
