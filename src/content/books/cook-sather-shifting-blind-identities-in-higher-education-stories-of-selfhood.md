@@ -10,7 +10,7 @@ description: "Shifting Blind Identities in Higher Education features accounts of
   institutional contexts illuminate “common but not comparable” experiences, as
   well as importantly different ones, and explore different intersections of
   identity while navigating higher education spaces. "
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/v979v676b?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643150994&PRESS=lever
 ---
