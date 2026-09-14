@@ -9,7 +9,7 @@ description: "Human* Being: On Otherkin Identity and Digital Community is an
   of practice whose members identify as other-than-human—breaking down barriers
   of identity and calling into question assumptions about what it means to be a
   human. "
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/0c483n96j?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643151038&PRESS=lever
 ---
