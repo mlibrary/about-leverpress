@@ -47,7 +47,6 @@ The Oversight Committee is responsible for overall strategic guidance of the Lev
 **Current Oversight Committee members:**
 
 * Mark Christel, Librarian of the College, Grinnell College
-* Nancy Falciani-White, Library Director, Randolph-Macon College (Secretary)
 * Lisa Forrest, The Leland M. Park Director of the Davidson College Library, Davidson College
 * C﻿hris Hollister, Head of Scholarly Communication, University at Buffalo (SUNY)
 * Anne Houston, Director of Libraries and College Librarian, McCabe Library, Swarthmore College (Treasurer)
