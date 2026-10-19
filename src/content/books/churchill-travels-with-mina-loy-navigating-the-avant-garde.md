@@ -10,7 +10,7 @@ description: Artist and writer Mina Loy (1882-1966) traversed continents,
   Bowery. Travels with Mina Loy offers an illustrated tour of Mina Loy’s long
   and varied career, contextualized with in-depth explorations of key places
   that shaped her life and work.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/pk02cf39x?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643151052&PRESS=lever
 ---
