@@ -14,6 +14,8 @@ This series publishes high-quality, original monographs embodying a rigorous lib
 
 *Series editor:* Mridula Nath Chakraborty, Andrew David Jackson and Jason Jones (Monash University)
 
+<a class="btn btn-secondary" href="https://www.fulcrum.org/leverpress?f[series_sim]=Cinemas+of+Asia&locale=en">Read <i>Cinemas of Asia</i></a>
+
 *Cinemas of Asia* is the first series devoted to the cinemas of South, Southeast, East, and Central Asia and global Asian diasporas. Each short-format volume of 30,000-40,000 words provides a critical analysis and interpretation of a single movie. The series aims to capture the diversity of Asian cinema for fans, lovers, and students of Asian film. Each volume is accessible, informative, written in an engaging style, and open to non-experts, academics, students, and cinephiles. All the books tell a story about why a particular film is worthy of consideration and how it is viewed within its context country.<br> <br>
 
 ## [EcoSpeculations: Science Fiction and the Environmental Humanities](https://www.leverpress.org/sfeh/)
