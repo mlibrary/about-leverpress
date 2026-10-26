@@ -10,7 +10,7 @@ description: "The inaugural volume of the Cinemas of Asia series, this book
   which Lee attempted to bring his film into production, the cinematic cycle
   from which it emerged, the unique style that captivated festival juries but
   divided audiences. "
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/bv73c390w?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643151076&PRESS=lever
 ---
