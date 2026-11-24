@@ -11,7 +11,7 @@ description: The methods used to establish and defend copyright varied across
   preserved. This edited volume includes essays based on conference papers given
   at the 17th Domitor conference and includes case studies from a range of
   national, historical, and cultural contexts.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/9306t3071?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781643151090&PRESS=lever
 ---
